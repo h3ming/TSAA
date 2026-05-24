@@ -1,0 +1,28 @@
+header {
+    padding: 12px 24px;
+    background-color: rgb(85, 85, 245);
+}
+
+nav {
+    display: flex;
+    gap: 16px;
+    padding: 8px 24px;
+    background-color: rgb(122, 122, 236);
+}
+
+.body {
+    display: flex;
+}
+
+.sidebar {
+    width: 275px;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+}
+
+.main-content {
+    flex: 1; 
+}
+.main-content p {
+    padding: 20px;
+}

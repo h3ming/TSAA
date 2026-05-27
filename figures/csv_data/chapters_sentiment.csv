@@ -1,0 +1,193 @@
+narr_pos,book,book_short,chapter_order,heading_id,section_type,part_number,pov,heading_text,n_paras,compound_mean,compound_std,pos_mean,neg_mean
+1,The Way of Kings,WoK,1,prelude,prelude,,Kalak,Prelude to the Stormlight Archive,45,-0.11957,0.52754,0.077,0.11227
+2,The Way of Kings,WoK,2,prologue,prologue,,Szeth,Prologue: To Kill,129,-0.14111,0.51692,0.05839,0.10015
+3,The Way of Kings,WoK,4,chapter_1,chapter,1.0,Cenn,Chapter 1: Stormblessed,142,-0.15784,0.49894,0.05859,0.10589
+4,The Way of Kings,WoK,5,chapter_2,chapter,1.0,Kaladin,Chapter 2: Honor Is Dead,141,-0.05163,0.47829,0.08599,0.09856
+5,The Way of Kings,WoK,6,chapter_3,chapter,1.0,Shallan,Chapter 3: City of Bells,123,0.30363,0.45977,0.13092,0.04618
+6,The Way of Kings,WoK,7,chapter_4,chapter,1.0,Kaladin,Chapter 4: The Shattered Plains,112,0.02219,0.46246,0.07844,0.08009
+7,The Way of Kings,WoK,8,chapter_5,chapter,1.0,Shallan,Chapter 5: Heretic,132,0.13412,0.43147,0.10677,0.059
+8,The Way of Kings,WoK,9,chapter_6,chapter,1.0,Kaladin,Chapter 6: Bridge Four,220,-0.0973,0.45008,0.06398,0.1078
+9,The Way of Kings,WoK,10,chapter_7,chapter,1.0,Shallan,Chapter 7: Anything Reasonable,185,0.18199,0.48883,0.12111,0.06586
+10,The Way of Kings,WoK,11,chapter_8,chapter,1.0,Shallan,Chapter 8: Nearer the Flame,235,0.14858,0.48283,0.12221,0.06608
+11,The Way of Kings,WoK,12,chapter_9,chapter,1.0,Kaladin,Chapter 9: Damnation,65,-0.3137,0.42274,0.04329,0.12755
+12,The Way of Kings,WoK,13,chapter_10,chapter,1.0,Kaladin,Chapter 10: Stories of Surgeons,73,0.14449,0.46034,0.10958,0.07314
+13,The Way of Kings,WoK,14,chapter_11,chapter,1.0,Kaladin,Chapter 11: Droplets,111,-0.08385,0.48286,0.06556,0.09287
+14,The Way of Kings,WoK,15,interlude_1,interlude,1.0,Ishikk,Interlude I-1: Ishikk,67,0.05468,0.47298,0.10088,0.08525
+15,The Way of Kings,WoK,16,interlude_2,interlude,1.0,Nan Balat,Interlude I-2: Nan Balat,32,0.0798,0.56968,0.09359,0.09672
+16,The Way of Kings,WoK,17,interlude_3,interlude,1.0,Szeth,Interlude I-3: The Glory of Ignorance,71,0.03516,0.42724,0.08249,0.05559
+17,The Way of Kings,WoK,19,chapter_12,chapter,2.0,Dalinar,Chapter 12: Unity,252,0.05526,0.4533,0.09144,0.06939
+18,The Way of Kings,WoK,20,chapter_13,chapter,2.0,Dalinar/Adolin,Chapter 13: Ten Heartbeats,115,-0.09664,0.48626,0.06169,0.10002
+19,The Way of Kings,WoK,21,chapter_14,chapter,2.0,Kaladin,Chapter 14: Payday,142,0.00744,0.43065,0.07751,0.063
+20,The Way of Kings,WoK,22,chapter_15,chapter,2.0,Dalinar/Adolin,Chapter 15: The Decoy,306,-0.02143,0.46624,0.09055,0.08184
+21,The Way of Kings,WoK,23,chapter_16,chapter,2.0,Kaladin,Chapter 16: Cocoons,189,0.06048,0.43683,0.0909,0.0698
+22,The Way of Kings,WoK,24,chapter_17,chapter,2.0,Kaladin,"Chapter 17: A Bloody, Red Sunset",209,-0.14067,0.46323,0.06336,0.09382
+23,The Way of Kings,WoK,25,chapter_18,chapter,2.0,Dalinar,Chapter 18: Highprince of War,290,0.07342,0.47442,0.10257,0.08162
+24,The Way of Kings,WoK,26,chapter_19,chapter,2.0,Dalinar,Chapter 19: Starfalls,193,-0.02597,0.4648,0.07037,0.07622
+25,The Way of Kings,WoK,27,chapter_20,chapter,2.0,Kaladin,Chapter 20: Scarlet,29,-0.07381,0.5253,0.062,0.11224
+26,The Way of Kings,WoK,28,chapter_21,chapter,2.0,Kaladin,Chapter 21: Why Men Lie,183,0.00479,0.43494,0.10184,0.07971
+27,The Way of Kings,WoK,29,chapter_22,chapter,2.0,Dalinar,"Chapter 22: Eyes, Hands, or Spheres?",183,0.08806,0.45581,0.10074,0.06286
+28,The Way of Kings,WoK,30,chapter_23,chapter,2.0,Kaladin,Chapter 23: Many Uses,207,0.00578,0.44823,0.08147,0.07446
+29,The Way of Kings,WoK,31,chapter_24,chapter,2.0,Dalinar/Adolin,Chapter 24: The Gallery of Maps,131,0.04904,0.46687,0.10558,0.06818
+30,The Way of Kings,WoK,32,chapter_25,chapter,2.0,Kaladin,Chapter 25: The Butcher,114,0.08032,0.43847,0.08363,0.06533
+31,The Way of Kings,WoK,33,chapter_26,chapter,2.0,Dalinar,Chapter 26: Stillness,189,0.00106,0.51888,0.11208,0.08476
+32,The Way of Kings,WoK,34,chapter_27,chapter,2.0,Kaladin,Chapter 27: Chasm Duty,302,0.0231,0.45724,0.08224,0.06729
+33,The Way of Kings,WoK,35,chapter_28,chapter,2.0,Dalinar/Adolin,Chapter 28: Decision,327,0.06598,0.41614,0.08182,0.06189
+34,The Way of Kings,WoK,36,interlude_4,interlude,2.0,Rysn,Interlude I-4: Rysn,87,0.13049,0.45252,0.09871,0.06083
+35,The Way of Kings,WoK,37,interlude_5,interlude,2.0,Axies,Interlude I-5: Axies the Collector,69,0.12197,0.46202,0.09659,0.07091
+36,The Way of Kings,WoK,38,interlude_6,interlude,2.0,Szeth,Interlude I-6: A Work of Art,83,-0.09763,0.50935,0.06718,0.09752
+37,The Way of Kings,WoK,40,chapter_29,chapter,3.0,Shallan,Chapter 29: Errorgance,251,0.15497,0.48338,0.14625,0.07726
+38,The Way of Kings,WoK,41,chapter_30,chapter,3.0,Kaladin,Chapter 30: Darkness Unseen,117,0.02962,0.46705,0.09062,0.07862
+39,The Way of Kings,WoK,42,chapter_31,chapter,3.0,Kaladin,Chapter 31: Beneath the Skin,61,-0.09843,0.47099,0.05423,0.09075
+40,The Way of Kings,WoK,43,chapter_32,chapter,3.0,Kaladin,Chapter 32: Side Carry,155,-0.02298,0.46506,0.06592,0.07135
+41,The Way of Kings,WoK,44,chapter_33,chapter,3.0,Shallan,Chapter 33: Cymatics,200,0.1789,0.41556,0.10872,0.05528
+42,The Way of Kings,WoK,45,chapter_34,chapter,3.0,Kaladin,Chapter 34: Stormwall,73,-0.0932,0.44175,0.06342,0.06916
+43,The Way of Kings,WoK,46,chapter_35,chapter,3.0,Kaladin,Chapter 35: A Light by Which to See,45,-0.2526,0.41707,0.04642,0.09009
+44,The Way of Kings,WoK,47,chapter_36,chapter,3.0,Shallan,Chapter 36: The Lesson,175,0.03733,0.45082,0.08021,0.06618
+45,The Way of Kings,WoK,48,chapter_37,chapter,3.0,Kaladin,Chapter 37: Sides,228,0.04075,0.38906,0.07433,0.07033
+46,The Way of Kings,WoK,49,chapter_38,chapter,3.0,Kaladin,Chapter 38: Envisager,62,-0.0462,0.48305,0.07981,0.09324
+47,The Way of Kings,WoK,50,chapter_39,chapter,3.0,Shallan,Chapter 39: Burned Into Her,86,-0.03705,0.58147,0.08128,0.09865
+48,The Way of Kings,WoK,51,chapter_40,chapter,3.0,Kaladin,Chapter 40: Eyes of Red and Blue,170,-0.01063,0.50562,0.08225,0.08401
+49,The Way of Kings,WoK,52,chapter_41,chapter,3.0,Kaladin,Chapter 41: Of Alds and Milp,80,-0.12075,0.43893,0.05912,0.08732
+50,The Way of Kings,WoK,53,chapter_42,chapter,3.0,Shallan,Chapter 42: Beggars and Barmaids,204,0.1479,0.46267,0.1338,0.06751
+51,The Way of Kings,WoK,54,chapter_43,chapter,3.0,Kaladin,Chapter 43: The Wretch,174,-0.1474,0.46221,0.07787,0.12394
+52,The Way of Kings,WoK,55,chapter_44,chapter,3.0,Kaladin,Chapter 44: The Weeping,173,0.11138,0.45599,0.09605,0.05348
+53,The Way of Kings,WoK,56,chapter_45,chapter,3.0,Shallan,Chapter 45: Shadesmar,272,0.02961,0.44685,0.09309,0.06588
+54,The Way of Kings,WoK,57,chapter_46,chapter,3.0,Kaladin,Chapter 46: Child of Tanavast,251,-0.02204,0.47857,0.07489,0.0802
+55,The Way of Kings,WoK,58,chapter_47,chapter,3.0,Kaladin,Chapter 47: Stormblessings,164,-0.18162,0.45462,0.06024,0.12994
+56,The Way of Kings,WoK,59,chapter_48,chapter,3.0,Shallan,Chapter 48: Strawberry,137,0.01544,0.43013,0.09818,0.0833
+57,The Way of Kings,WoK,60,chapter_49,chapter,3.0,Kaladin,Chapter 49: To Care,111,-0.00743,0.45669,0.1005,0.08366
+58,The Way of Kings,WoK,61,chapter_50,chapter,3.0,Shallan,Chapter 50: Backbreaker Powder,52,-0.13401,0.46624,0.08658,0.12298
+59,The Way of Kings,WoK,62,chapter_51,chapter,3.0,Kaladin,Chapter 51: Sas Nahn,72,-0.03078,0.50066,0.0906,0.10899
+60,The Way of Kings,WoK,63,interlude_7,interlude,3.0,Baxil,Interlude I-7: Baxil,48,0.15069,0.41762,0.10373,0.04985
+61,The Way of Kings,WoK,64,interlude_8,interlude,3.0,Geranid,Interlude I-8: Geranid,59,0.18044,0.38022,0.09949,0.04461
+62,The Way of Kings,WoK,65,interlude_9,interlude,3.0,Szeth,Interlude I-9: Death Wears White,78,-0.25921,0.45184,0.04522,0.11813
+63,The Way of Kings,WoK,67,chapter_52,chapter,4.0,Dalinar/Adolin,Chapter 52: A Highway to the Sun,231,0.06447,0.46079,0.09374,0.0732
+64,The Way of Kings,WoK,68,chapter_53,chapter,4.0,Kaladin,Chapter 53: Dunny,82,-0.07157,0.44156,0.06828,0.10341
+65,The Way of Kings,WoK,69,chapter_54,chapter,4.0,Dalinar,Chapter 54: Gibletish,186,0.03235,0.42681,0.08103,0.06504
+66,The Way of Kings,WoK,70,chapter_55,chapter,4.0,Kaladin,Chapter 55: An Emerald Broam,191,0.00062,0.4526,0.07308,0.07513
+67,The Way of Kings,WoK,71,chapter_56,chapter,4.0,Dalinar,Chapter 56: That Storming Book,117,-0.10889,0.51297,0.07948,0.11058
+68,The Way of Kings,WoK,72,chapter_57,chapter,4.0,Kaladin,Chapter 57: Wandersail,325,0.00788,0.46166,0.0849,0.07509
+69,The Way of Kings,WoK,73,chapter_58,chapter,4.0,Dalinar/Adolin,Chapter 58: The Journey,231,0.11702,0.49436,0.11058,0.07684
+70,The Way of Kings,WoK,74,chapter_59,chapter,4.0,Kaladin,Chapter 59: An Honor,226,0.0697,0.45438,0.08408,0.07778
+71,The Way of Kings,WoK,75,chapter_60,chapter,4.0,Dalinar,Chapter 60: That Which We Cannot Have,149,0.09443,0.47721,0.11719,0.06377
+72,The Way of Kings,WoK,76,chapter_61,chapter,4.0,Dalinar,Chapter 61: Right for Wrong,130,0.06449,0.47528,0.13103,0.07935
+73,The Way of Kings,WoK,77,chapter_62,chapter,4.0,Kaladin,Chapter 62: Three Glyphs,169,-0.03005,0.4791,0.08025,0.08757
+74,The Way of Kings,WoK,78,chapter_63,chapter,4.0,Kaladin,Chapter 63: Fear,77,0.13379,0.45749,0.11322,0.07216
+75,The Way of Kings,WoK,79,chapter_64,chapter,4.0,Dalinar/Adolin,Chapter 64: A Man of Extremes,112,0.06778,0.44968,0.10761,0.06593
+76,The Way of Kings,WoK,80,chapter_65,chapter,4.0,Dalinar,Chapter 65: The Tower,102,-0.06108,0.48052,0.06772,0.09143
+77,The Way of Kings,WoK,81,chapter_66,chapter,4.0,Dalinar,Chapter 66: Codes,68,-0.12991,0.49037,0.08112,0.10494
+78,The Way of Kings,WoK,82,chapter_67,chapter,4.0,Kaladin,Chapter 67: Words,283,-0.16886,0.47444,0.05927,0.12477
+79,The Way of Kings,WoK,83,chapter_68,chapter,4.0,Dalinar,Chapter 68: Eshonai,198,-0.04894,0.49569,0.08067,0.09237
+80,The Way of Kings,WoK,84,chapter_69,chapter,4.0,Dalinar,Chapter 69: Justice,255,0.00228,0.48706,0.09144,0.08708
+81,The Way of Kings,WoK,86,chapter_70,chapter,5.0,Shallan,Chapter 70: Sea of Glass,85,-0.10632,0.49253,0.07942,0.09461
+82,The Way of Kings,WoK,87,chapter_71,chapter,5.0,Szeth,Chapter 71: Recorded in Blood,85,-0.18481,0.50259,0.06679,0.13282
+83,The Way of Kings,WoK,88,chapter_72,chapter,5.0,Shallan,Chapter 72: Veristitalian,42,-0.02685,0.40238,0.05638,0.09607
+84,The Way of Kings,WoK,89,chapter_73,chapter,5.0,Kaladin,Chapter 73: Trust,145,0.1397,0.43723,0.12347,0.06363
+85,The Way of Kings,WoK,90,chapter_74,chapter,5.0,Shallan,Chapter 74: Ghostblood,31,-0.15938,0.47323,0.06016,0.10071
+86,The Way of Kings,WoK,91,chapter_75,chapter,5.0,Dalinar,Chapter 75: In the Top Room,70,-0.04615,0.43428,0.06793,0.08521
+87,The Way of Kings,WoK,92,epilogue,epilogue,5.0,Wit,Epilogue: Of Most Worth,49,0.17862,0.51888,0.10714,0.07563
+88,Words of Radiance,WoR,1,prologue,prologue,,Jasnah,Prologue: To Question,196,-0.07195,0.41162,0.05784,0.09016
+89,Words of Radiance,WoR,3,chapter_1,chapter,1.0,Shallan,Chapter 1: Santhid,248,0.09379,0.47783,0.10158,0.07086
+90,Words of Radiance,WoR,4,chapter_2,chapter,1.0,Kaladin,Chapter 2: Bridge Four,166,0.00826,0.48076,0.07263,0.06975
+91,Words of Radiance,WoR,5,chapter_3,chapter,1.0,Shallan,Chapter 3: Pattern,80,0.14216,0.42462,0.09189,0.0488
+92,Words of Radiance,WoR,6,chapter_4,chapter,1.0,Dalinar,Chapter 4: Taker of Secrets,153,0.05381,0.4258,0.08219,0.06202
+93,Words of Radiance,WoR,7,chapter_5,chapter,1.0,Kaladin,Chapter 5: Ideals,287,0.0917,0.45055,0.10845,0.06321
+94,Words of Radiance,WoR,8,chapter_6,chapter,1.0,Shallan,Chapter 6: Terrible Destruction,163,0.05663,0.41734,0.08658,0.0843
+95,Words of Radiance,WoR,9,chapter_7,chapter,1.0,Shallan,Chapter 7: Open Flame,113,-0.09541,0.38043,0.04013,0.1005
+96,Words of Radiance,WoR,10,chapter_8,chapter,1.0,Dalinar,Chapter 8: Knives in the Back • Soldiers on the Field,78,0.00267,0.48177,0.08662,0.10517
+97,Words of Radiance,WoR,11,chapter_9,chapter,1.0,Kaladin,Chapter 9: Walking the Grave,121,0.06876,0.4267,0.09685,0.06111
+98,Words of Radiance,WoR,12,chapter_10,chapter,1.0,Shallan,Chapter 10: Red Carpet Once White,17,-0.01358,0.32846,0.073,0.067
+99,Words of Radiance,WoR,13,chapter_11,chapter,1.0,Shallan,Chapter 11: An Illusion of Perception,164,-0.03441,0.43087,0.08619,0.07776
+100,Words of Radiance,WoR,14,chapter_12,chapter,1.0,Kaladin,Chapter 12: Hero,178,0.05833,0.43531,0.0942,0.06156
+101,Words of Radiance,WoR,15,interlude_1,interlude,1.0,Eshonai,Interlude I-1,100,-0.001,0.52792,0.08308,0.0767
+102,Words of Radiance,WoR,16,interlude_2,interlude,1.0,Ym,Interlude I-2,127,0.06926,0.38872,0.07706,0.06732
+103,Words of Radiance,WoR,17,interlude_3,interlude,1.0,Rysn,Interlude I-3,280,0.11757,0.42331,0.09082,0.05955
+104,Words of Radiance,WoR,18,interlude_4,interlude,1.0,Eshonai,Interlude I-4,155,0.03731,0.45739,0.09385,0.08739
+105,Words of Radiance,WoR,20,chapter_13,chapter,2.0,Shallan,Chapter 13: The Day's Masterpiece,113,0.02555,0.41823,0.10447,0.07648
+106,Words of Radiance,WoR,21,chapter_14,chapter,2.0,Adolin,Chapter 14: Ironstance,119,0.0111,0.46522,0.09032,0.09687
+107,Words of Radiance,WoR,22,chapter_15,chapter,2.0,Shallan,Chapter 15: A Hand with the Tower,80,-0.10258,0.43879,0.06952,0.10726
+108,Words of Radiance,WoR,23,chapter_16,chapter,2.0,Kaladin,Chapter 16: Swordmaster,167,0.08414,0.38955,0.07783,0.04874
+109,Words of Radiance,WoR,24,chapter_17,chapter,2.0,Shallan,Chapter 17: A Pattern,189,-0.0298,0.44625,0.08458,0.08724
+110,Words of Radiance,WoR,25,chapter_18,chapter,2.0,Kaladin,Chapter 18: Bruises,168,0.01554,0.4154,0.09385,0.0905
+111,Words of Radiance,WoR,26,chapter_19,chapter,2.0,Shallan,Chapter 19: Safe Things,57,0.12485,0.4069,0.07975,0.05265
+112,Words of Radiance,WoR,27,chapter_20,chapter,2.0,Shallan,Chapter 20: The Coldness of Clarity,105,0.02553,0.43688,0.08053,0.07774
+113,Words of Radiance,WoR,28,chapter_21,chapter,2.0,Shallan,Chapter 21: Ashes,91,-0.00782,0.44964,0.09014,0.08032
+114,Words of Radiance,WoR,29,chapter_22,chapter,2.0,Kaladin,Chapter 22: Lights in the Storm,188,0.04771,0.40178,0.07188,0.04832
+115,Words of Radiance,WoR,30,chapter_23,chapter,2.0,Kaladin,Chapter 23: Assassin,70,0.10947,0.42918,0.11796,0.06553
+116,Words of Radiance,WoR,31,chapter_24,chapter,2.0,Shallan,Chapter 24: Tyn,160,0.08516,0.45254,0.12221,0.06232
+117,Words of Radiance,WoR,32,chapter_25,chapter,2.0,Kaladin,Chapter 25: Monsters,175,0.1099,0.41616,0.09725,0.06045
+118,Words of Radiance,WoR,33,chapter_26,chapter,2.0,Adolin,Chapter 26: The Feather,137,0.09452,0.4416,0.10006,0.06239
+119,Words of Radiance,WoR,34,chapter_27,chapter,2.0,Shallan,Chapter 27: Fabrications to Distract,31,0.01892,0.3371,0.06055,0.06503
+120,Words of Radiance,WoR,35,chapter_28,chapter,2.0,Shallan,Chapter 28: Boots,128,0.08552,0.41846,0.1078,0.07481
+121,Words of Radiance,WoR,36,chapter_29,chapter,2.0,Sadeas,Chapter 29: Rule of Blood,100,0.03605,0.51344,0.10602,0.08761
+122,Words of Radiance,WoR,37,chapter_30,chapter,2.0,Shallan,Chapter 30: Nature Blushing,102,0.17815,0.41031,0.11188,0.05505
+123,Words of Radiance,WoR,38,chapter_31,chapter,2.0,Shallan,Chapter 31: The Stillness Before,98,0.08544,0.45077,0.09728,0.0675
+124,Words of Radiance,WoR,39,chapter_32,chapter,2.0,Kaladin,Chapter 32: The One Who Hates,153,-0.10109,0.395,0.05399,0.08569
+125,Words of Radiance,WoR,40,chapter_33,chapter,2.0,Kaladin,Chapter 33: Burdens,126,-0.05352,0.40501,0.06393,0.09531
+126,Words of Radiance,WoR,41,chapter_34,chapter,2.0,Shallan,Chapter 34: Blossoms and Cake,111,-0.0555,0.4827,0.08096,0.11419
+127,Words of Radiance,WoR,42,interlude_5,interlude,2.0,Eshonai,Interlude I-5,43,0.08043,0.44905,0.09219,0.08251
+128,Words of Radiance,WoR,43,interlude_6,interlude,2.0,Zahel,Interlude I-6,21,-0.05915,0.38632,0.04671,0.04538
+129,Words of Radiance,WoR,44,interlude_7,interlude,2.0,Talk,Interlude I-7,59,0.01808,0.34677,0.10614,0.05236
+130,Words of Radiance,WoR,45,interlude_8,interlude,2.0,Eshonai,Interlude I-8,22,0.13265,0.42775,0.13232,0.04159
+131,Words of Radiance,WoR,47,chapter_35,chapter,3.0,Adolin,Chapter 35: The Multiplied Strain of Simultaneous Infusion,139,0.05342,0.45926,0.09071,0.07041
+132,Words of Radiance,WoR,48,chapter_36,chapter,3.0,Shallan,Chapter 36: A New Woman,176,0.08533,0.45493,0.11258,0.05246
+133,Words of Radiance,WoR,49,chapter_37,chapter,3.0,Adolin,Chapter 37: A Matter of Perspective,94,0.08517,0.42398,0.09106,0.0709
+134,Words of Radiance,WoR,50,chapter_38,chapter,3.0,Shallan,Chapter 38: The Silent Storm,182,0.08061,0.47019,0.09398,0.07507
+135,Words of Radiance,WoR,51,chapter_39,chapter,3.0,Shallan,Chapter 39: Heterochromatic,119,0.03456,0.44365,0.08073,0.07245
+136,Words of Radiance,WoR,52,chapter_40,chapter,3.0,Shallan,Chapter 40: Palona,88,0.0856,0.38873,0.10395,0.04342
+137,Words of Radiance,WoR,53,chapter_41,chapter,3.0,Kaladin,Chapter 41: Scars,257,0.05636,0.3961,0.08618,0.06182
+138,Words of Radiance,WoR,54,chapter_42,chapter,3.0,Shallan,Chapter 42: Mere Vapors,87,0.0541,0.34085,0.05003,0.03714
+139,Words of Radiance,WoR,55,chapter_43,chapter,3.0,Shallan,Chapter 43: The Ghostbloods,154,-0.00442,0.42682,0.07249,0.05816
+140,Words of Radiance,WoR,56,chapter_44,chapter,3.0,Kaladin,Chapter 44: One Form of Justice,232,0.04964,0.43957,0.08083,0.07532
+141,Words of Radiance,WoR,57,chapter_45,chapter,3.0,Shallan,Chapter 45: Middlefest,248,0.07569,0.42307,0.0831,0.05796
+142,Words of Radiance,WoR,58,chapter_46,chapter,3.0,Kaladin,Chapter 46: Patriots,266,0.0809,0.42616,0.09762,0.07043
+143,Words of Radiance,WoR,59,chapter_47,chapter,3.0,Shallan,Chapter 47: Feminine Wiles,116,0.12364,0.38917,0.07894,0.05028
+144,Words of Radiance,WoR,60,chapter_48,chapter,3.0,Shallan,Chapter 48: No More Weakness,163,0.06219,0.43167,0.09725,0.0685
+145,Words of Radiance,WoR,61,chapter_49,chapter,3.0,Shallan,Chapter 49: Watching the World Transform,232,0.11966,0.43538,0.10789,0.05318
+146,Words of Radiance,WoR,62,chapter_50,chapter,3.0,Adolin,Chapter 50: Uncut Gems,93,0.05902,0.41685,0.07059,0.05843
+147,Words of Radiance,WoR,63,chapter_51,chapter,3.0,Adolin,Chapter 51: Heirs,94,0.00279,0.44691,0.08015,0.07366
+148,Words of Radiance,WoR,64,chapter_52,chapter,3.0,Kaladin,Chapter 52: Into the Sky,296,0.0453,0.39998,0.0778,0.05529
+149,Words of Radiance,WoR,65,chapter_53,chapter,3.0,Adolin,Chapter 53: Perfection,114,0.03778,0.42544,0.10523,0.06605
+150,Words of Radiance,WoR,66,chapter_54,chapter,3.0,Shallan,Chapter 54: Veil's Lesson,152,0.01357,0.45259,0.07906,0.07027
+151,Words of Radiance,WoR,67,chapter_55,chapter,3.0,Kaladin,Chapter 55: The Rules of the Game,257,0.10747,0.42665,0.10974,0.05753
+152,Words of Radiance,WoR,68,chapter_56,chapter,3.0,Kaladin,Chapter 56: Whitespine Uncaged,191,-0.00333,0.43208,0.08047,0.07393
+153,Words of Radiance,WoR,69,chapter_57,chapter,3.0,Kaladin,Chapter 57: To Kill the Wind,149,-0.14788,0.46669,0.07557,0.11307
+154,Words of Radiance,WoR,70,chapter_58,chapter,3.0,Kaladin,Chapter 58: Never Again,84,-0.02905,0.4102,0.0728,0.09482
+155,Words of Radiance,WoR,71,interlude_9,interlude,3.0,Lift,Interlude I-9,497,0.00279,0.39871,0.0716,0.08748
+156,Words of Radiance,WoR,72,interlude_10,interlude,3.0,Szeth,Interlude I-10,29,-0.21992,0.4946,0.05134,0.18559
+157,Words of Radiance,WoR,73,interlude_11,interlude,3.0,Eshonai,Interlude I-11,176,-0.00759,0.45304,0.08863,0.08654
+158,Words of Radiance,WoR,75,chapter_59,chapter,4.0,Kaladin,Chapter 59: Fleet,132,0.02468,0.42565,0.07776,0.06702
+159,Words of Radiance,WoR,76,chapter_60,chapter,4.0,Shallan,Chapter 60: Veil Walks,104,0.08503,0.40645,0.06388,0.05512
+160,Words of Radiance,WoR,77,chapter_61,chapter,4.0,Shallan,Chapter 61: Obedience,73,-0.04439,0.44812,0.0703,0.0947
+161,Words of Radiance,WoR,78,chapter_62,chapter,4.0,Kaladin,Chapter 62: The One Who Killed Promises,86,0.02897,0.45842,0.09069,0.08064
+162,Words of Radiance,WoR,79,chapter_63,chapter,4.0,Shallan,Chapter 63: A Burning World,202,0.07157,0.37403,0.06727,0.05005
+163,Words of Radiance,WoR,80,chapter_64,chapter,4.0,Shallan,Chapter 64: Treasures,64,0.16364,0.4317,0.13311,0.08081
+164,Words of Radiance,WoR,81,chapter_65,chapter,4.0,Shallan,Chapter 65: The One Who Deserves It,62,0.03061,0.44634,0.07227,0.05261
+165,Words of Radiance,WoR,82,chapter_66,chapter,4.0,Kaladin,Chapter 66: Stormblessings,115,0.08338,0.44493,0.08369,0.07278
+166,Words of Radiance,WoR,83,chapter_67,chapter,4.0,Dalinar,Chapter 67: Spit and Bile,221,0.05692,0.43021,0.10757,0.07008
+167,Words of Radiance,WoR,84,chapter_68,chapter,4.0,Kaladin,Chapter 68: Bridges,269,0.02518,0.45509,0.08571,0.08043
+168,Words of Radiance,WoR,85,chapter_69,chapter,4.0,Shallan,Chapter 69: Nothing,159,-0.01747,0.42744,0.09389,0.07895
+169,Words of Radiance,WoR,86,chapter_70,chapter,4.0,Kaladin,Chapter 70: From a Nightmare,188,0.03138,0.42724,0.08523,0.0898
+170,Words of Radiance,WoR,87,chapter_71,chapter,4.0,Kaladin,Chapter 71: Vigil,273,-0.00242,0.43032,0.1034,0.08267
+171,Words of Radiance,WoR,88,chapter_72,chapter,4.0,Shallan,Chapter 72: Selfish Reasons,171,-0.08503,0.43439,0.07378,0.10301
+172,Words of Radiance,WoR,89,chapter_73,chapter,4.0,Shallan,Chapter 73: A Thousand Scurrying Creatures,141,-0.12041,0.42289,0.05822,0.11039
+173,Words of Radiance,WoR,90,chapter_74,chapter,4.0,Kaladin,Chapter 74: Striding the Storm,93,-0.15059,0.4682,0.06458,0.09503
+174,Words of Radiance,WoR,91,chapter_75,chapter,4.0,Dalinar,Chapter 75: True Glory,166,0.08414,0.4071,0.10617,0.06377
+175,Words of Radiance,WoR,92,interlude_12,interlude,4.0,Lhan,Interlude I-12,78,0.04532,0.52497,0.09324,0.08827
+176,Words of Radiance,WoR,93,interlude_13,interlude,4.0,Eshonai,Interlude I-13,23,-0.01917,0.55278,0.10274,0.10296
+177,Words of Radiance,WoR,94,interlude_14,interlude,4.0,Taravangian,Interlude I-14,246,0.00979,0.47889,0.08727,0.07975
+178,Words of Radiance,WoR,96,chapter_76,chapter,5.0,Kaladin,Chapter 76: The Hidden Blade,213,0.0854,0.45973,0.10118,0.0739
+179,Words of Radiance,WoR,97,chapter_77,chapter,5.0,Shallan,Chapter 77: Trust,159,0.09284,0.43015,0.11242,0.0796
+180,Words of Radiance,WoR,98,chapter_78,chapter,5.0,Shallan,Chapter 78: Contradictions,132,0.08193,0.43017,0.09467,0.06918
+181,Words of Radiance,WoR,99,chapter_79,chapter,5.0,Dalinar,Chapter 79: Toward the Center,63,-0.01947,0.36252,0.05195,0.0406
+182,Words of Radiance,WoR,100,chapter_80,chapter,5.0,Kaladin,Chapter 80: To Fight the Rain,119,0.06996,0.48873,0.12782,0.06987
+183,Words of Radiance,WoR,101,chapter_81,chapter,5.0,Dalinar,Chapter 81: The Last Day,283,-0.02137,0.41918,0.06693,0.07786
+184,Words of Radiance,WoR,102,chapter_82,chapter,5.0,Kaladin,Chapter 82: For Glory Lit,149,-0.12044,0.41422,0.05934,0.08197
+185,Words of Radiance,WoR,103,chapter_83,chapter,5.0,Adolin,Chapter 83: Time's Illusion,146,-0.08798,0.41254,0.06117,0.08193
+186,Words of Radiance,WoR,104,chapter_84,chapter,5.0,Kaladin,Chapter 84: The One Who Saves,134,-0.03142,0.4526,0.07457,0.10875
+187,Words of Radiance,WoR,105,chapter_85,chapter,5.0,Dalinar,Chapter 85: Swallowed by the Sky,144,-0.07293,0.41804,0.06272,0.08863
+188,Words of Radiance,WoR,106,chapter_86,chapter,5.0,Shallan,Chapter 86: Patterns of Light,262,-0.05374,0.41841,0.09183,0.08382
+189,Words of Radiance,WoR,107,chapter_87,chapter,5.0,Kaladin,Chapter 87: The Riddens,164,-0.00126,0.43284,0.06767,0.08026
+190,Words of Radiance,WoR,108,chapter_88,chapter,5.0,Shallan,Chapter 88: The Man Who Owned the Winds,174,-0.0008,0.45941,0.0762,0.08936
+191,Words of Radiance,WoR,109,chapter_89,chapter,5.0,Adolin,Chapter 89: The Four,151,-0.0316,0.42853,0.08342,0.08145
+192,Words of Radiance,WoR,110,epilogue,epilogue,5.0,Wit,Epilogue: Art and Expectation,78,0.0114,0.4295,0.06885,0.08392

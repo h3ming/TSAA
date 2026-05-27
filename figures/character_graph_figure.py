@@ -95,7 +95,7 @@ import pandas as pd
 import plotly.graph_objects as go
 
 # csv_data lives at the repo root; this module lives one level down (code/).
-DEFAULT_CSV_DIR = Path(__file__).resolve().parent.parent / "csv_data"
+DEFAULT_CSV_DIR = Path(__file__).resolve().parent.parent / "figures" / "csv_data"
 
 ALL_VALUE = "__all__"
 

@@ -1,0 +1,137 @@
+topic_id,label,top_words,total_count,is_catchall,is_outlier
+-1,Unclassified,,11130,False,True
+0,"#0: bridge, bridgemen, just",bridge|bridgemen|just|like|know|did|father|away|right|think,7838,True,False
+1,Storms & Stormlight,stormlight|light|rain|highstorm|highstorms|air|sky|lightning|wall|sphere,289,False,False
+3,Horneater (Rock) scenes,gods|horneater|stew|food|live|laughed|drink|good|story|eh,252,False,False
+5,Battle & thrill,battlefield|did|battle|change|feel|hope|strength|cursed|hated|strong,175,False,False
+6,Kaladin's surgeon flashbacks,town|father|surgeon|brown|mother|table|wound|held|knife|fingers,160,False,False
+8,Sadeas's bridge runs,bridge|bridgemen|send|mark|authority|brightness|hated|yeah|patch|storming,153,False,False
+7,Shallan internal monologue,idiot|child|mind|needed|father|assuming|did|better|control|certain,150,False,False
+2,Listener rhythms,form|sister|rhythm|humans|mother|peace|forms|songs|song|gods,148,False,False
+9,Bridge Four banter,lad|know|want|going|idiot|talking|maybe|grunted|son|sitting,137,False,False
+11,Royal court,yeah|guard|king|stepping|guess|sorry|says|wants|join|right,127,False,False
+12,Taravangian & Diagram,diagram|king|city|son|majesty|days|kill|jah|away|brilliant,121,False,False
+10,Shard combat,shardbearer|shardblade|blade|shardplate|weapons|plate|blades|stone|steel|battle,120,False,False
+13,Duels,shardblade|shardbearer|win|plate|blade|fight|won|assassin|son|kill,114,False,False
+14,Knights Radiant lore,radiant|radiants|heralds|order|orders|abilities|ideal|voidbringers|written|lost,113,False,False
+4,Szeth's lashings,shardbearer|stormlight|floor|shardblade|ceiling|king|upward|blade|leaped|hallway,113,False,False
+16,Court intrigue,believe|king|growing|laugh|safety|position|send|explain|want|kill,98,False,False
+15,Voidbringer / Desolation lore,voidbringers|return|parshmen|heralds|believe|came|destroy|word|nature|damnation,98,False,False
+17,Shallan's sketches,paper|drawing|lines|sheet|page|draw|drew|fingers|ridges|mind,94,False,False
+19,Slavery & secrets,great|thank|true|listen|best|secrets|know|slave|voices|thinks,87,False,False
+21,Troop training,bow|master|foolish|curious|charge|troops|personally|hey|bite|holy,81,False,False
+22,Kabsal & poisoned bread,bread|finger|ardent|brother|smell|curious|ardents|raised|mouth|pleasant,80,False,False
+20,Spheres & wealth,spheres|sphere|pouch|surgeon|spend|infused|paid|spent|continue|pay,78,False,False
+23,Maps & scholarship,city|map|shattered|modern|cities|ancient|notes|scholars|placed|center,77,False,False
+18,Surgebinding mechanics,spren|realm|power|nature|human|create|kind|ability|live|world,76,False,False
+24,"#24: snorted, old, narrowed",snorted|old|narrowed|smiled|hoping|highprince|fighting|wrote|friend|smile,68,False,False
+26,"#26: going, eyebrow, fun",going|eyebrow|fun|want|gesturing|closing|mention|raising|mere|smiled,66,False,False
+27,"#27: love, ran, maybe",love|ran|maybe|father|house|kill|coward|say|talked|talk,66,False,False
+28,"#28: father, history, assume",father|history|assume|dreams|softly|echoing|prove|eager|fabrial|chamber,64,False,False
+30,"#30: son, town, leave",son|town|leave|surgeon|eat|healed|worst|pleasant|proud|brightlord,63,False,False
+25,"#25: tired, caused, blood",tired|caused|blood|skin|metal|wound|pain|sleep|hurt|cold,63,False,False
+31,"#31: town, father, hate",town|father|hate|window|hero|sigh|talk|words|shock|hesitated,62,False,False
+32,"#32: sounding, patterns, seat",sounding|patterns|seat|carriage|trouble|realm|numbers|match|repeated|words,61,False,False
+29,"#29: almighty, god, accept",almighty|god|accept|holy|opposite|created|thousands|hate|good|natural,60,False,False
+33,"#33: grunted, master, old",grunted|master|old|ardent|means|makes|excellent|allow|son|younger,56,False,False
+34,"#34: miss, laughed, master",miss|laughed|master|hey|young|win|waved|short|street|offering,54,False,False
+36,"#36: beauty, art, beautiful",beauty|art|beautiful|pictures|master|suppose|story|paint|design|regarded,49,False,False
+38,"#38: father, wine, weeping",father|wine|weeping|hasn|staring|house|step|rubbing|helped|cup,48,False,False
+37,"#37: wagon, slaves, parshmen",wagon|slaves|parshmen|chull|seat|carried|tvlakv|climbed|rolled|ahead,46,False,False
+35,"#35: son, explanation, killing",son|explanation|killing|forbidden|world|destroyed|master|obey|order|ability,44,False,False
+40,"#40: create, use, soulcast",create|use|soulcast|wrote|broken|hadn|fabrial|truth|read|ardents,43,False,False
+41,"#41: clever, noted, ridiculous",clever|noted|ridiculous|unlike|speak|lucky|understand|shall|child|deal,42,False,False
+39,"#39: trade, pot, rope",trade|pot|rope|stupid|legs|forest|lead|effort|blue|stepped,39,False,False
+42,"#42: eat, food, dinner",eat|food|dinner|stuff|realm|parents|asking|love|meal|pale,36,False,False
+46,"#46: sword, knife, blade",sword|knife|blade|weapon|weapons|regular|swords|shouldn|looks|art,35,False,False
+48,"#48: notes, play, song",notes|play|song|silent|soft|sounds|note|smoke|faded|story,34,False,False
+47,"#47: king, feet, reply",king|feet|reply|yelled|fist|right|drawn|tower|lips|stumbled,34,False,False
+45,"#45: study, history, scholar",study|history|scholar|research|miss|natural|human|nature|expect|scholars,34,False,False
+44,"#44: wore, safehand, hair",wore|safehand|hair|tan|worn|coat|waist|trousers|sleeve|exposed,33,False,False
+49,"#49: highprinces, wanted, given",highprinces|wanted|given|balance|luck|highprince|authority|runs|clever|wife,33,False,False
+50,"#50: ardents, ardent, lot",ardents|ardent|lot|respect|members|smiled|haven|trouble|master|come,33,False,False
+51,"#51: spear, weapon, obvious",spear|weapon|obvious|forms|neck|broken|position|soldier|pile|balance,32,False,False
+52,"#52: spear, parshmen, slow",spear|parshmen|slow|leave|speaking|regarded|listening|straight|stood|slave,32,False,False
+53,"#53: black, wore, uniforms",black|wore|uniforms|brown|mark|modern|beard|lighteyes|uniform|stiff,31,False,False
+54,"#54: trade, king, respect",trade|king|respect|return|judge|advantage|trust|know|nose|authority,31,False,False
+55,"#55: sword, father, struck",sword|father|struck|blood|screamed|killing|coat|awful|cremlings|grabbed,31,False,False
+56,"#56: foot, arrow, storming",foot|arrow|storming|radiants|softly|talking|want|fine|got|bridges,31,False,False
+57,"#57: horse, cut, checked",horse|cut|checked|hunt|brightlord|majesty|king|camp|prepared|attempt,30,False,False
+58,"#58: die, ready, going",die|ready|going|repeated|wounded|smiling|field|smile|worried|fine,30,False,False
+43,"#43: boots, sack, foot",boots|sack|foot|feet|pair|look|guess|holding|going|matter,29,False,False
+59,"#59: hey, eh, added",hey|eh|added|glow|yeah|sleep|easy|guess|incredible|fun,29,False,False
+60,"#60: coward, news, father",coward|news|father|mother|tired|house|chest|noble|axehound|hunting,29,False,False
+61,"#61: death, darkeyed, year",death|darkeyed|year|note|years|thirty|particular|lighteyed|month|child,29,False,False
+64,"#64: expensive, effort, lucky",expensive|effort|lucky|single|offering|barely|replaced|waste|afford|plant,27,False,False
+65,"#65: enormous, gemhearts, shardplate",enormous|gemhearts|shardplate|plate|cracked|hunting|break|majesty|free|plateaus,27,False,False
+67,"#67: laughed, money, damnation",laughed|money|damnation|leaning|fool|stay|riches|wars|existence|speech,27,False,False
+63,"#63: song, secrets, songs",song|secrets|songs|final|page|spren|wars|line|note|grand,27,False,False
+62,"#62: crem, plants, tower",crem|plants|tower|vines|formations|trees|creature|enormous|winds|beast,27,False,False
+68,"#68: ship, captain, miss",ship|captain|miss|crew|young|wife|rough|foot|acted|wore,26,False,False
+69,"#69: map, plateau, plateaus",map|plateau|plateaus|shapes|draw|pointing|drew|chasms|remember|yeah,25,False,False
+70,"#70: centuries, burning, survived",centuries|burning|survived|stone|ridge|swords|smell|flesh|seven|blades,25,False,False
+71,"#71: failed, younger, hated",failed|younger|hated|messenger|hadn|small|upward|enemy|died|stumbled,25,False,False
+72,"#72: surgeon, train, mind",surgeon|train|mind|care|glyphs|want|stories|heralds|learn|makes,25,False,False
+73,"#73: highprinces, kingdom, noble",highprinces|kingdom|noble|centuries|tomorrow|turn|gemhearts|general|agree|wants,24,False,False
+75,"#75: kingdom, says, surgeon",kingdom|says|surgeon|ask|king|deserve|echoing|excellent|assassin|complete,23,False,False
+76,"#76: guards, barrack, bridge",guards|barrack|bridge|armor|extra|pretty|wounded|wounds|usually|hung,22,False,False
+77,"#77: page, words, noted",page|words|noted|||||||,22,False,False
+80,"#80: tvlakv, worth, shattered",tvlakv|worth|shattered|rest|signs|flee|ran|shelter|chuckled|wondering,21,False,False
+81,"#81: ridge, buildings, built",ridge|buildings|built|area|eastward|east|warcamps|worn|shattered|passed,21,False,False
+79,"#79: tvlakv, evening, smile",tvlakv|evening|smile|met|arguing|differently|belt|ragged|acted|search,21,False,False
+78,"#78: forms, form, songs",forms|form|songs|required|worn|research|create|help|discovered|art,20,False,False
+84,"#84: dueling, agree, win",dueling|agree|win|forcing|follow|father|hearts|doesn|change|echoed,20,False,False
+85,"#85: diagram, map, book",diagram|map|book|ceiling|eastern|shattered|soulcast|second|drawn|places,20,False,False
+86,"#86: smiling, chair, brother",smiling|chair|brother|got|going|gesturing|hillside|tomorrow|play|scratched,20,False,False
+66,"#66: storms, winds, highstorm",storms|winds|highstorm|chill|beat|waste|proper|waited|power|songs,19,False,False
+82,"#82: trade, rising, gritted",trade|rising|gritted|current|needed|prove|drop|respect|lived|leaped,19,False,False
+88,"#88: spheres, pouch, drained",spheres|pouch|drained|risk|sphere|little|caught|eventually|willing|handed,19,False,False
+89,"#89: confused, turned, standing",confused|turned|standing|specific|noticing|uncomfortable|younger|rank|sit|crew,19,False,False
+90,"#90: visions, vision, trust",visions|vision|trust|mind|months|likely|sent|ago|make|understanding,18,False,False
+92,"#92: shell, fish, ship",shell|fish|ship|rope|ocean|creature|beast|tiny|claimed|sea,18,False,False
+93,"#93: brightness, stay, trip",brightness|stay|trip|jah|smile|king|guided|read|shook|city,18,False,False
+95,"#95: horse, plateau, ride",horse|plateau|ride|swung|charged|handed|guards|crossed|grabbed|approached,17,False,False
+98,"#98: silent, staring, ground",silent|staring|ground|hunting|thoughtful|shame|slipping|nearly|balance|trembling,17,False,False
+97,"#97: surface, fish, sea",surface|fish|sea|buildings|water|live|visit|send|cold|claimed,17,False,False
+96,"#96: axehound, legs, shell",axehound|legs|shell|holes|creature|fun|shells|arms|harder|coward,17,False,False
+100,"#100: freedom, spren, speaking",freedom|spren|speaking|echoed|allowing|hero|practicing|excellent|flowing|hint,16,False,False
+94,"#94: new, idiot, rider",new|idiot|rider|storms|dreams|souls|shelter|design|world|opposite,16,False,False
+91,"#91: remember, memory, means",remember|memory|means|forgotten|ago|remembering|distracted|regarded|reading|moments,16,False,False
+99,"#99: highstorm, tonight, highstorms",highstorm|tonight|highstorms|attack|thousands|crushed|hunting|happens|shells|regular,15,False,False
+101,"#101: decide, pick, spoken",decide|pick|spoken|outside|lead|palace|direction|supposedly|hallway|declared,15,False,False
+104,"#104: visions, kings, brother",visions|kings|brother|ago|bit|home|years|died|storms|battlefield,15,False,False
+106,"#106: scholars, brightness, gives",scholars|brightness|gives|state|judge|normal|speak|hardly|joining|gasped,15,False,False
+111,"#111: backed, fight, hit",backed|fight|hit|fighting|away|cracked|jumped|blow|shardbearer|plate,14,False,False
+113,"#113: scratching, thank, gives",scratching|thank|gives|does|awful|explanation|listened|useless|hasn|black,14,False,False
+102,"#102: silent, clear, idea",silent|clear|idea|fell|hear|hollow|lights|lack|voices|stunned,14,False,False
+112,"#112: shalebark, shell, vines",shalebark|shell|vines|plant|cremlings|trees|growing|ridge|pathway|eating,14,False,False
+105,"#105: story, mean, stories",story|mean|stories|means|tell|stuff|imagined|decide|purpose|fit,14,False,False
+107,"#107: chasmfiend, spot, support",chasmfiend|spot|support|size|problem|grow|chair|slow|mean|saying,14,False,False
+108,"#108: hey, shown, eh",hey|shown|eh|welcome|fair|prepare|visit|perfectly|shall|added,14,False,False
+109,"#109: tower, sea, gathered",tower|sea|gathered|ship|echoing|unlike|highstorm|robes|cast|great,14,False,False
+114,"#114: sword, blade, learned",sword|blade|learned|weapon|fight|armor|weapons|parts|practicing|forbidden,13,False,False
+115,"#115: personal, rubbing, drawn",personal|rubbing|drawn|tower|map|majesty|palace|battle|shattered|wall,13,False,False
+103,"#103: gods, form, souls",gods|form|souls|crushed|given|avoid|named|claimed|poor|soul,13,False,False
+123,"#123: freedom, purpose, joy",freedom|purpose|joy|given|normal|pleasant|loss|perfectly|angry|fear,12,False,False
+118,"#118: glyphs, death, pictures",glyphs|death|pictures|meant|written|book|read|reading|shape|books,12,False,False
+124,"#124: shame, happening, money",shame|happening|money|hurt|knees|straight|sphere|shade|game|drained,12,False,False
+122,"#122: oh, come, comes",oh|come|comes|close||||||,12,False,False
+121,"#121: oh, bound, required",oh|bound|required|losing|reluctantly|words|mark|sounding|sort|angry,12,False,False
+119,"#119: excuse, shirt, pocket",excuse|shirt|pocket|encouraged|hunting|forbidden|rare|pleasant|capable|hardly,12,False,False
+120,"#120: horse, beast, rocks",horse|beast|rocks|guided|rider|turned|slowed|precious|bite|complete,12,False,False
+117,"#117: talked, town, eventually",talked|town|eventually|arguing|frightened|unless|choice|wounds|clean|ranks,12,False,False
+116,"#116: hall, feast, room",hall|feast|room|inside|building|danced|cast|grew|floor|stone,12,False,False
+129,"#129: arrows, shield, enemy",arrows|shield|enemy|bound|faster|weapon|leg|ranks|slammed|run,11,False,False
+131,"#131: rhythm, song, sounded",rhythm|song|sounded|speech|different|voices|tone|claim|perfectly|better,11,False,False
+125,"#125: use, better, fabrial",use|better|fabrial|simple|supposedly|working|longer|ardents|return|food,11,False,False
+126,"#126: battle, died, war",battle|died|war|heralds|finest|result|warriors|warrior|fighting|holy,11,False,False
+127,"#127: highprince, distracted, frightened",highprince|distracted|frightened|met|door|realized|thoughtful|contained|stood|growled,11,False,False
+128,"#128: spear, wound, training",spear|wound|training|lighteyed|taken|gone|shallow|alongside|ragged|pile,11,False,False
+130,"#130: assassin, stormlight, glowing",assassin|stormlight|glowing|clothing|colored|healed|healing|effort|confident|tossing,10,False,False
+132,"#132: lives, save, death",lives|save|death|shapes|fresh|greater|creatures|lived|weight|path,10,False,False
+134,"#134: ignore, stuck, oh",ignore|stuck|oh|wall|sure|view|mentioned|twice|fresh|wise,10,False,False
+74,"#74: rhythm, songs, beat",rhythm|songs|beat|mother|crowd|hear|peace|old|changed|strong,9,False,False
+110,"#110: soldiers, new, specific",soldiers|new|specific|refused|workers|grounds|number|question|gathered|camp,5,False,False
+83,"#83: foot, pair, fit",foot|pair|fit|child|slipping|test|judge|properly|lifted|tucked,2,False,False
+87,"#87: curse, art, beautiful",curse|art|beautiful|old|servants|cursed|palace|hallway|dreams|crushed,1,False,False
+133,"#133: particular, hundreds, scrambled",particular|hundreds|scrambled|alleyway|holy|grin|excellent|difference|skin|groaned,1,False,False

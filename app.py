@@ -1,8 +1,10 @@
 from dash import Dash, html, dcc, Input, Output
 import plotly.graph_objects as go
 import plotly.express as px
+from figures.pca_plot import make_pca_figure, top_povs
 
 app = Dash(__name__)
+
 
 
 app.layout = html.Div(
@@ -30,7 +32,15 @@ app.layout = html.Div(
                     children=[
                         # filter stuff here
                         html.H5("Character"), 
-                        dcc.Dropdown(),
+                        dcc.Dropdown(
+                                id="character-dropdown",
+                                options=[
+                                    {"label": pov, "value": pov}
+                                    for pov in top_povs
+                                ],
+                                placeholder="All POVs",
+                                clearable=True,
+                        ),
                         html.H5("Book section"),
                         dcc.Dropdown(),
                     ]
@@ -42,8 +52,9 @@ app.layout = html.Div(
                         # graph stuff here
                         dcc.Tabs(id='tabs', value='tab1', children=[
                             dcc.Tab(label="graph1", value='tab1', children=[
-                                html.P('info about graph'),
-                                dcc.Graph(),
+                                html.P('pca graph'),
+                                dcc.Graph(id='pca_graph',
+                                          figure=make_pca_figure()),
                             ]),
                             dcc.Tab(label="graph2", value='tab2', children=[
                                 html.P('info about graph'),
@@ -62,6 +73,12 @@ app.layout = html.Div(
 )
 
 #TODO: callbacks and figs, update_tab function once we have our figs
+@app.callback(
+    Output("pca_graph", "figure"),
+    Input("character-dropdown", "value")
+)
+def update_pca(selected_pov):
+    return make_pca_figure(selected_pov)
 
 if __name__ == '__main__':
     app.run(debug=True)

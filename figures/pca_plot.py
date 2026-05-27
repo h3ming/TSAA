@@ -24,9 +24,16 @@ overlays = meta["overlays"]
 qual = pc.qualitative.D3
 
 color_map = {
-    pov: qual[i % len(qual)]
-    for i, pov in enumerate(top_povs)
+      "Kaladin": "#43a2fa",
+    "Shallan" :"#de5410",
+    "Dalinar":"#444c57",
+    "Adolin":"#1318a4",
+    "Dalinar/Adolin":"#2A2A62",
+    "Szeth":"#ebe1c3",
+    "Eshonai":"#bd0000",
+    "Rysn":"#bfbfbf"
 }
+
 color_map["Other"] = "#bfbfbf"
 
 book_marker = {

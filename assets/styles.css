@@ -1,23 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
 header {
     padding: 12px 24px;
-    background-color: rgb(85, 85, 245);
+    background-color: rgb(29, 40, 100);
+    font-family: 'Jim Nightshade', serif;
+    font-size: larger;
+    color: #e8cd00;
 }
 
 nav {
     display: flex;
     gap: 16px;
     padding: 8px 24px;
-    background-color: rgb(122, 122, 236);
+    background-color: rgb(4, 4, 53);
+    color: #e3d358;
 }
 
 .body {
     display: flex;
+
+
 }
 
 .sidebar {
     width: 275px;
     padding: 20px;
     border-right: 1px solid #ddd;
+    background-color: rgb(29, 40, 100);
+    font-family: 'Jim Nightshade', serif;
+    font-size: ;
 }
 
 .main-content {

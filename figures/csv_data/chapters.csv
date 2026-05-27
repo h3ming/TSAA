@@ -1,0 +1,203 @@
+book,order,section_type,part_number,number,title,heading_id,heading_text,pov,word_count,line_start,line_end
+The Way of Kings,1,prelude,,,Prelude to the Stormlight Archive,prelude,Prelude to the Stormlight Archive,Kalak,1298,1,94
+The Way of Kings,2,prologue,,,To Kill,prologue,Prologue: To Kill,Szeth,6194,95,358
+The Way of Kings,3,part,1,1,Above Silence,part_1,Part One: Above Silence,,3,359,362
+The Way of Kings,4,chapter,1,1,Stormblessed,chapter_1,Chapter 1: Stormblessed,Cenn,4554,363,652
+The Way of Kings,5,chapter,1,2,Honor Is Dead,chapter_2,Chapter 2: Honor Is Dead,Kaladin,5056,653,942
+The Way of Kings,6,chapter,1,3,City of Bells,chapter_3,Chapter 3: City of Bells,Shallan,5283,943,1194
+The Way of Kings,7,chapter,1,4,The Shattered Plains,chapter_4,Chapter 4: The Shattered Plains,Kaladin,4125,1195,1426
+The Way of Kings,8,chapter,1,5,Heretic,chapter_5,Chapter 5: Heretic,Shallan,4060,1427,1696
+The Way of Kings,9,chapter,1,6,Bridge Four,chapter_6,Chapter 6: Bridge Four,Kaladin,7207,1697,2144
+The Way of Kings,10,chapter,1,7,Anything Reasonable,chapter_7,Chapter 7: Anything Reasonable,Shallan,6162,2145,2520
+The Way of Kings,11,chapter,1,8,Nearer the Flame,chapter_8,Chapter 8: Nearer the Flame,Shallan,6921,2521,2996
+The Way of Kings,12,chapter,1,9,Damnation,chapter_9,Chapter 9: Damnation,Kaladin,2357,2997,3136
+The Way of Kings,13,chapter,1,10,Stories of Surgeons,chapter_10,Chapter 10: Stories of Surgeons,Kaladin,2283,3137,3284
+The Way of Kings,14,chapter,1,11,Droplets,chapter_11,Chapter 11: Droplets,Kaladin,3182,3285,3514
+The Way of Kings,15,interlude,1,1,Ishikk,interlude_1,Interlude I-1: Ishikk,Ishikk,2050,3515,3650
+The Way of Kings,16,interlude,1,2,Nan Balat,interlude_2,Interlude I-2: Nan Balat,Nan Balat,1332,3651,3716
+The Way of Kings,17,interlude,1,3,The Glory of Ignorance,interlude_3,Interlude I-3: The Glory of Ignorance,Szeth,2002,3717,3860
+The Way of Kings,18,part,2,2,The Illuminating Storms,part_2,Part Two: The Illuminating Storms,,0,3861,3862
+The Way of Kings,19,chapter,2,12,Unity,chapter_12,Chapter 12: Unity,Dalinar,7630,3863,4374
+The Way of Kings,20,chapter,2,13,Ten Heartbeats,chapter_13,Chapter 13: Ten Heartbeats,Dalinar/Adolin,3362,4375,4612
+The Way of Kings,21,chapter,2,14,Payday,chapter_14,Chapter 14: Payday,Kaladin,3882,4613,4900
+The Way of Kings,22,chapter,2,15,The Decoy,chapter_15,Chapter 15: The Decoy,Dalinar/Adolin,9174,4901,5524
+The Way of Kings,23,chapter,2,16,Cocoons,chapter_16,Chapter 16: Cocoons,Kaladin,5605,5525,5904
+The Way of Kings,24,chapter,2,17,"A Bloody, Red Sunset",chapter_17,"Chapter 17: A Bloody, Red Sunset",Kaladin,6977,5905,6325
+The Way of Kings,25,chapter,2,18,Highprince of War,chapter_18,Chapter 18: Highprince of War,Dalinar,8439,6326,6913
+The Way of Kings,26,chapter,2,19,Starfalls,chapter_19,Chapter 19: Starfalls,Dalinar,5950,6914,7303
+The Way of Kings,27,chapter,2,20,Scarlet,chapter_20,Chapter 20: Scarlet,Kaladin,755,7304,7365
+The Way of Kings,28,chapter,2,21,Why Men Lie,chapter_21,Chapter 21: Why Men Lie,Kaladin,4371,7366,7735
+The Way of Kings,29,chapter,2,22,"Eyes, Hands, or Spheres?",chapter_22,"Chapter 22: Eyes, Hands, or Spheres?",Dalinar,5674,7736,8105
+The Way of Kings,30,chapter,2,23,Many Uses,chapter_23,Chapter 23: Many Uses,Kaladin,5435,8106,8525
+The Way of Kings,31,chapter,2,24,The Gallery of Maps,chapter_24,Chapter 24: The Gallery of Maps,Dalinar/Adolin,3482,8526,8793
+The Way of Kings,32,chapter,2,25,The Butcher,chapter_25,Chapter 25: The Butcher,Kaladin,3278,8794,9023
+The Way of Kings,33,chapter,2,26,Stillness,chapter_26,Chapter 26: Stillness,Dalinar,6613,9024,9409
+The Way of Kings,34,chapter,2,27,Chasm Duty,chapter_27,Chapter 27: Chasm Duty,Kaladin,9137,9410,10025
+The Way of Kings,35,chapter,2,28,Decision,chapter_28,Chapter 28: Decision,Dalinar/Adolin,9646,10026,10689
+The Way of Kings,36,interlude,2,4,Rysn,interlude_4,Interlude I-4: Rysn,Rysn,2746,10690,10865
+The Way of Kings,37,interlude,2,5,Axies the Collector,interlude_5,Interlude I-5: Axies the Collector,Axies,2098,10866,11005
+The Way of Kings,38,interlude,2,6,A Work of Art,interlude_6,Interlude I-6: A Work of Art,Szeth,3454,11006,11173
+The Way of Kings,39,part,3,3,Dying,part_3,Part Three: Dying,,0,11174,11175
+The Way of Kings,40,chapter,3,29,Errorgance,chapter_29,Chapter 29: Errorgance,Shallan,6581,11176,11685
+The Way of Kings,41,chapter,3,30,Darkness Unseen,chapter_30,Chapter 30: Darkness Unseen,Kaladin,3676,11686,11933
+The Way of Kings,42,chapter,3,31,Beneath the Skin,chapter_31,Chapter 31: Beneath the Skin,Kaladin,1990,11934,12057
+The Way of Kings,43,chapter,3,32,Side Carry,chapter_32,Chapter 32: Side Carry,Kaladin,4862,12058,12373
+The Way of Kings,44,chapter,3,33,Cymatics,chapter_33,Chapter 33: Cymatics,Shallan,5752,12374,12781
+The Way of Kings,45,chapter,3,34,Stormwall,chapter_34,Chapter 34: Stormwall,Kaladin,2028,12782,12935
+The Way of Kings,46,chapter,3,35,A Light by Which to See,chapter_35,Chapter 35: A Light by Which to See,Kaladin,1950,12936,13033
+The Way of Kings,47,chapter,3,36,The Lesson,chapter_36,Chapter 36: The Lesson,Shallan,5482,13034,13391
+The Way of Kings,48,chapter,3,37,Sides,chapter_37,Chapter 37: Sides,Kaladin,5809,13392,13849
+The Way of Kings,49,chapter,3,38,Envisager,chapter_38,Chapter 38: Envisager,Kaladin,1761,13850,13981
+The Way of Kings,50,chapter,3,39,Burned Into Her,chapter_39,Chapter 39: Burned Into Her,Shallan,3791,13982,14161
+The Way of Kings,51,chapter,3,40,Eyes of Red and Blue,chapter_40,Chapter 40: Eyes of Red and Blue,Kaladin,5095,14162,14511
+The Way of Kings,52,chapter,3,41,Of Alds and Milp,chapter_41,Chapter 41: Of Alds and Milp,Kaladin,2075,14512,14675
+The Way of Kings,53,chapter,3,42,Beggars and Barmaids,chapter_42,Chapter 42: Beggars and Barmaids,Shallan,5444,14676,15091
+The Way of Kings,54,chapter,3,43,The Wretch,chapter_43,Chapter 43: The Wretch,Kaladin,4588,15092,15447
+The Way of Kings,55,chapter,3,44,The Weeping,chapter_44,Chapter 44: The Weeping,Kaladin,4723,15448,15795
+The Way of Kings,56,chapter,3,45,Shadesmar,chapter_45,Chapter 45: Shadesmar,Shallan,7845,15796,16347
+The Way of Kings,57,chapter,3,46,Child of Tanavast,chapter_46,Chapter 46: Child of Tanavast,Kaladin,7194,16348,16859
+The Way of Kings,58,chapter,3,47,Stormblessings,chapter_47,Chapter 47: Stormblessings,Kaladin,4871,16860,17191
+The Way of Kings,59,chapter,3,48,Strawberry,chapter_48,Chapter 48: Strawberry,Shallan,3453,17192,17471
+The Way of Kings,60,chapter,3,49,To Care,chapter_49,Chapter 49: To Care,Kaladin,3553,17472,17699
+The Way of Kings,61,chapter,3,50,Backbreaker Powder,chapter_50,Chapter 50: Backbreaker Powder,Shallan,1269,17700,17809
+The Way of Kings,62,chapter,3,51,Sas Nahn,chapter_51,Chapter 51: Sas Nahn,Kaladin,1889,17810,17957
+The Way of Kings,63,interlude,3,7,Baxil,interlude_7,Interlude I-7: Baxil,Baxil,1265,17958,18055
+The Way of Kings,64,interlude,3,8,Geranid,interlude_8,Interlude I-8: Geranid,Geranid,1444,18056,18175
+The Way of Kings,65,interlude,3,9,Death Wears White,interlude_9,Interlude I-9: Death Wears White,Szeth,2880,18176,18333
+The Way of Kings,66,part,4,4,Storm's Illumination,part_4,Part Four: Storm's Illumination,,7,18334,18337
+The Way of Kings,67,chapter,4,52,A Highway to the Sun,chapter_52,Chapter 52: A Highway to the Sun,Dalinar/Adolin,6986,18338,18809
+The Way of Kings,68,chapter,4,53,Dunny,chapter_53,Chapter 53: Dunny,Kaladin,2681,18810,18979
+The Way of Kings,69,chapter,4,54,Gibletish,chapter_54,Chapter 54: Gibletish,Dalinar,5564,18980,19357
+The Way of Kings,70,chapter,4,55,An Emerald Broam,chapter_55,Chapter 55: An Emerald Broam,Kaladin,5826,19358,19747
+The Way of Kings,71,chapter,4,56,That Storming Book,chapter_56,Chapter 56: That Storming Book,Dalinar,4772,19748,19987
+The Way of Kings,72,chapter,4,57,Wandersail,chapter_57,Chapter 57: Wandersail,Kaladin,8941,19988,20645
+The Way of Kings,73,chapter,4,58,The Journey,chapter_58,Chapter 58: The Journey,Dalinar/Adolin,7379,20646,21115
+The Way of Kings,74,chapter,4,59,An Honor,chapter_59,Chapter 59: An Honor,Kaladin,6573,21116,21575
+The Way of Kings,75,chapter,4,60,That Which We Cannot Have,chapter_60,Chapter 60: That Which We Cannot Have,Dalinar,4150,21576,21879
+The Way of Kings,76,chapter,4,61,Right for Wrong,chapter_61,Chapter 61: Right for Wrong,Dalinar,3135,21880,22145
+The Way of Kings,77,chapter,4,62,Three Glyphs,chapter_62,Chapter 62: Three Glyphs,Kaladin,5120,22146,22489
+The Way of Kings,78,chapter,4,63,Fear,chapter_63,Chapter 63: Fear,Kaladin,2144,22490,22649
+The Way of Kings,79,chapter,4,64,A Man of Extremes,chapter_64,Chapter 64: A Man of Extremes,Dalinar/Adolin,3174,22650,22883
+The Way of Kings,80,chapter,4,65,The Tower,chapter_65,Chapter 65: The Tower,Dalinar,3965,22884,23097
+The Way of Kings,81,chapter,4,66,Codes,chapter_66,Chapter 66: Codes,Dalinar,2479,23098,23241
+The Way of Kings,82,chapter,4,67,Words,chapter_67,Chapter 67: Words,Kaladin,7334,23242,23823
+The Way of Kings,83,chapter,4,68,Eshonai,chapter_68,Chapter 68: Eshonai,Dalinar,6746,23824,24237
+The Way of Kings,84,chapter,4,69,Justice,chapter_69,Chapter 69: Justice,Dalinar,7657,24238,24759
+The Way of Kings,85,part,5,5,The Silence Above,part_5,Part Five: The Silence Above,,9,24760,24763
+The Way of Kings,86,chapter,5,70,Sea of Glass,chapter_70,Chapter 70: Sea of Glass,Shallan,2400,24764,24935
+The Way of Kings,87,chapter,5,71,Recorded in Blood,chapter_71,Chapter 71: Recorded in Blood,Szeth,2559,24936,25107
+The Way of Kings,88,chapter,5,72,Veristitalian,chapter_72,Chapter 72: Veristitalian,Shallan,802,25108,25193
+The Way of Kings,89,chapter,5,73,Trust,chapter_73,Chapter 73: Trust,Kaladin,3406,25194,25485
+The Way of Kings,90,chapter,5,74,Ghostblood,chapter_74,Chapter 74: Ghostblood,Shallan,934,25486,25549
+The Way of Kings,91,chapter,5,75,In the Top Room,chapter_75,Chapter 75: In the Top Room,Dalinar,1982,25550,25691
+The Way of Kings,92,epilogue,5,,Of Most Worth,epilogue,Epilogue: Of Most Worth,Wit,1598,25692,25790
+Words of Radiance,1,prologue,,,To Question,prologue,Prologue: To Question,Jasnah,5263,1,394
+Words of Radiance,2,part,1,1,Alight,part_1,Part One: Alight,,0,395,396
+Words of Radiance,3,chapter,1,1,Santhid,chapter_1,Chapter 1: Santhid,Shallan,7916,397,898
+Words of Radiance,4,chapter,1,2,Bridge Four,chapter_2,Chapter 2: Bridge Four,Kaladin,5481,899,1238
+Words of Radiance,5,chapter,1,3,Pattern,chapter_3,Chapter 3: Pattern,Shallan,2877,1239,1406
+Words of Radiance,6,chapter,1,4,Taker of Secrets,chapter_4,Chapter 4: Taker of Secrets,Dalinar,4297,1407,1720
+Words of Radiance,7,chapter,1,5,Ideals,chapter_5,Chapter 5: Ideals,Kaladin,8494,1721,2304
+Words of Radiance,8,chapter,1,6,Terrible Destruction,chapter_6,Chapter 6: Terrible Destruction,Shallan,4430,2305,2636
+Words of Radiance,9,chapter,1,7,Open Flame,chapter_7,Chapter 7: Open Flame,Shallan,2253,2637,2868
+Words of Radiance,10,chapter,1,8,Knives in the Back • Soldiers on the Field,chapter_8,Chapter 8: Knives in the Back • Soldiers on the Field,Dalinar,2653,2869,3028
+Words of Radiance,11,chapter,1,9,Walking the Grave,chapter_9,Chapter 9: Walking the Grave,Kaladin,3036,3029,3276
+Words of Radiance,12,chapter,1,10,Red Carpet Once White,chapter_10,Chapter 10: Red Carpet Once White,Shallan,327,3277,3312
+Words of Radiance,13,chapter,1,11,An Illusion of Perception,chapter_11,Chapter 11: An Illusion of Perception,Shallan,4103,3313,3650
+Words of Radiance,14,chapter,1,12,Hero,chapter_12,Chapter 12: Hero,Kaladin,4573,3651,4016
+Words of Radiance,15,interlude,1,1,,interlude_1,Interlude I-1,Eshonai,3511,4017,4218
+Words of Radiance,16,interlude,1,2,,interlude_2,Interlude I-2,Ym,2966,4219,4474
+Words of Radiance,17,interlude,1,3,,interlude_3,Interlude I-3,Rysn,7563,4475,5038
+Words of Radiance,18,interlude,1,4,,interlude_4,Interlude I-4,Eshonai,4197,5039,5350
+Words of Radiance,19,part,2,2,Winds' Approach,part_2,Part Two: Winds' Approach,,0,5351,5352
+Words of Radiance,20,chapter,2,13,The Day's Masterpiece,chapter_13,Chapter 13: The Day's Masterpiece,Shallan,2749,5353,5586
+Words of Radiance,21,chapter,2,14,Ironstance,chapter_14,Chapter 14: Ironstance,Adolin,2942,5587,5832
+Words of Radiance,22,chapter,2,15,A Hand with the Tower,chapter_15,Chapter 15: A Hand with the Tower,Shallan,2267,5833,6000
+Words of Radiance,23,chapter,2,16,Swordmaster,chapter_16,Chapter 16: Swordmaster,Kaladin,4483,6001,6342
+Words of Radiance,24,chapter,2,17,A Pattern,chapter_17,Chapter 17: A Pattern,Shallan,4854,6343,6728
+Words of Radiance,25,chapter,2,18,Bruises,chapter_18,Chapter 18: Bruises,Kaladin,3888,6729,7072
+Words of Radiance,26,chapter,2,19,Safe Things,chapter_19,Chapter 19: Safe Things,Shallan,1449,7073,7188
+Words of Radiance,27,chapter,2,20,The Coldness of Clarity,chapter_20,Chapter 20: The Coldness of Clarity,Shallan,2887,7189,7406
+Words of Radiance,28,chapter,2,21,Ashes,chapter_21,Chapter 21: Ashes,Shallan,2387,7407,7596
+Words of Radiance,29,chapter,2,22,Lights in the Storm,chapter_22,Chapter 22: Lights in the Storm,Kaladin,4506,7597,7980
+Words of Radiance,30,chapter,2,23,Assassin,chapter_23,Chapter 23: Assassin,Kaladin,1935,7981,8128
+Words of Radiance,31,chapter,2,24,Tyn,chapter_24,Chapter 24: Tyn,Shallan,4385,8129,8456
+Words of Radiance,32,chapter,2,25,Monsters,chapter_25,Chapter 25: Monsters,Kaladin,4373,8457,8814
+Words of Radiance,33,chapter,2,26,The Feather,chapter_26,Chapter 26: The Feather,Adolin,3817,8815,9098
+Words of Radiance,34,chapter,2,27,Fabrications to Distract,chapter_27,Chapter 27: Fabrications to Distract,Shallan,866,9099,9162
+Words of Radiance,35,chapter,2,28,Boots,chapter_28,Chapter 28: Boots,Shallan,2878,9163,9426
+Words of Radiance,36,chapter,2,29,Rule of Blood,chapter_29,Chapter 29: Rule of Blood,Sadeas,3213,9427,9636
+Words of Radiance,37,chapter,2,30,Nature Blushing,chapter_30,Chapter 30: Nature Blushing,Shallan,2639,9637,9848
+Words of Radiance,38,chapter,2,31,The Stillness Before,chapter_31,Chapter 31: The Stillness Before,Shallan,2313,9849,10054
+Words of Radiance,39,chapter,2,32,The One Who Hates,chapter_32,Chapter 32: The One Who Hates,Kaladin,3367,10055,10372
+Words of Radiance,40,chapter,2,33,Burdens,chapter_33,Chapter 33: Burdens,Kaladin,2986,10373,10638
+Words of Radiance,41,chapter,2,34,Blossoms and Cake,chapter_34,Chapter 34: Blossoms and Cake,Shallan,2816,10639,10870
+Words of Radiance,42,interlude,2,5,,interlude_5,Interlude I-5,Eshonai,1379,10871,10958
+Words of Radiance,43,interlude,2,6,,interlude_6,Interlude I-6,Zahel,431,10959,11002
+Words of Radiance,44,interlude,2,7,,interlude_7,Interlude I-7,Talk,915,11003,11122
+Words of Radiance,45,interlude,2,8,,interlude_8,Interlude I-8,Eshonai,604,11123,11168
+Words of Radiance,46,part,3,3,Deadly,part_3,Part Three: Deadly,,0,11169,11170
+Words of Radiance,47,chapter,3,35,The Multiplied Strain of Simultaneous Infusion,chapter_35,Chapter 35: The Multiplied Strain of Simultaneous Infusion,Adolin,4703,11171,11456
+Words of Radiance,48,chapter,3,36,A New Woman,chapter_36,Chapter 36: A New Woman,Shallan,4685,11457,11816
+Words of Radiance,49,chapter,3,37,A Matter of Perspective,chapter_37,Chapter 37: A Matter of Perspective,Adolin,2673,11817,12010
+Words of Radiance,50,chapter,3,38,The Silent Storm,chapter_38,Chapter 38: The Silent Storm,Shallan,5446,12011,12380
+Words of Radiance,51,chapter,3,39,Heterochromatic,chapter_39,Chapter 39: Heterochromatic,Shallan,3022,12381,12620
+Words of Radiance,52,chapter,3,40,Palona,chapter_40,Chapter 40: Palona,Shallan,2179,12621,12802
+Words of Radiance,53,chapter,3,41,Scars,chapter_41,Chapter 41: Scars,Kaladin,5624,12803,13324
+Words of Radiance,54,chapter,3,42,Mere Vapors,chapter_42,Chapter 42: Mere Vapors,Shallan,2509,13325,13504
+Words of Radiance,55,chapter,3,43,The Ghostbloods,chapter_43,Chapter 43: The Ghostbloods,Shallan,5461,13505,13818
+Words of Radiance,56,chapter,3,44,One Form of Justice,chapter_44,Chapter 44: One Form of Justice,Kaladin,5591,13819,14288
+Words of Radiance,57,chapter,3,45,Middlefest,chapter_45,Chapter 45: Middlefest,Shallan,6680,14289,14786
+Words of Radiance,58,chapter,3,46,Patriots,chapter_46,Chapter 46: Patriots,Kaladin,6708,14787,15324
+Words of Radiance,59,chapter,3,47,Feminine Wiles,chapter_47,Chapter 47: Feminine Wiles,Shallan,3631,15325,15562
+Words of Radiance,60,chapter,3,48,No More Weakness,chapter_48,Chapter 48: No More Weakness,Shallan,3341,15563,15890
+Words of Radiance,61,chapter,3,49,Watching the World Transform,chapter_49,Chapter 49: Watching the World Transform,Shallan,6331,15891,16360
+Words of Radiance,62,chapter,3,50,Uncut Gems,chapter_50,Chapter 50: Uncut Gems,Adolin,2864,16361,16554
+Words of Radiance,63,chapter,3,51,Heirs,chapter_51,Chapter 51: Heirs,Adolin,2814,16555,16750
+Words of Radiance,64,chapter,3,52,Into the Sky,chapter_52,Chapter 52: Into the Sky,Kaladin,7987,16751,17368
+Words of Radiance,65,chapter,3,53,Perfection,chapter_53,Chapter 53: Perfection,Adolin,2317,17369,17602
+Words of Radiance,66,chapter,3,54,Veil's Lesson,chapter_54,Chapter 54: Veil's Lesson,Shallan,4428,17603,17912
+Words of Radiance,67,chapter,3,55,The Rules of the Game,chapter_55,Chapter 55: The Rules of the Game,Kaladin,6193,17913,18432
+Words of Radiance,68,chapter,3,56,Whitespine Uncaged,chapter_56,Chapter 56: Whitespine Uncaged,Kaladin,4993,18433,18832
+Words of Radiance,69,chapter,3,57,To Kill the Wind,chapter_57,Chapter 57: To Kill the Wind,Kaladin,3854,18833,19138
+Words of Radiance,70,chapter,3,58,Never Again,chapter_58,Chapter 58: Never Again,Kaladin,1707,19139,19318
+Words of Radiance,71,interlude,3,9,,interlude_9,Interlude I-9,Lift,10612,19319,20314
+Words of Radiance,72,interlude,3,10,,interlude_10,Interlude I-10,Szeth,770,20315,20374
+Words of Radiance,73,interlude,3,11,,interlude_11,Interlude I-11,Eshonai,4780,20375,20728
+Words of Radiance,74,part,4,4,The Approach,part_4,Part Four: The Approach,,0,20729,20730
+Words of Radiance,75,chapter,4,59,Fleet,chapter_59,Chapter 59: Fleet,Kaladin,2817,20731,20998
+Words of Radiance,76,chapter,4,60,Veil Walks,chapter_60,Chapter 60: Veil Walks,Shallan,3168,20999,21210
+Words of Radiance,77,chapter,4,61,Obedience,chapter_61,Chapter 61: Obedience,Shallan,1862,21211,21360
+Words of Radiance,78,chapter,4,62,The One Who Killed Promises,chapter_62,Chapter 62: The One Who Killed Promises,Kaladin,2162,21361,21538
+Words of Radiance,79,chapter,4,63,A Burning World,chapter_63,Chapter 63: A Burning World,Shallan,5536,21539,21950
+Words of Radiance,80,chapter,4,64,Treasures,chapter_64,Chapter 64: Treasures,Shallan,1682,21951,22084
+Words of Radiance,81,chapter,4,65,The One Who Deserves It,chapter_65,Chapter 65: The One Who Deserves It,Shallan,1818,22085,22212
+Words of Radiance,82,chapter,4,66,Stormblessings,chapter_66,Chapter 66: Stormblessings,Kaladin,3077,22213,22446
+Words of Radiance,83,chapter,4,67,Spit and Bile,chapter_67,Chapter 67: Spit and Bile,Dalinar,5938,22447,22894
+Words of Radiance,84,chapter,4,68,Bridges,chapter_68,Chapter 68: Bridges,Kaladin,7167,22895,23436
+Words of Radiance,85,chapter,4,69,Nothing,chapter_69,Chapter 69: Nothing,Shallan,3993,23437,23762
+Words of Radiance,86,chapter,4,70,From a Nightmare,chapter_70,Chapter 70: From a Nightmare,Kaladin,4779,23763,24146
+Words of Radiance,87,chapter,4,71,Vigil,chapter_71,Chapter 71: Vigil,Kaladin,5968,24147,24698
+Words of Radiance,88,chapter,4,72,Selfish Reasons,chapter_72,Chapter 72: Selfish Reasons,Shallan,4085,24699,25046
+Words of Radiance,89,chapter,4,73,A Thousand Scurrying Creatures,chapter_73,Chapter 73: A Thousand Scurrying Creatures,Shallan,2857,25047,25330
+Words of Radiance,90,chapter,4,74,Striding the Storm,chapter_74,Chapter 74: Striding the Storm,Kaladin,2717,25331,25520
+Words of Radiance,91,chapter,4,75,True Glory,chapter_75,Chapter 75: True Glory,Dalinar,3864,25521,25862
+Words of Radiance,92,interlude,4,12,,interlude_12,Interlude I-12,Lhan,2539,25863,26020
+Words of Radiance,93,interlude,4,13,,interlude_13,Interlude I-13,Eshonai,517,26021,26068
+Words of Radiance,94,interlude,4,14,,interlude_14,Interlude I-14,Taravangian,7088,26069,26562
+Words of Radiance,95,part,5,5,Winds Alight,part_5,Part Five: Winds Alight,,0,26563,26564
+Words of Radiance,96,chapter,5,76,The Hidden Blade,chapter_76,Chapter 76: The Hidden Blade,Kaladin,4970,26565,27008
+Words of Radiance,97,chapter,5,77,Trust,chapter_77,Chapter 77: Trust,Shallan,3961,27009,27336
+Words of Radiance,98,chapter,5,78,Contradictions,chapter_78,Chapter 78: Contradictions,Shallan,3332,27337,27604
+Words of Radiance,99,chapter,5,79,Toward the Center,chapter_79,Chapter 79: Toward the Center,Dalinar,1523,27605,27736
+Words of Radiance,100,chapter,5,80,To Fight the Rain,chapter_80,Chapter 80: To Fight the Rain,Kaladin,3573,27737,27982
+Words of Radiance,101,chapter,5,81,The Last Day,chapter_81,Chapter 81: The Last Day,Dalinar,7281,27983,28562
+Words of Radiance,102,chapter,5,82,For Glory Lit,chapter_82,Chapter 82: For Glory Lit,Kaladin,4124,28563,28872
+Words of Radiance,103,chapter,5,83,Time's Illusion,chapter_83,Chapter 83: Time's Illusion,Adolin,3858,28873,29176
+Words of Radiance,104,chapter,5,84,The One Who Saves,chapter_84,Chapter 84: The One Who Saves,Kaladin,3121,29177,29452
+Words of Radiance,105,chapter,5,85,Swallowed by the Sky,chapter_85,Chapter 85: Swallowed by the Sky,Dalinar,3424,29453,29756
+Words of Radiance,106,chapter,5,86,Patterns of Light,chapter_86,Chapter 86: Patterns of Light,Shallan,6044,29757,30304
+Words of Radiance,107,chapter,5,87,The Riddens,chapter_87,Chapter 87: The Riddens,Kaladin,4542,30305,30644
+Words of Radiance,108,chapter,5,88,The Man Who Owned the Winds,chapter_88,Chapter 88: The Man Who Owned the Winds,Shallan,4224,30645,31004
+Words of Radiance,109,chapter,5,89,The Four,chapter_89,Chapter 89: The Four,Adolin,4069,31005,31314
+Words of Radiance,110,epilogue,5,,Art and Expectation,epilogue,Epilogue: Art and Expectation,Wit,1818,31315,31471

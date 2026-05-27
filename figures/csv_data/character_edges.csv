@@ -1,2016 +1,1007 @@
-source,target,book,weight
-Adolin,Adrotagia,Words of Radiance,1
-Adolin,Aladar,The Way of Kings,4
-Adolin,Aladar,Words of Radiance,21
-Adolin,Amaram,The Way of Kings,2
-Adolin,Amaram,Words of Radiance,35
-Adolin,Ash,Words of Radiance,4
-Adolin,Balat,Words of Radiance,1
-Adolin,Bashin,The Way of Kings,1
-Adolin,Bashin,Words of Radiance,1
-Adolin,Battah,Words of Radiance,1
-Adolin,Battar,The Way of Kings,1
-Adolin,Beld,Words of Radiance,1
-Adolin,Bethab,The Way of Kings,2
-Adolin,Bethab,Words of Radiance,4
-Adolin,Bisig,Words of Radiance,2
-Adolin,Chana,Words of Radiance,1
-Adolin,Dalinar,The Way of Kings,44
-Adolin,Dalinar,Words of Radiance,80
-Adolin,Drehy,Words of Radiance,10
-Adolin,Elhokar,The Way of Kings,28
-Adolin,Elhokar,Words of Radiance,27
-Adolin,Eshonai,Words of Radiance,4
-Adolin,Eth,Words of Radiance,5
-Adolin,Gavilar,The Way of Kings,25
-Adolin,Gavilar,Words of Radiance,22
-Adolin,Gaz,Words of Radiance,10
-Adolin,Hatham,The Way of Kings,3
-Adolin,Hatham,Words of Radiance,7
-Adolin,Helaran,Words of Radiance,4
-Adolin,Hobber,Words of Radiance,2
-Adolin,Ialai,The Way of Kings,1
-Adolin,Ialai,Words of Radiance,4
-Adolin,Ishar,Words of Radiance,1
-Adolin,Iyatil,Words of Radiance,2
-Adolin,Jakamav,The Way of Kings,1
-Adolin,Jakamav,Words of Radiance,6
-Adolin,Jaks,The Way of Kings,1
-Adolin,Jasnah,The Way of Kings,11
-Adolin,Jasnah,Words of Radiance,29
-Adolin,Kabsal,Words of Radiance,2
-Adolin,Kaladin,The Way of Kings,5
-Adolin,Kaladin,Words of Radiance,49
-Adolin,Kalak,The Way of Kings,1
-Adolin,Kalak,Words of Radiance,5
-Adolin,Khal,Words of Radiance,16
-Adolin,Leyten,Words of Radiance,4
-Adolin,Lirin,Words of Radiance,1
-Adolin,Lopen,The Way of Kings,1
-Adolin,Lopen,Words of Radiance,10
-Adolin,Maps,The Way of Kings,1
-Adolin,Maps,Words of Radiance,1
-Adolin,Mart,Words of Radiance,5
-Adolin,Moash,The Way of Kings,2
-Adolin,Moash,Words of Radiance,18
-Adolin,Mraize,Words of Radiance,6
-Adolin,Natam,Words of Radiance,3
-Adolin,Navani,The Way of Kings,16
-Adolin,Navani,Words of Radiance,47
-Adolin,Pailiah,Words of Radiance,1
-Adolin,Pattern,Words of Radiance,25
-Adolin,Renarin,The Way of Kings,23
-Adolin,Renarin,Words of Radiance,41
-Adolin,Rock,The Way of Kings,3
-Adolin,Rock,Words of Radiance,13
-Adolin,Roion,The Way of Kings,5
-Adolin,Roion,Words of Radiance,22
-Adolin,Roshone,Words of Radiance,5
-Adolin,Ruthar,The Way of Kings,1
-Adolin,Ruthar,Words of Radiance,11
-Adolin,Sadeas,The Way of Kings,37
-Adolin,Sadeas,Words of Radiance,45
-Adolin,Sebarial,Words of Radiance,24
-Adolin,Shalash,Words of Radiance,1
-Adolin,Shallan,Words of Radiance,55
-Adolin,Sigzil,The Way of Kings,1
-Adolin,Sigzil,Words of Radiance,7
-Adolin,Skar,The Way of Kings,2
-Adolin,Skar,Words of Radiance,15
-Adolin,Syl,The Way of Kings,3
-Adolin,Syl,Words of Radiance,23
-Adolin,Szeth,Words of Radiance,7
-Adolin,Talenel,The Way of Kings,1
-Adolin,Talenel,Words of Radiance,2
-Adolin,Tarah,Words of Radiance,2
-Adolin,Taravangian,Words of Radiance,1
-Adolin,Teft,The Way of Kings,3
-Adolin,Teft,Words of Radiance,14
-Adolin,Teleb,The Way of Kings,6
-Adolin,Teleb,Words of Radiance,7
-Adolin,Thanadal,The Way of Kings,5
-Adolin,Thanadal,Words of Radiance,6
-Adolin,Tien,The Way of Kings,1
-Adolin,Tien,Words of Radiance,7
-Adolin,Tyn,Words of Radiance,11
-Adolin,Vamah,The Way of Kings,6
-Adolin,Vamah,Words of Radiance,3
-Adolin,Vathah,Words of Radiance,9
-Adolin,Wit,The Way of Kings,8
-Adolin,Wit,Words of Radiance,7
-Adolin,Yake,Words of Radiance,1
-Adolin,Yenev,Words of Radiance,3
-Adolin,Zahel,Words of Radiance,14
-Adrotagia,Aladar,Words of Radiance,1
-Adrotagia,Bisig,Words of Radiance,1
-Adrotagia,Dalinar,Words of Radiance,3
-Adrotagia,Drehy,Words of Radiance,1
-Adrotagia,Gavilar,Words of Radiance,2
-Adrotagia,Jasnah,Words of Radiance,1
-Adrotagia,Kaladin,Words of Radiance,1
-Adrotagia,Khal,Words of Radiance,1
-Adrotagia,Leyten,Words of Radiance,1
-Adrotagia,Lopen,Words of Radiance,1
-Adrotagia,Mart,Words of Radiance,1
-Adrotagia,Moash,Words of Radiance,1
-Adrotagia,Mraize,Words of Radiance,1
-Adrotagia,Mrall,Words of Radiance,1
-Adrotagia,Navani,Words of Radiance,1
-Adrotagia,Redin,Words of Radiance,1
-Adrotagia,Rock,Words of Radiance,1
-Adrotagia,Roion,Words of Radiance,1
-Adrotagia,Sadeas,Words of Radiance,1
-Adrotagia,Shallan,Words of Radiance,2
-Adrotagia,Sigzil,Words of Radiance,1
-Adrotagia,Syl,Words of Radiance,1
-Adrotagia,Szeth,Words of Radiance,3
-Adrotagia,Taravangian,Words of Radiance,1
-Adrotagia,Teft,Words of Radiance,1
-Adrotagia,Valam,Words of Radiance,1
-Aesudan,Amaram,Words of Radiance,1
-Aesudan,Ash,Words of Radiance,1
-Aesudan,Dalinar,Words of Radiance,1
-Aesudan,Elhokar,Words of Radiance,2
-Aesudan,Gavilar,Words of Radiance,2
-Aesudan,Jasnah,Words of Radiance,1
-Aesudan,Lhan,Words of Radiance,1
-Aesudan,Navani,Words of Radiance,1
-Aesudan,Sadeas,Words of Radiance,1
-Aesudan,Talenel,Words of Radiance,1
-Aladar,Amaram,Words of Radiance,4
-Aladar,Ash,Words of Radiance,1
-Aladar,Bethab,Words of Radiance,2
-Aladar,Dalinar,The Way of Kings,4
-Aladar,Dalinar,Words of Radiance,23
-Aladar,Drehy,Words of Radiance,1
-Aladar,Elhokar,The Way of Kings,3
-Aladar,Elhokar,Words of Radiance,6
-Aladar,Eshonai,Words of Radiance,2
-Aladar,Gavilar,The Way of Kings,3
-Aladar,Gavilar,Words of Radiance,11
-Aladar,Gaz,Words of Radiance,4
-Aladar,Hatham,The Way of Kings,1
-Aladar,Hatham,Words of Radiance,4
-Aladar,Helaran,Words of Radiance,1
-Aladar,Ialai,Words of Radiance,5
-Aladar,Jakamav,The Way of Kings,1
-Aladar,Jakamav,Words of Radiance,1
-Aladar,Jasnah,The Way of Kings,2
-Aladar,Jasnah,Words of Radiance,8
-Aladar,Kaladin,Words of Radiance,6
-Aladar,Kalak,Words of Radiance,2
-Aladar,Khal,Words of Radiance,10
-Aladar,Moash,Words of Radiance,1
-Aladar,Mraize,Words of Radiance,1
-Aladar,Navani,Words of Radiance,15
-Aladar,Pattern,Words of Radiance,4
-Aladar,Renarin,The Way of Kings,4
-Aladar,Renarin,Words of Radiance,5
-Aladar,Rock,Words of Radiance,3
-Aladar,Roion,The Way of Kings,2
-Aladar,Roion,Words of Radiance,15
-Aladar,Ruthar,The Way of Kings,1
-Aladar,Ruthar,Words of Radiance,6
-Aladar,Sadeas,The Way of Kings,4
-Aladar,Sadeas,Words of Radiance,14
-Aladar,Sebarial,Words of Radiance,11
-Aladar,Shallan,Words of Radiance,17
-Aladar,Sigzil,Words of Radiance,1
-Aladar,Skar,Words of Radiance,2
-Aladar,Syl,Words of Radiance,1
-Aladar,Szeth,Words of Radiance,1
-Aladar,Talenel,Words of Radiance,1
-Aladar,Teft,Words of Radiance,1
-Aladar,Teleb,The Way of Kings,1
-Aladar,Teleb,Words of Radiance,5
-Aladar,Thanadal,The Way of Kings,2
-Aladar,Thanadal,Words of Radiance,4
-Aladar,Tyn,Words of Radiance,3
-Aladar,Vamah,The Way of Kings,1
-Aladar,Vamah,Words of Radiance,3
-Aladar,Vathah,Words of Radiance,4
-Aladar,Wit,The Way of Kings,1
-Aladar,Wit,Words of Radiance,2
-Aladar,Yenev,Words of Radiance,3
-Aladar,Zahel,Words of Radiance,2
-Amaram,Ash,Words of Radiance,3
-Amaram,Balat,Words of Radiance,1
-Amaram,Bashin,Words of Radiance,1
-Amaram,Baxil,The Way of Kings,1
-Amaram,Beld,Words of Radiance,1
-Amaram,Bethab,Words of Radiance,2
-Amaram,Bisig,The Way of Kings,1
-Amaram,Bisig,Words of Radiance,2
-Amaram,Cenn,The Way of Kings,5
-Amaram,Chana,Words of Radiance,1
-Amaram,Coreb,The Way of Kings,2
-Amaram,Coreb,Words of Radiance,1
-Amaram,Dabbid,The Way of Kings,8
-Amaram,Dabbid,Words of Radiance,1
-Amaram,Dalinar,The Way of Kings,12
-Amaram,Dalinar,Words of Radiance,42
-Amaram,Drehy,The Way of Kings,8
-Amaram,Drehy,Words of Radiance,7
-Amaram,Elhokar,Words of Radiance,13
-Amaram,Eth,Words of Radiance,3
-Amaram,Gavilar,The Way of Kings,4
-Amaram,Gavilar,Words of Radiance,12
-Amaram,Gaz,The Way of Kings,13
-Amaram,Gaz,Words of Radiance,2
-Amaram,Geranid,The Way of Kings,1
-Amaram,Hatham,Words of Radiance,3
-Amaram,Helaran,Words of Radiance,5
-Amaram,Hesina,The Way of Kings,2
-Amaram,Hobber,The Way of Kings,3
-Amaram,Hobber,Words of Radiance,3
-Amaram,Ialai,Words of Radiance,1
-Amaram,Ishar,Words of Radiance,2
-Amaram,Iyatil,Words of Radiance,3
-Amaram,Jakamav,Words of Radiance,2
-Amaram,Jaks,The Way of Kings,2
-Amaram,Jasnah,Words of Radiance,14
-Amaram,Jezrien,The Way of Kings,1
-Amaram,Kabsal,Words of Radiance,2
-Amaram,Kaladin,The Way of Kings,35
-Amaram,Kaladin,Words of Radiance,29
-Amaram,Kalak,The Way of Kings,7
-Amaram,Kalak,Words of Radiance,3
-Amaram,Khal,Words of Radiance,4
-Amaram,Laral,The Way of Kings,3
-Amaram,Leyten,The Way of Kings,8
-Amaram,Leyten,Words of Radiance,3
-Amaram,Lift,The Way of Kings,2
-Amaram,Lirin,The Way of Kings,10
-Amaram,Lirin,Words of Radiance,1
-Amaram,Lopen,The Way of Kings,10
-Amaram,Lopen,Words of Radiance,14
-Amaram,Maps,The Way of Kings,5
-Amaram,Maps,Words of Radiance,2
-Amaram,Mart,Words of Radiance,3
-Amaram,Moash,The Way of Kings,17
-Amaram,Moash,Words of Radiance,19
-Amaram,Mraize,Words of Radiance,5
-Amaram,Murk,The Way of Kings,1
-Amaram,Natam,Words of Radiance,3
-Amaram,Navani,Words of Radiance,16
-Amaram,Pattern,Words of Radiance,14
-Amaram,Renarin,Words of Radiance,16
-Amaram,Rock,The Way of Kings,18
-Amaram,Rock,Words of Radiance,13
-Amaram,Roion,Words of Radiance,7
-Amaram,Roshone,The Way of Kings,7
-Amaram,Roshone,Words of Radiance,4
-Amaram,Ruthar,Words of Radiance,4
-Amaram,Sadeas,The Way of Kings,24
-Amaram,Sadeas,Words of Radiance,30
-Amaram,Sebarial,Words of Radiance,15
-Amaram,Shallan,Words of Radiance,26
-Amaram,Sigzil,The Way of Kings,10
-Amaram,Sigzil,Words of Radiance,9
-Amaram,Skar,The Way of Kings,12
-Amaram,Skar,Words of Radiance,9
-Amaram,Syl,The Way of Kings,18
-Amaram,Syl,Words of Radiance,21
-Amaram,Szeth,The Way of Kings,1
-Amaram,Talenel,The Way of Kings,2
-Amaram,Talenel,Words of Radiance,4
-Amaram,Tarah,The Way of Kings,2
-Amaram,Tarah,Words of Radiance,1
-Amaram,Teft,The Way of Kings,19
-Amaram,Teft,Words of Radiance,14
-Amaram,Teleb,Words of Radiance,1
-Amaram,Thanadal,Words of Radiance,1
-Amaram,Tien,The Way of Kings,20
-Amaram,Tien,Words of Radiance,6
-Amaram,Tyn,Words of Radiance,5
-Amaram,Vamah,Words of Radiance,1
-Amaram,Vathah,Words of Radiance,3
-Amaram,Wit,The Way of Kings,2
-Amaram,Wit,Words of Radiance,5
-Amaram,Yake,The Way of Kings,5
-Amaram,Yake,Words of Radiance,1
-Amaram,Yenev,Words of Radiance,1
-Amaram,Zahel,Words of Radiance,9
-Ash,Dalinar,Words of Radiance,5
-Ash,Elhokar,Words of Radiance,2
-Ash,Gavilar,Words of Radiance,2
-Ash,Gaz,Words of Radiance,2
-Ash,Hatham,Words of Radiance,1
-Ash,Ialai,Words of Radiance,1
-Ash,Jakamav,Words of Radiance,1
-Ash,Jasnah,The Way of Kings,1
-Ash,Jasnah,Words of Radiance,6
-Ash,Kabsal,Words of Radiance,1
-Ash,Khal,Words of Radiance,1
-Ash,Navani,Words of Radiance,4
-Ash,Pattern,Words of Radiance,4
-Ash,Renarin,Words of Radiance,2
-Ash,Roion,Words of Radiance,1
-Ash,Ruthar,Words of Radiance,2
-Ash,Sadeas,Words of Radiance,4
-Ash,Sebarial,Words of Radiance,3
-Ash,Shalash,Words of Radiance,1
-Ash,Shallan,The Way of Kings,1
-Ash,Shallan,Words of Radiance,4
-Ash,Talenel,Words of Radiance,2
-Ash,Tyn,Words of Radiance,4
-Ash,Vamah,Words of Radiance,1
-Ash,Vathah,Words of Radiance,3
-Ash,Wit,Words of Radiance,1
-Balat,Dalinar,Words of Radiance,1
-Balat,Elhokar,The Way of Kings,1
-Balat,Gavilar,Words of Radiance,1
-Balat,Helaran,The Way of Kings,1
-Balat,Helaran,Words of Radiance,8
-Balat,Iyatil,Words of Radiance,1
-Balat,Jasnah,The Way of Kings,8
-Balat,Jasnah,Words of Radiance,3
-Balat,Jushu,The Way of Kings,3
-Balat,Jushu,Words of Radiance,7
-Balat,Kabsal,The Way of Kings,5
-Balat,Kaladin,Words of Radiance,1
-Balat,Mraize,Words of Radiance,1
-Balat,Nan,The Way of Kings,8
-Balat,Nan,Words of Radiance,4
-Balat,Navani,Words of Radiance,1
-Balat,Pattern,Words of Radiance,2
-Balat,Redin,Words of Radiance,1
-Balat,Shallan,The Way of Kings,8
-Balat,Shallan,Words of Radiance,11
-Balat,Taravangian,The Way of Kings,1
-Balat,Valam,Words of Radiance,2
-Balat,Wikim,The Way of Kings,3
-Balat,Wikim,Words of Radiance,6
-Bashin,Dalinar,The Way of Kings,1
-Bashin,Dalinar,Words of Radiance,1
-Bashin,Elhokar,The Way of Kings,1
-Bashin,Gavilar,The Way of Kings,1
-Bashin,Gavilar,Words of Radiance,1
-Bashin,Jasnah,The Way of Kings,1
-Bashin,Jasnah,Words of Radiance,1
-Bashin,Kaladin,Words of Radiance,1
-Bashin,Leyten,Words of Radiance,1
-Bashin,Navani,The Way of Kings,1
-Bashin,Navani,Words of Radiance,1
-Bashin,Pattern,Words of Radiance,1
-Bashin,Renarin,The Way of Kings,1
-Bashin,Sadeas,The Way of Kings,1
-Bashin,Shallan,Words of Radiance,1
-Bashin,Skar,Words of Radiance,1
-Bashin,Teleb,Words of Radiance,1
-Bashin,Vamah,The Way of Kings,1
-Bashin,Vathah,Words of Radiance,1
-Bashin,Wit,The Way of Kings,1
-Battah,Dalinar,Words of Radiance,1
-Battah,Jasnah,Words of Radiance,1
-Battah,Navani,Words of Radiance,1
-Battah,Pailiah,Words of Radiance,1
-Battah,Renarin,Words of Radiance,1
-Battah,Sadeas,Words of Radiance,1
-Battah,Shallan,Words of Radiance,1
-Battah,Thanadal,Words of Radiance,1
-Battar,Dalinar,The Way of Kings,1
-Battar,Elhokar,The Way of Kings,1
-Battar,Renarin,The Way of Kings,1
-Battar,Sadeas,The Way of Kings,1
-Baxil,Coreb,The Way of Kings,1
-Baxil,Geranid,The Way of Kings,1
-Baxil,Kaladin,The Way of Kings,1
-Baxil,Roshone,The Way of Kings,1
-Baxil,Szeth,The Way of Kings,1
-Baxil,Tien,The Way of Kings,1
-Beld,Dabbid,Words of Radiance,1
-Beld,Dalinar,Words of Radiance,4
-Beld,Drehy,Words of Radiance,1
-Beld,Elhokar,Words of Radiance,1
-Beld,Eth,Words of Radiance,2
-Beld,Hobber,Words of Radiance,3
-Beld,Kaladin,Words of Radiance,4
-Beld,Kalak,Words of Radiance,1
-Beld,Leyten,Words of Radiance,1
-Beld,Lopen,Words of Radiance,2
-Beld,Mart,Words of Radiance,2
-Beld,Moash,Words of Radiance,3
-Beld,Navani,Words of Radiance,2
-Beld,Renarin,Words of Radiance,1
-Beld,Rock,Words of Radiance,3
-Beld,Sadeas,Words of Radiance,2
-Beld,Sigzil,Words of Radiance,2
-Beld,Skar,Words of Radiance,2
-Beld,Syl,Words of Radiance,4
-Beld,Teft,Words of Radiance,2
-Bethab,Dalinar,The Way of Kings,2
-Bethab,Dalinar,Words of Radiance,4
-Bethab,Drehy,Words of Radiance,1
-Bethab,Elhokar,The Way of Kings,2
-Bethab,Elhokar,Words of Radiance,3
-Bethab,Gavilar,The Way of Kings,2
-Bethab,Gavilar,Words of Radiance,1
-Bethab,Gaz,Words of Radiance,2
-Bethab,Hatham,The Way of Kings,1
-Bethab,Hatham,Words of Radiance,2
-Bethab,Hobber,Words of Radiance,1
-Bethab,Jasnah,The Way of Kings,1
-Bethab,Jasnah,Words of Radiance,2
-Bethab,Kaladin,Words of Radiance,3
-Bethab,Khal,Words of Radiance,1
-Bethab,Leyten,Words of Radiance,2
-Bethab,Lopen,Words of Radiance,2
-Bethab,Moash,Words of Radiance,2
-Bethab,Natam,Words of Radiance,1
-Bethab,Navani,The Way of Kings,1
-Bethab,Navani,Words of Radiance,2
-Bethab,Pattern,Words of Radiance,1
-Bethab,Renarin,Words of Radiance,2
-Bethab,Rock,Words of Radiance,2
-Bethab,Roion,The Way of Kings,1
-Bethab,Roshone,Words of Radiance,1
-Bethab,Ruthar,Words of Radiance,2
-Bethab,Sadeas,The Way of Kings,2
-Bethab,Sadeas,Words of Radiance,4
-Bethab,Sebarial,Words of Radiance,1
-Bethab,Shallan,Words of Radiance,3
-Bethab,Sigzil,Words of Radiance,1
-Bethab,Syl,Words of Radiance,2
-Bethab,Tarah,Words of Radiance,1
-Bethab,Teft,Words of Radiance,2
-Bethab,Teleb,The Way of Kings,1
-Bethab,Thanadal,The Way of Kings,1
-Bethab,Thanadal,Words of Radiance,3
-Bethab,Tyn,Words of Radiance,1
-Bethab,Vamah,The Way of Kings,1
-Bethab,Vamah,Words of Radiance,2
-Bethab,Vathah,Words of Radiance,1
-Bethab,Wit,The Way of Kings,1
-Bethab,Wit,Words of Radiance,1
-Bethab,Zahel,Words of Radiance,1
-Bisig,Dabbid,The Way of Kings,1
-Bisig,Dalinar,Words of Radiance,3
-Bisig,Drehy,Words of Radiance,1
-Bisig,Elhokar,Words of Radiance,1
-Bisig,Gaz,The Way of Kings,2
-Bisig,Kaladin,The Way of Kings,3
-Bisig,Kaladin,Words of Radiance,3
-Bisig,Kalak,The Way of Kings,1
-Bisig,Leyten,Words of Radiance,2
-Bisig,Lopen,The Way of Kings,1
-Bisig,Lopen,Words of Radiance,3
-Bisig,Maps,The Way of Kings,1
-Bisig,Mart,Words of Radiance,2
-Bisig,Moash,The Way of Kings,1
-Bisig,Moash,Words of Radiance,3
-Bisig,Natam,Words of Radiance,1
-Bisig,Navani,Words of Radiance,1
-Bisig,Renarin,Words of Radiance,2
-Bisig,Rock,The Way of Kings,3
-Bisig,Rock,Words of Radiance,3
-Bisig,Roion,Words of Radiance,2
-Bisig,Sadeas,The Way of Kings,2
-Bisig,Sadeas,Words of Radiance,1
-Bisig,Shallan,Words of Radiance,2
-Bisig,Sigzil,The Way of Kings,2
-Bisig,Sigzil,Words of Radiance,1
-Bisig,Skar,The Way of Kings,2
-Bisig,Skar,Words of Radiance,2
-Bisig,Syl,The Way of Kings,2
-Bisig,Syl,Words of Radiance,2
-Bisig,Szeth,Words of Radiance,1
-Bisig,Teft,The Way of Kings,3
-Bisig,Teft,Words of Radiance,3
-Bisig,Yake,The Way of Kings,1
-Cenn,Coreb,The Way of Kings,1
-Cenn,Dabbid,The Way of Kings,1
-Cenn,Dalinar,The Way of Kings,2
-Cenn,Drehy,The Way of Kings,1
-Cenn,Gavilar,The Way of Kings,1
-Cenn,Gaz,The Way of Kings,1
-Cenn,Kaladin,The Way of Kings,6
-Cenn,Kalak,The Way of Kings,1
-Cenn,Lopen,The Way of Kings,1
-Cenn,Maps,The Way of Kings,1
-Cenn,Moash,The Way of Kings,1
-Cenn,Rock,The Way of Kings,1
-Cenn,Roshone,The Way of Kings,2
-Cenn,Sadeas,The Way of Kings,5
-Cenn,Skar,The Way of Kings,1
-Cenn,Syl,The Way of Kings,2
-Cenn,Talenel,The Way of Kings,1
-Cenn,Teft,The Way of Kings,1
-Cenn,Tien,The Way of Kings,5
-Chana,Dalinar,Words of Radiance,2
-Chana,Jasnah,Words of Radiance,1
-Chana,Kaladin,Words of Radiance,2
-Chana,Navani,Words of Radiance,2
-Chana,Pattern,Words of Radiance,1
-Chana,Rock,Words of Radiance,1
-Chana,Shallan,Words of Radiance,2
-Coreb,Dalinar,The Way of Kings,1
-Coreb,Dalinar,Words of Radiance,1
-Coreb,Drehy,Words of Radiance,1
-Coreb,Geranid,The Way of Kings,1
-Coreb,Kaladin,The Way of Kings,2
-Coreb,Kaladin,Words of Radiance,1
-Coreb,Lopen,Words of Radiance,1
-Coreb,Moash,Words of Radiance,1
-Coreb,Rock,Words of Radiance,1
-Coreb,Roshone,The Way of Kings,2
-Coreb,Sadeas,The Way of Kings,1
-Coreb,Sadeas,Words of Radiance,1
-Coreb,Sigzil,Words of Radiance,1
-Coreb,Syl,Words of Radiance,1
-Coreb,Szeth,The Way of Kings,1
-Coreb,Teft,Words of Radiance,1
-Coreb,Tien,The Way of Kings,2
-Dabbid,Dalinar,The Way of Kings,4
-Dabbid,Dalinar,Words of Radiance,2
-Dabbid,Drehy,The Way of Kings,6
-Dabbid,Drehy,Words of Radiance,1
-Dabbid,Eth,Words of Radiance,1
-Dabbid,Gaz,The Way of Kings,9
-Dabbid,Hobber,The Way of Kings,6
-Dabbid,Hobber,Words of Radiance,1
-Dabbid,Jaks,The Way of Kings,1
-Dabbid,Jezrien,The Way of Kings,1
-Dabbid,Kaladin,The Way of Kings,13
-Dabbid,Kaladin,Words of Radiance,2
-Dabbid,Kalak,The Way of Kings,3
-Dabbid,Leyten,The Way of Kings,8
-Dabbid,Leyten,Words of Radiance,1
-Dabbid,Lift,The Way of Kings,1
-Dabbid,Lirin,The Way of Kings,3
-Dabbid,Lopen,The Way of Kings,10
-Dabbid,Lopen,Words of Radiance,2
-Dabbid,Maps,The Way of Kings,2
-Dabbid,Mart,Words of Radiance,1
-Dabbid,Moash,The Way of Kings,11
-Dabbid,Moash,Words of Radiance,2
-Dabbid,Murk,The Way of Kings,1
-Dabbid,Natam,The Way of Kings,2
-Dabbid,Navani,Words of Radiance,1
-Dabbid,Rock,The Way of Kings,13
-Dabbid,Rock,Words of Radiance,1
-Dabbid,Sadeas,The Way of Kings,13
-Dabbid,Sadeas,Words of Radiance,1
-Dabbid,Sigzil,The Way of Kings,5
-Dabbid,Sigzil,Words of Radiance,1
-Dabbid,Skar,The Way of Kings,7
-Dabbid,Skar,Words of Radiance,1
-Dabbid,Syl,The Way of Kings,12
-Dabbid,Syl,Words of Radiance,2
-Dabbid,Tarah,The Way of Kings,2
-Dabbid,Teft,The Way of Kings,13
-Dabbid,Teft,Words of Radiance,1
-Dabbid,Tien,The Way of Kings,7
-Dabbid,Wit,The Way of Kings,1
-Dabbid,Yake,The Way of Kings,3
-Dalinar,Drehy,The Way of Kings,7
-Dalinar,Drehy,Words of Radiance,10
-Dalinar,Elhokar,The Way of Kings,32
-Dalinar,Elhokar,Words of Radiance,32
-Dalinar,Eshonai,Words of Radiance,4
-Dalinar,Eth,Words of Radiance,7
-Dalinar,Gavilar,The Way of Kings,33
-Dalinar,Gavilar,Words of Radiance,31
-Dalinar,Gaz,The Way of Kings,4
-Dalinar,Gaz,Words of Radiance,9
-Dalinar,Hatham,The Way of Kings,3
-Dalinar,Hatham,Words of Radiance,7
-Dalinar,Helaran,Words of Radiance,3
-Dalinar,Hobber,The Way of Kings,1
-Dalinar,Hobber,Words of Radiance,5
-Dalinar,Ialai,The Way of Kings,1
-Dalinar,Ialai,Words of Radiance,7
-Dalinar,Ishar,Words of Radiance,2
-Dalinar,Iyatil,Words of Radiance,3
-Dalinar,Jakamav,The Way of Kings,1
-Dalinar,Jakamav,Words of Radiance,3
-Dalinar,Jaks,The Way of Kings,3
-Dalinar,Jasnah,The Way of Kings,14
-Dalinar,Jasnah,Words of Radiance,29
-Dalinar,Jezrien,The Way of Kings,1
-Dalinar,Kabsal,The Way of Kings,1
-Dalinar,Kabsal,Words of Radiance,1
-Dalinar,Kaladin,The Way of Kings,17
-Dalinar,Kaladin,Words of Radiance,69
-Dalinar,Kalak,The Way of Kings,4
-Dalinar,Kalak,Words of Radiance,6
-Dalinar,Khal,Words of Radiance,16
-Dalinar,Laral,The Way of Kings,2
-Dalinar,Leyten,The Way of Kings,4
-Dalinar,Leyten,Words of Radiance,8
-Dalinar,Lift,The Way of Kings,1
-Dalinar,Lirin,The Way of Kings,4
-Dalinar,Lirin,Words of Radiance,1
-Dalinar,Lopen,The Way of Kings,8
-Dalinar,Lopen,Words of Radiance,16
-Dalinar,Lyn,Words of Radiance,1
-Dalinar,Maps,The Way of Kings,5
-Dalinar,Maps,Words of Radiance,1
-Dalinar,Mart,Words of Radiance,8
-Dalinar,Moash,The Way of Kings,11
-Dalinar,Moash,Words of Radiance,32
-Dalinar,Mraize,Words of Radiance,4
-Dalinar,Mrall,Words of Radiance,1
-Dalinar,Natam,Words of Radiance,3
-Dalinar,Navani,The Way of Kings,20
-Dalinar,Navani,Words of Radiance,50
-Dalinar,Pailiah,Words of Radiance,1
-Dalinar,Palah,The Way of Kings,1
-Dalinar,Pattern,Words of Radiance,20
-Dalinar,Redin,Words of Radiance,1
-Dalinar,Renarin,The Way of Kings,25
-Dalinar,Renarin,Words of Radiance,36
-Dalinar,Rock,The Way of Kings,12
-Dalinar,Rock,Words of Radiance,23
-Dalinar,Roion,The Way of Kings,6
-Dalinar,Roion,Words of Radiance,24
-Dalinar,Roshone,The Way of Kings,2
-Dalinar,Roshone,Words of Radiance,6
-Dalinar,Ruthar,The Way of Kings,1
-Dalinar,Ruthar,Words of Radiance,11
-Dalinar,Sadeas,The Way of Kings,54
-Dalinar,Sadeas,Words of Radiance,60
-Dalinar,Sebarial,Words of Radiance,24
-Dalinar,Shalash,The Way of Kings,1
-Dalinar,Shalash,Words of Radiance,1
-Dalinar,Shallan,The Way of Kings,2
-Dalinar,Shallan,Words of Radiance,52
-Dalinar,Sigzil,The Way of Kings,6
-Dalinar,Sigzil,Words of Radiance,14
-Dalinar,Skar,The Way of Kings,10
-Dalinar,Skar,Words of Radiance,15
-Dalinar,Syl,The Way of Kings,9
-Dalinar,Syl,Words of Radiance,38
-Dalinar,Szeth,The Way of Kings,2
-Dalinar,Szeth,Words of Radiance,12
-Dalinar,Talenel,The Way of Kings,3
-Dalinar,Talenel,Words of Radiance,6
-Dalinar,Tarah,The Way of Kings,1
-Dalinar,Tarah,Words of Radiance,2
-Dalinar,Taravangian,The Way of Kings,2
-Dalinar,Taravangian,Words of Radiance,2
-Dalinar,Teft,The Way of Kings,12
-Dalinar,Teft,Words of Radiance,21
-Dalinar,Teleb,The Way of Kings,6
-Dalinar,Teleb,Words of Radiance,7
-Dalinar,Thanadal,The Way of Kings,5
-Dalinar,Thanadal,Words of Radiance,6
-Dalinar,Tien,The Way of Kings,6
-Dalinar,Tien,Words of Radiance,10
-Dalinar,Tyn,Words of Radiance,10
-Dalinar,Valam,Words of Radiance,2
-Dalinar,Vamah,The Way of Kings,6
-Dalinar,Vamah,Words of Radiance,3
-Dalinar,Vathah,Words of Radiance,10
-Dalinar,Wit,The Way of Kings,9
-Dalinar,Wit,Words of Radiance,8
-Dalinar,Yake,The Way of Kings,1
-Dalinar,Yake,Words of Radiance,1
-Dalinar,Yenev,Words of Radiance,3
-Dalinar,Zahel,Words of Radiance,11
-Drehy,Elhokar,The Way of Kings,1
-Drehy,Elhokar,Words of Radiance,3
-Drehy,Eshonai,Words of Radiance,1
-Drehy,Eth,Words of Radiance,2
-Drehy,Gavilar,Words of Radiance,2
-Drehy,Gaz,The Way of Kings,5
-Drehy,Hatham,Words of Radiance,1
-Drehy,Hobber,The Way of Kings,1
-Drehy,Hobber,Words of Radiance,1
-Drehy,Ishar,Words of Radiance,1
-Drehy,Jaks,The Way of Kings,3
-Drehy,Jezrien,The Way of Kings,1
-Drehy,Kaladin,The Way of Kings,12
-Drehy,Kaladin,Words of Radiance,10
-Drehy,Kalak,The Way of Kings,3
-Drehy,Kalak,Words of Radiance,1
-Drehy,Khal,Words of Radiance,1
-Drehy,Leyten,The Way of Kings,5
-Drehy,Leyten,Words of Radiance,3
-Drehy,Lift,The Way of Kings,1
-Drehy,Lirin,The Way of Kings,3
-Drehy,Lirin,Words of Radiance,1
-Drehy,Lopen,The Way of Kings,9
-Drehy,Lopen,Words of Radiance,8
-Drehy,Maps,The Way of Kings,3
-Drehy,Mart,Words of Radiance,3
-Drehy,Moash,The Way of Kings,11
-Drehy,Moash,Words of Radiance,10
-Drehy,Murk,The Way of Kings,1
-Drehy,Natam,Words of Radiance,1
-Drehy,Navani,Words of Radiance,5
-Drehy,Renarin,Words of Radiance,6
-Drehy,Rock,The Way of Kings,12
-Drehy,Rock,Words of Radiance,8
-Drehy,Roion,Words of Radiance,1
-Drehy,Roshone,The Way of Kings,1
-Drehy,Ruthar,Words of Radiance,1
-Drehy,Sadeas,The Way of Kings,11
-Drehy,Sadeas,Words of Radiance,8
-Drehy,Shallan,Words of Radiance,3
-Drehy,Sigzil,The Way of Kings,6
-Drehy,Sigzil,Words of Radiance,8
-Drehy,Skar,The Way of Kings,11
-Drehy,Skar,Words of Radiance,10
-Drehy,Syl,The Way of Kings,8
-Drehy,Syl,Words of Radiance,9
-Drehy,Szeth,Words of Radiance,2
-Drehy,Tarah,The Way of Kings,1
-Drehy,Teft,The Way of Kings,12
-Drehy,Teft,Words of Radiance,9
-Drehy,Tien,The Way of Kings,4
-Drehy,Tien,Words of Radiance,1
-Drehy,Wit,Words of Radiance,1
-Drehy,Yake,The Way of Kings,2
-Drehy,Zahel,Words of Radiance,4
-Elhokar,Eth,Words of Radiance,5
-Elhokar,Gavilar,The Way of Kings,21
-Elhokar,Gavilar,Words of Radiance,14
-Elhokar,Gaz,Words of Radiance,4
-Elhokar,Hatham,The Way of Kings,3
-Elhokar,Hatham,Words of Radiance,5
-Elhokar,Helaran,Words of Radiance,1
-Elhokar,Hobber,Words of Radiance,2
-Elhokar,Ialai,The Way of Kings,1
-Elhokar,Ialai,Words of Radiance,2
-Elhokar,Ishar,Words of Radiance,2
-Elhokar,Jakamav,The Way of Kings,1
-Elhokar,Jaks,The Way of Kings,1
-Elhokar,Jasnah,The Way of Kings,11
-Elhokar,Jasnah,Words of Radiance,9
-Elhokar,Jezrien,Words of Radiance,1
-Elhokar,Kabsal,The Way of Kings,1
-Elhokar,Kaladin,The Way of Kings,2
-Elhokar,Kaladin,Words of Radiance,28
-Elhokar,Kalak,The Way of Kings,1
-Elhokar,Kalak,Words of Radiance,2
-Elhokar,Khal,Words of Radiance,4
-Elhokar,Leyten,Words of Radiance,4
-Elhokar,Lhan,The Way of Kings,1
-Elhokar,Lhan,Words of Radiance,1
-Elhokar,Lirin,Words of Radiance,1
-Elhokar,Lopen,The Way of Kings,1
-Elhokar,Lopen,Words of Radiance,8
-Elhokar,Maps,The Way of Kings,1
-Elhokar,Mart,Words of Radiance,5
-Elhokar,Moash,The Way of Kings,1
-Elhokar,Moash,Words of Radiance,19
-Elhokar,Nan,The Way of Kings,1
-Elhokar,Natam,Words of Radiance,2
-Elhokar,Navani,The Way of Kings,13
-Elhokar,Navani,Words of Radiance,18
-Elhokar,Palah,The Way of Kings,1
-Elhokar,Pattern,Words of Radiance,2
-Elhokar,Renarin,The Way of Kings,18
-Elhokar,Renarin,Words of Radiance,15
-Elhokar,Rock,The Way of Kings,2
-Elhokar,Rock,Words of Radiance,7
-Elhokar,Roion,The Way of Kings,4
-Elhokar,Roion,Words of Radiance,5
-Elhokar,Roshone,Words of Radiance,4
-Elhokar,Ruthar,The Way of Kings,1
-Elhokar,Ruthar,Words of Radiance,5
-Elhokar,Sadeas,The Way of Kings,32
-Elhokar,Sadeas,Words of Radiance,25
-Elhokar,Sebarial,Words of Radiance,6
-Elhokar,Shalash,The Way of Kings,1
-Elhokar,Shallan,The Way of Kings,2
-Elhokar,Shallan,Words of Radiance,9
-Elhokar,Sigzil,The Way of Kings,1
-Elhokar,Sigzil,Words of Radiance,4
-Elhokar,Skar,The Way of Kings,1
-Elhokar,Skar,Words of Radiance,4
-Elhokar,Syl,The Way of Kings,1
-Elhokar,Syl,Words of Radiance,15
-Elhokar,Szeth,The Way of Kings,1
-Elhokar,Szeth,Words of Radiance,2
-Elhokar,Talenel,The Way of Kings,2
-Elhokar,Talenel,Words of Radiance,2
-Elhokar,Tarah,Words of Radiance,1
-Elhokar,Taravangian,The Way of Kings,1
-Elhokar,Taravangian,Words of Radiance,1
-Elhokar,Teft,The Way of Kings,1
-Elhokar,Teft,Words of Radiance,8
-Elhokar,Teleb,The Way of Kings,3
-Elhokar,Thanadal,The Way of Kings,5
-Elhokar,Thanadal,Words of Radiance,4
-Elhokar,Tien,Words of Radiance,6
-Elhokar,Tyn,Words of Radiance,2
-Elhokar,Vamah,The Way of Kings,6
-Elhokar,Vamah,Words of Radiance,2
-Elhokar,Vathah,Words of Radiance,2
-Elhokar,Vedel,Words of Radiance,1
-Elhokar,Wit,The Way of Kings,8
-Elhokar,Wit,Words of Radiance,6
-Elhokar,Yake,Words of Radiance,1
-Elhokar,Yenev,Words of Radiance,1
-Elhokar,Zahel,Words of Radiance,4
-Eshonai,Gavilar,Words of Radiance,3
-Eshonai,Kaladin,Words of Radiance,1
-Eshonai,Khal,Words of Radiance,2
-Eshonai,Navani,Words of Radiance,2
-Eshonai,Renarin,Words of Radiance,2
-Eshonai,Rock,Words of Radiance,1
-Eshonai,Roion,Words of Radiance,2
-Eshonai,Sadeas,Words of Radiance,1
-Eshonai,Shallan,Words of Radiance,2
-Eshonai,Skar,Words of Radiance,3
-Eshonai,Teleb,Words of Radiance,2
-Eth,Gavilar,Words of Radiance,2
-Eth,Hatham,Words of Radiance,1
-Eth,Hobber,Words of Radiance,1
-Eth,Ishar,Words of Radiance,1
-Eth,Kaladin,Words of Radiance,7
-Eth,Kalak,Words of Radiance,1
-Eth,Khal,Words of Radiance,1
-Eth,Leyten,Words of Radiance,1
-Eth,Lirin,Words of Radiance,1
-Eth,Lopen,Words of Radiance,1
-Eth,Mart,Words of Radiance,6
-Eth,Moash,Words of Radiance,6
-Eth,Navani,Words of Radiance,5
-Eth,Renarin,Words of Radiance,4
-Eth,Rock,Words of Radiance,1
-Eth,Roshone,Words of Radiance,1
-Eth,Sadeas,Words of Radiance,3
-Eth,Sebarial,Words of Radiance,2
-Eth,Shallan,Words of Radiance,1
-Eth,Sigzil,Words of Radiance,2
-Eth,Skar,Words of Radiance,3
-Eth,Syl,Words of Radiance,7
-Eth,Szeth,Words of Radiance,2
-Eth,Teft,Words of Radiance,3
-Eth,Wit,Words of Radiance,1
-Eth,Yake,Words of Radiance,1
-Eth,Zahel,Words of Radiance,1
-Gavilar,Gaz,The Way of Kings,1
-Gavilar,Gaz,Words of Radiance,3
-Gavilar,Hatham,The Way of Kings,3
-Gavilar,Hatham,Words of Radiance,4
-Gavilar,Helaran,Words of Radiance,1
-Gavilar,Hesina,The Way of Kings,2
-Gavilar,Ialai,The Way of Kings,1
-Gavilar,Ialai,Words of Radiance,4
-Gavilar,Ishar,Words of Radiance,1
-Gavilar,Iyatil,Words of Radiance,1
-Gavilar,Jasnah,The Way of Kings,16
-Gavilar,Jasnah,Words of Radiance,12
-Gavilar,Kabsal,The Way of Kings,3
-Gavilar,Kabsal,Words of Radiance,1
-Gavilar,Kaladin,The Way of Kings,6
-Gavilar,Kaladin,Words of Radiance,15
-Gavilar,Kalak,The Way of Kings,2
-Gavilar,Kalak,Words of Radiance,2
-Gavilar,Khal,Words of Radiance,6
-Gavilar,Laral,The Way of Kings,3
-Gavilar,Leyten,Words of Radiance,1
-Gavilar,Lhan,Words of Radiance,1
-Gavilar,Lift,The Way of Kings,1
-Gavilar,Lirin,The Way of Kings,3
-Gavilar,Lirin,Words of Radiance,1
-Gavilar,Lopen,Words of Radiance,3
-Gavilar,Maps,The Way of Kings,2
-Gavilar,Mart,Words of Radiance,2
-Gavilar,Moash,Words of Radiance,6
-Gavilar,Mraize,Words of Radiance,2
-Gavilar,Mrall,Words of Radiance,1
-Gavilar,Navani,The Way of Kings,15
-Gavilar,Navani,Words of Radiance,15
-Gavilar,Palah,The Way of Kings,1
-Gavilar,Pattern,Words of Radiance,4
-Gavilar,Redin,Words of Radiance,1
-Gavilar,Renarin,The Way of Kings,17
-Gavilar,Renarin,Words of Radiance,7
-Gavilar,Rock,The Way of Kings,1
-Gavilar,Rock,Words of Radiance,3
-Gavilar,Roion,The Way of Kings,5
-Gavilar,Roion,Words of Radiance,9
-Gavilar,Roshone,The Way of Kings,1
-Gavilar,Roshone,Words of Radiance,2
-Gavilar,Ruthar,The Way of Kings,1
-Gavilar,Ruthar,Words of Radiance,5
-Gavilar,Sadeas,The Way of Kings,30
-Gavilar,Sadeas,Words of Radiance,22
-Gavilar,Sebarial,Words of Radiance,10
-Gavilar,Shalash,The Way of Kings,1
-Gavilar,Shallan,The Way of Kings,4
-Gavilar,Shallan,Words of Radiance,16
-Gavilar,Sigzil,Words of Radiance,3
-Gavilar,Skar,Words of Radiance,3
-Gavilar,Syl,Words of Radiance,6
-Gavilar,Szeth,The Way of Kings,3
-Gavilar,Szeth,Words of Radiance,3
-Gavilar,Talenel,The Way of Kings,4
-Gavilar,Talenel,Words of Radiance,2
-Gavilar,Taravangian,The Way of Kings,2
-Gavilar,Taravangian,Words of Radiance,1
-Gavilar,Teft,Words of Radiance,5
-Gavilar,Teleb,The Way of Kings,5
-Gavilar,Teleb,Words of Radiance,2
-Gavilar,Thanadal,The Way of Kings,4
-Gavilar,Thanadal,Words of Radiance,2
-Gavilar,Tien,The Way of Kings,4
-Gavilar,Tien,Words of Radiance,2
-Gavilar,Tyn,Words of Radiance,1
-Gavilar,Valam,Words of Radiance,1
-Gavilar,Vamah,The Way of Kings,5
-Gavilar,Vamah,Words of Radiance,2
-Gavilar,Vathah,Words of Radiance,3
-Gavilar,Wit,The Way of Kings,9
-Gavilar,Wit,Words of Radiance,4
-Gavilar,Yake,Words of Radiance,1
-Gavilar,Yenev,Words of Radiance,3
-Gavilar,Zahel,Words of Radiance,2
-Gaz,Hatham,Words of Radiance,2
-Gaz,Helaran,Words of Radiance,1
-Gaz,Hobber,The Way of Kings,7
-Gaz,Ialai,Words of Radiance,1
-Gaz,Jaks,The Way of Kings,3
-Gaz,Jasnah,Words of Radiance,9
-Gaz,Jezrien,The Way of Kings,1
-Gaz,Kaladin,The Way of Kings,30
-Gaz,Kaladin,Words of Radiance,4
-Gaz,Kalak,The Way of Kings,8
-Gaz,Kalak,Words of Radiance,1
-Gaz,Khal,Words of Radiance,1
-Gaz,Laral,The Way of Kings,1
-Gaz,Leyten,The Way of Kings,10
-Gaz,Leyten,Words of Radiance,1
-Gaz,Lift,The Way of Kings,2
-Gaz,Lirin,The Way of Kings,5
-Gaz,Lopen,The Way of Kings,8
-Gaz,Lopen,Words of Radiance,2
-Gaz,Maps,The Way of Kings,3
-Gaz,Moash,The Way of Kings,15
-Gaz,Moash,Words of Radiance,2
-Gaz,Mraize,Words of Radiance,1
-Gaz,Murk,The Way of Kings,1
-Gaz,Natam,The Way of Kings,3
-Gaz,Navani,Words of Radiance,5
-Gaz,Pattern,Words of Radiance,8
-Gaz,Renarin,Words of Radiance,2
-Gaz,Rock,The Way of Kings,20
-Gaz,Rock,Words of Radiance,2
-Gaz,Roion,Words of Radiance,2
-Gaz,Roshone,The Way of Kings,1
-Gaz,Roshone,Words of Radiance,2
-Gaz,Ruthar,Words of Radiance,2
-Gaz,Sadeas,The Way of Kings,24
-Gaz,Sadeas,Words of Radiance,7
-Gaz,Sebarial,Words of Radiance,5
-Gaz,Shalash,Words of Radiance,1
-Gaz,Shallan,Words of Radiance,11
-Gaz,Sigzil,The Way of Kings,5
-Gaz,Sigzil,Words of Radiance,1
-Gaz,Skar,The Way of Kings,11
-Gaz,Syl,The Way of Kings,22
-Gaz,Syl,Words of Radiance,2
-Gaz,Talenel,The Way of Kings,1
-Gaz,Tarah,Words of Radiance,1
-Gaz,Teft,The Way of Kings,21
-Gaz,Teft,Words of Radiance,2
-Gaz,Thanadal,Words of Radiance,3
-Gaz,Tien,The Way of Kings,9
-Gaz,Tien,Words of Radiance,1
-Gaz,Tyn,Words of Radiance,5
-Gaz,Valam,Words of Radiance,1
-Gaz,Vamah,Words of Radiance,2
-Gaz,Vathah,Words of Radiance,9
-Gaz,Yake,The Way of Kings,4
-Gaz,Zahel,Words of Radiance,1
-Geranid,Kaladin,The Way of Kings,1
-Geranid,Roshone,The Way of Kings,1
-Geranid,Szeth,The Way of Kings,1
-Geranid,Tien,The Way of Kings,1
-Hatham,Ialai,The Way of Kings,1
-Hatham,Ialai,Words of Radiance,2
-Hatham,Ishar,Words of Radiance,1
-Hatham,Jasnah,The Way of Kings,2
-Hatham,Jasnah,Words of Radiance,4
-Hatham,Kaladin,Words of Radiance,3
-Hatham,Khal,Words of Radiance,2
-Hatham,Lirin,Words of Radiance,1
-Hatham,Mart,Words of Radiance,1
-Hatham,Moash,Words of Radiance,1
-Hatham,Navani,The Way of Kings,1
-Hatham,Navani,Words of Radiance,5
-Hatham,Pattern,Words of Radiance,2
-Hatham,Renarin,The Way of Kings,2
-Hatham,Renarin,Words of Radiance,2
-Hatham,Roion,Words of Radiance,3
-Hatham,Ruthar,Words of Radiance,3
-Hatham,Sadeas,The Way of Kings,3
-Hatham,Sadeas,Words of Radiance,6
-Hatham,Sebarial,Words of Radiance,2
-Hatham,Shallan,Words of Radiance,4
-Hatham,Skar,Words of Radiance,1
-Hatham,Syl,Words of Radiance,1
-Hatham,Szeth,Words of Radiance,1
-Hatham,Talenel,The Way of Kings,1
-Hatham,Taravangian,Words of Radiance,1
-Hatham,Teleb,The Way of Kings,1
-Hatham,Thanadal,The Way of Kings,2
-Hatham,Thanadal,Words of Radiance,3
-Hatham,Tyn,Words of Radiance,2
-Hatham,Vamah,The Way of Kings,1
-Hatham,Vamah,Words of Radiance,3
-Hatham,Vathah,Words of Radiance,2
-Hatham,Wit,The Way of Kings,2
-Hatham,Wit,Words of Radiance,2
-Helaran,Iyatil,Words of Radiance,1
-Helaran,Jasnah,The Way of Kings,2
-Helaran,Jasnah,Words of Radiance,5
-Helaran,Jushu,The Way of Kings,1
-Helaran,Jushu,Words of Radiance,6
-Helaran,Kabsal,The Way of Kings,1
-Helaran,Kaladin,Words of Radiance,2
-Helaran,Kalak,Words of Radiance,1
-Helaran,Mraize,Words of Radiance,2
-Helaran,Nan,The Way of Kings,1
-Helaran,Nan,Words of Radiance,4
-Helaran,Navani,Words of Radiance,1
-Helaran,Pattern,Words of Radiance,4
-Helaran,Redin,Words of Radiance,1
-Helaran,Roshone,Words of Radiance,1
-Helaran,Ruthar,Words of Radiance,1
-Helaran,Sadeas,Words of Radiance,2
-Helaran,Sebarial,Words of Radiance,1
-Helaran,Shallan,The Way of Kings,2
-Helaran,Shallan,Words of Radiance,13
-Helaran,Syl,Words of Radiance,1
-Helaran,Tarah,Words of Radiance,1
-Helaran,Thanadal,Words of Radiance,1
-Helaran,Tien,Words of Radiance,1
-Helaran,Tyn,Words of Radiance,2
-Helaran,Valam,Words of Radiance,2
-Helaran,Vathah,Words of Radiance,1
-Helaran,Wikim,The Way of Kings,1
-Helaran,Wikim,Words of Radiance,5
-Hesina,Kaladin,The Way of Kings,5
-Hesina,Laral,The Way of Kings,4
-Hesina,Lirin,The Way of Kings,5
-Hesina,Roshone,The Way of Kings,4
-Hesina,Sadeas,The Way of Kings,3
-Hesina,Tien,The Way of Kings,5
-Hobber,Jaks,The Way of Kings,1
-Hobber,Kaladin,The Way of Kings,9
-Hobber,Kaladin,Words of Radiance,5
-Hobber,Kalak,Words of Radiance,1
-Hobber,Leyten,The Way of Kings,6
-Hobber,Leyten,Words of Radiance,1
-Hobber,Lift,The Way of Kings,1
-Hobber,Lirin,The Way of Kings,2
-Hobber,Lopen,The Way of Kings,3
-Hobber,Lopen,Words of Radiance,3
-Hobber,Maps,The Way of Kings,1
-Hobber,Mart,Words of Radiance,1
-Hobber,Moash,The Way of Kings,7
-Hobber,Moash,Words of Radiance,4
-Hobber,Murk,The Way of Kings,1
-Hobber,Natam,The Way of Kings,2
-Hobber,Natam,Words of Radiance,1
-Hobber,Navani,Words of Radiance,1
-Hobber,Renarin,Words of Radiance,2
-Hobber,Rock,The Way of Kings,9
-Hobber,Rock,Words of Radiance,3
-Hobber,Ruthar,Words of Radiance,1
-Hobber,Sadeas,The Way of Kings,8
-Hobber,Sadeas,Words of Radiance,2
-Hobber,Sigzil,The Way of Kings,3
-Hobber,Sigzil,Words of Radiance,2
-Hobber,Skar,The Way of Kings,3
-Hobber,Skar,Words of Radiance,1
-Hobber,Syl,The Way of Kings,8
-Hobber,Syl,Words of Radiance,5
-Hobber,Tarah,The Way of Kings,1
-Hobber,Teft,The Way of Kings,8
-Hobber,Teft,Words of Radiance,2
-Hobber,Tien,The Way of Kings,5
-Hobber,Wit,The Way of Kings,1
-Hobber,Yake,The Way of Kings,2
-Ialai,Jasnah,The Way of Kings,1
-Ialai,Jasnah,Words of Radiance,2
-Ialai,Kaladin,Words of Radiance,1
-Ialai,Navani,The Way of Kings,1
-Ialai,Navani,Words of Radiance,1
-Ialai,Pattern,Words of Radiance,1
-Ialai,Renarin,The Way of Kings,1
-Ialai,Roion,Words of Radiance,3
-Ialai,Ruthar,Words of Radiance,3
-Ialai,Sadeas,The Way of Kings,1
-Ialai,Sadeas,Words of Radiance,7
-Ialai,Sebarial,Words of Radiance,3
-Ialai,Shallan,Words of Radiance,2
-Ialai,Sigzil,Words of Radiance,1
-Ialai,Syl,Words of Radiance,1
-Ialai,Talenel,The Way of Kings,1
-Ialai,Teft,Words of Radiance,1
-Ialai,Thanadal,Words of Radiance,1
-Ialai,Tyn,Words of Radiance,1
-Ialai,Vamah,Words of Radiance,1
-Ialai,Vathah,Words of Radiance,1
-Ialai,Wit,The Way of Kings,1
-Ialai,Wit,Words of Radiance,1
-Ialai,Yenev,Words of Radiance,1
-Ialai,Zahel,Words of Radiance,1
-Ishar,Iyatil,Words of Radiance,1
-Ishar,Jezrien,The Way of Kings,1
-Ishar,Jezrien,Words of Radiance,1
-Ishar,Kaladin,Words of Radiance,1
-Ishar,Kalak,The Way of Kings,1
-Ishar,Kalak,Words of Radiance,1
-Ishar,Khal,Words of Radiance,1
-Ishar,Lirin,Words of Radiance,1
-Ishar,Mart,Words of Radiance,1
-Ishar,Moash,Words of Radiance,1
-Ishar,Mraize,Words of Radiance,1
-Ishar,Navani,Words of Radiance,1
-Ishar,Pattern,Words of Radiance,1
-Ishar,Renarin,Words of Radiance,1
-Ishar,Sadeas,Words of Radiance,1
-Ishar,Shallan,Words of Radiance,1
-Ishar,Skar,Words of Radiance,1
-Ishar,Syl,Words of Radiance,1
-Ishar,Talenel,The Way of Kings,1
-Ishar,Talenel,Words of Radiance,2
-Ishar,Vedel,Words of Radiance,1
-Ishar,Wit,Words of Radiance,2
-Ishikk,Wit,The Way of Kings,1
-Iyatil,Jasnah,Words of Radiance,1
-Iyatil,Mraize,Words of Radiance,4
-Iyatil,Pattern,Words of Radiance,4
-Iyatil,Sebarial,Words of Radiance,2
-Iyatil,Shallan,Words of Radiance,4
-Iyatil,Talenel,Words of Radiance,1
-Iyatil,Tyn,Words of Radiance,2
-Jakamav,Jasnah,Words of Radiance,2
-Jakamav,Kaladin,Words of Radiance,1
-Jakamav,Khal,Words of Radiance,1
-Jakamav,Navani,Words of Radiance,2
-Jakamav,Renarin,The Way of Kings,1
-Jakamav,Renarin,Words of Radiance,4
-Jakamav,Roion,The Way of Kings,1
-Jakamav,Roion,Words of Radiance,2
-Jakamav,Ruthar,Words of Radiance,3
-Jakamav,Sadeas,The Way of Kings,1
-Jakamav,Sadeas,Words of Radiance,4
-Jakamav,Syl,Words of Radiance,1
-Jakamav,Talenel,Words of Radiance,1
-Jakamav,Thanadal,The Way of Kings,1
-Jakamav,Zahel,Words of Radiance,3
-Jaks,Jezrien,The Way of Kings,1
-Jaks,Kaladin,The Way of Kings,7
-Jaks,Kalak,The Way of Kings,1
-Jaks,Leyten,The Way of Kings,4
-Jaks,Lopen,The Way of Kings,3
-Jaks,Maps,The Way of Kings,3
-Jaks,Moash,The Way of Kings,5
-Jaks,Natam,The Way of Kings,1
-Jaks,Rock,The Way of Kings,6
-Jaks,Sadeas,The Way of Kings,5
-Jaks,Sigzil,The Way of Kings,4
-Jaks,Skar,The Way of Kings,6
-Jaks,Syl,The Way of Kings,6
-Jaks,Teft,The Way of Kings,7
-Jaks,Tien,The Way of Kings,2
-Jaks,Yake,The Way of Kings,1
-Jasnah,Jushu,The Way of Kings,3
-Jasnah,Jushu,Words of Radiance,2
-Jasnah,Kabsal,The Way of Kings,14
-Jasnah,Kabsal,Words of Radiance,7
-Jasnah,Kaladin,Words of Radiance,13
-Jasnah,Kalak,The Way of Kings,1
-Jasnah,Kalak,Words of Radiance,1
-Jasnah,Khal,Words of Radiance,4
-Jasnah,Leyten,Words of Radiance,1
-Jasnah,Lhan,The Way of Kings,1
-Jasnah,Lyn,Words of Radiance,1
-Jasnah,Maps,Words of Radiance,2
-Jasnah,Moash,Words of Radiance,1
-Jasnah,Mraize,Words of Radiance,4
-Jasnah,Mrall,Words of Radiance,1
-Jasnah,Nan,The Way of Kings,8
-Jasnah,Nan,Words of Radiance,1
-Jasnah,Navani,The Way of Kings,10
-Jasnah,Navani,Words of Radiance,25
-Jasnah,Pailiah,Words of Radiance,1
-Jasnah,Palah,The Way of Kings,1
-Jasnah,Pattern,Words of Radiance,29
-Jasnah,Redin,Words of Radiance,2
-Jasnah,Renarin,The Way of Kings,10
-Jasnah,Renarin,Words of Radiance,7
-Jasnah,Rock,Words of Radiance,2
-Jasnah,Roion,The Way of Kings,3
-Jasnah,Roion,Words of Radiance,5
-Jasnah,Roshone,Words of Radiance,1
-Jasnah,Ruthar,Words of Radiance,6
-Jasnah,Sadeas,The Way of Kings,12
-Jasnah,Sadeas,Words of Radiance,20
-Jasnah,Sebarial,Words of Radiance,15
-Jasnah,Shalash,The Way of Kings,1
-Jasnah,Shalash,Words of Radiance,1
-Jasnah,Shallan,The Way of Kings,22
-Jasnah,Shallan,Words of Radiance,42
-Jasnah,Sigzil,Words of Radiance,1
-Jasnah,Skar,Words of Radiance,1
-Jasnah,Syl,Words of Radiance,2
-Jasnah,Szeth,The Way of Kings,1
-Jasnah,Szeth,Words of Radiance,2
-Jasnah,Talenel,The Way of Kings,3
-Jasnah,Talenel,Words of Radiance,2
-Jasnah,Tarah,Words of Radiance,1
-Jasnah,Taravangian,The Way of Kings,5
-Jasnah,Taravangian,Words of Radiance,2
-Jasnah,Teft,Words of Radiance,1
-Jasnah,Teleb,The Way of Kings,2
-Jasnah,Teleb,Words of Radiance,1
-Jasnah,Thanadal,The Way of Kings,2
-Jasnah,Thanadal,Words of Radiance,4
-Jasnah,Tien,Words of Radiance,1
-Jasnah,Tyn,Words of Radiance,12
-Jasnah,Valam,The Way of Kings,1
-Jasnah,Valam,Words of Radiance,3
-Jasnah,Vamah,The Way of Kings,3
-Jasnah,Vamah,Words of Radiance,3
-Jasnah,Vathah,Words of Radiance,13
-Jasnah,Wikim,The Way of Kings,3
-Jasnah,Wikim,Words of Radiance,2
-Jasnah,Wit,The Way of Kings,6
-Jasnah,Wit,Words of Radiance,4
-Jasnah,Yenev,Words of Radiance,2
-Jasnah,Zahel,Words of Radiance,2
-Jezrien,Kaladin,The Way of Kings,1
-Jezrien,Kalak,The Way of Kings,1
-Jezrien,Kalak,Words of Radiance,1
-Jezrien,Leyten,The Way of Kings,1
-Jezrien,Lopen,The Way of Kings,1
-Jezrien,Maps,The Way of Kings,1
-Jezrien,Moash,The Way of Kings,1
-Jezrien,Rock,The Way of Kings,1
-Jezrien,Sadeas,The Way of Kings,1
-Jezrien,Sigzil,The Way of Kings,1
-Jezrien,Skar,The Way of Kings,1
-Jezrien,Syl,The Way of Kings,1
-Jezrien,Talenel,The Way of Kings,1
-Jezrien,Talenel,Words of Radiance,1
-Jezrien,Teft,The Way of Kings,1
-Jezrien,Vedel,Words of Radiance,1
-Jezrien,Wit,Words of Radiance,1
-Jushu,Nan,The Way of Kings,3
-Jushu,Nan,Words of Radiance,3
-Jushu,Redin,Words of Radiance,1
-Jushu,Shallan,The Way of Kings,3
-Jushu,Shallan,Words of Radiance,7
-Jushu,Valam,Words of Radiance,2
-Jushu,Wikim,The Way of Kings,3
-Jushu,Wikim,Words of Radiance,6
-Kabsal,Mraize,Words of Radiance,1
-Kabsal,Nan,The Way of Kings,5
-Kabsal,Navani,Words of Radiance,3
-Kabsal,Pattern,Words of Radiance,7
-Kabsal,Renarin,Words of Radiance,1
-Kabsal,Sadeas,Words of Radiance,3
-Kabsal,Sebarial,Words of Radiance,2
-Kabsal,Shallan,The Way of Kings,14
-Kabsal,Shallan,Words of Radiance,7
-Kabsal,Talenel,The Way of Kings,1
-Kabsal,Taravangian,The Way of Kings,3
-Kabsal,Tyn,Words of Radiance,3
-Kabsal,Vathah,Words of Radiance,1
-Kabsal,Wit,The Way of Kings,1
-Kabsal,Wit,Words of Radiance,1
-Kaladin,Kalak,The Way of Kings,10
-Kaladin,Kalak,Words of Radiance,5
-Kaladin,Khal,Words of Radiance,8
-Kaladin,Laral,The Way of Kings,8
-Kaladin,Leyten,The Way of Kings,15
-Kaladin,Leyten,Words of Radiance,8
-Kaladin,Lift,The Way of Kings,2
-Kaladin,Lirin,The Way of Kings,16
-Kaladin,Lirin,Words of Radiance,1
-Kaladin,Lopen,The Way of Kings,19
-Kaladin,Lopen,Words of Radiance,19
-Kaladin,Maps,The Way of Kings,7
-Kaladin,Mart,Words of Radiance,8
-Kaladin,Moash,The Way of Kings,29
-Kaladin,Moash,Words of Radiance,33
-Kaladin,Murk,The Way of Kings,1
-Kaladin,Natam,The Way of Kings,3
-Kaladin,Natam,Words of Radiance,3
-Kaladin,Navani,The Way of Kings,1
-Kaladin,Navani,Words of Radiance,28
-Kaladin,Pattern,Words of Radiance,8
-Kaladin,Renarin,The Way of Kings,1
-Kaladin,Renarin,Words of Radiance,26
-Kaladin,Rock,The Way of Kings,37
-Kaladin,Rock,Words of Radiance,22
-Kaladin,Roion,Words of Radiance,8
-Kaladin,Roshone,The Way of Kings,12
-Kaladin,Roshone,Words of Radiance,6
-Kaladin,Ruthar,Words of Radiance,5
-Kaladin,Sadeas,The Way of Kings,50
-Kaladin,Sadeas,Words of Radiance,40
-Kaladin,Sebarial,Words of Radiance,8
-Kaladin,Shallan,Words of Radiance,29
-Kaladin,Sigzil,The Way of Kings,17
-Kaladin,Sigzil,Words of Radiance,16
-Kaladin,Skar,The Way of Kings,23
-Kaladin,Skar,Words of Radiance,13
-Kaladin,Syl,The Way of Kings,36
-Kaladin,Syl,Words of Radiance,49
-Kaladin,Szeth,The Way of Kings,1
-Kaladin,Szeth,Words of Radiance,11
-Kaladin,Talenel,The Way of Kings,2
-Kaladin,Talenel,Words of Radiance,1
-Kaladin,Tarah,The Way of Kings,2
-Kaladin,Tarah,Words of Radiance,2
-Kaladin,Taravangian,Words of Radiance,1
-Kaladin,Teft,The Way of Kings,40
-Kaladin,Teft,Words of Radiance,22
-Kaladin,Teleb,The Way of Kings,1
-Kaladin,Teleb,Words of Radiance,2
-Kaladin,Thanadal,Words of Radiance,3
-Kaladin,Tien,The Way of Kings,31
-Kaladin,Tien,Words of Radiance,11
-Kaladin,Tyn,Words of Radiance,3
-Kaladin,Vamah,Words of Radiance,1
-Kaladin,Vathah,Words of Radiance,4
-Kaladin,Wit,The Way of Kings,2
-Kaladin,Wit,Words of Radiance,7
-Kaladin,Yake,The Way of Kings,5
-Kaladin,Yake,Words of Radiance,1
-Kaladin,Yenev,Words of Radiance,2
-Kaladin,Zahel,Words of Radiance,14
-Kalak,Khal,Words of Radiance,2
-Kalak,Leyten,The Way of Kings,2
-Kalak,Lirin,The Way of Kings,3
-Kalak,Lopen,The Way of Kings,5
-Kalak,Lopen,Words of Radiance,1
-Kalak,Maps,The Way of Kings,3
-Kalak,Mart,Words of Radiance,1
-Kalak,Moash,The Way of Kings,6
-Kalak,Moash,Words of Radiance,3
-Kalak,Navani,Words of Radiance,2
-Kalak,Palah,The Way of Kings,1
-Kalak,Pattern,Words of Radiance,1
-Kalak,Renarin,The Way of Kings,1
-Kalak,Renarin,Words of Radiance,3
-Kalak,Rock,The Way of Kings,8
-Kalak,Rock,Words of Radiance,1
-Kalak,Roion,Words of Radiance,2
-Kalak,Roshone,The Way of Kings,1
-Kalak,Roshone,Words of Radiance,2
-Kalak,Rysn,Words of Radiance,1
-Kalak,Sadeas,The Way of Kings,10
-Kalak,Sadeas,Words of Radiance,3
-Kalak,Sebarial,Words of Radiance,3
-Kalak,Shalash,The Way of Kings,1
-Kalak,Shallan,Words of Radiance,5
-Kalak,Sigzil,The Way of Kings,2
-Kalak,Sigzil,Words of Radiance,2
-Kalak,Skar,The Way of Kings,6
-Kalak,Skar,Words of Radiance,2
-Kalak,Syl,The Way of Kings,7
-Kalak,Syl,Words of Radiance,3
-Kalak,Szeth,The Way of Kings,2
-Kalak,Talenel,The Way of Kings,2
-Kalak,Talenel,Words of Radiance,1
-Kalak,Tarah,Words of Radiance,1
-Kalak,Teft,The Way of Kings,10
-Kalak,Teft,Words of Radiance,3
-Kalak,Teleb,Words of Radiance,1
-Kalak,Tien,The Way of Kings,4
-Kalak,Tien,Words of Radiance,1
-Kalak,Vathah,Words of Radiance,1
-Kalak,Vedel,Words of Radiance,1
-Kalak,Wit,Words of Radiance,1
-Kalak,Yake,The Way of Kings,3
-Kalak,Yake,Words of Radiance,1
-Kalak,Zahel,Words of Radiance,1
-Khal,Lirin,Words of Radiance,1
-Khal,Lopen,Words of Radiance,1
-Khal,Mart,Words of Radiance,1
-Khal,Moash,Words of Radiance,2
-Khal,Mraize,Words of Radiance,1
-Khal,Navani,Words of Radiance,14
-Khal,Renarin,Words of Radiance,6
-Khal,Rock,Words of Radiance,3
-Khal,Roion,Words of Radiance,10
-Khal,Ruthar,Words of Radiance,2
-Khal,Sadeas,Words of Radiance,7
-Khal,Sebarial,Words of Radiance,4
-Khal,Shallan,Words of Radiance,7
-Khal,Skar,Words of Radiance,3
-Khal,Syl,Words of Radiance,1
-Khal,Szeth,Words of Radiance,2
-Khal,Talenel,Words of Radiance,2
-Khal,Teft,Words of Radiance,1
-Khal,Teleb,Words of Radiance,6
-Khal,Thanadal,Words of Radiance,1
-Khal,Vamah,Words of Radiance,1
-Khal,Vathah,Words of Radiance,1
-Khal,Wit,Words of Radiance,2
-Khal,Yenev,Words of Radiance,1
-Khal,Zahel,Words of Radiance,1
-Laral,Lift,The Way of Kings,1
-Laral,Lirin,The Way of Kings,6
-Laral,Roshone,The Way of Kings,5
-Laral,Sadeas,The Way of Kings,5
-Laral,Talenel,The Way of Kings,1
-Laral,Tien,The Way of Kings,7
-Leyten,Lift,The Way of Kings,1
-Leyten,Lirin,The Way of Kings,2
-Leyten,Lopen,The Way of Kings,6
-Leyten,Lopen,Words of Radiance,5
-Leyten,Maps,The Way of Kings,2
-Leyten,Mart,Words of Radiance,3
-Leyten,Moash,The Way of Kings,10
-Leyten,Moash,Words of Radiance,6
-Leyten,Murk,The Way of Kings,1
-Leyten,Natam,The Way of Kings,2
-Leyten,Natam,Words of Radiance,2
-Leyten,Navani,Words of Radiance,4
-Leyten,Pattern,Words of Radiance,1
-Leyten,Renarin,Words of Radiance,3
-Leyten,Rock,The Way of Kings,13
-Leyten,Rock,Words of Radiance,6
-Leyten,Roion,Words of Radiance,1
-Leyten,Roshone,The Way of Kings,1
-Leyten,Roshone,Words of Radiance,1
-Leyten,Ruthar,Words of Radiance,1
-Leyten,Sadeas,The Way of Kings,13
-Leyten,Sadeas,Words of Radiance,6
-Leyten,Shallan,Words of Radiance,3
-Leyten,Sigzil,The Way of Kings,6
-Leyten,Sigzil,Words of Radiance,4
-Leyten,Skar,The Way of Kings,8
-Leyten,Skar,Words of Radiance,3
-Leyten,Syl,The Way of Kings,12
-Leyten,Syl,Words of Radiance,6
-Leyten,Szeth,Words of Radiance,1
-Leyten,Talenel,Words of Radiance,1
-Leyten,Tarah,The Way of Kings,2
-Leyten,Tarah,Words of Radiance,1
-Leyten,Teft,The Way of Kings,15
-Leyten,Teft,Words of Radiance,6
-Leyten,Teleb,Words of Radiance,1
-Leyten,Thanadal,Words of Radiance,1
-Leyten,Tien,The Way of Kings,7
-Leyten,Vathah,Words of Radiance,1
-Leyten,Wit,The Way of Kings,1
-Leyten,Yake,The Way of Kings,2
-Leyten,Zahel,Words of Radiance,1
-Lhan,Sadeas,The Way of Kings,1
-Lhan,Shallan,The Way of Kings,1
-Lhan,Taravangian,The Way of Kings,1
-Lift,Lirin,The Way of Kings,1
-Lift,Moash,The Way of Kings,1
-Lift,Murk,The Way of Kings,1
-Lift,Rock,The Way of Kings,1
-Lift,Sadeas,The Way of Kings,2
-Lift,Syl,The Way of Kings,1
-Lift,Talenel,The Way of Kings,1
-Lift,Teft,The Way of Kings,1
-Lift,Tien,The Way of Kings,2
-Lift,Wyndle,Words of Radiance,1
-Lift,Yake,The Way of Kings,1
-Lirin,Lopen,The Way of Kings,3
-Lirin,Maps,The Way of Kings,2
-Lirin,Mart,Words of Radiance,1
-Lirin,Moash,The Way of Kings,6
-Lirin,Moash,Words of Radiance,1
-Lirin,Murk,The Way of Kings,1
-Lirin,Navani,Words of Radiance,1
-Lirin,Renarin,Words of Radiance,1
-Lirin,Rock,The Way of Kings,6
-Lirin,Roshone,The Way of Kings,7
-Lirin,Sadeas,The Way of Kings,10
-Lirin,Sadeas,Words of Radiance,1
-Lirin,Sigzil,The Way of Kings,3
-Lirin,Skar,The Way of Kings,3
-Lirin,Skar,Words of Radiance,1
-Lirin,Syl,The Way of Kings,6
-Lirin,Syl,Words of Radiance,1
-Lirin,Teft,The Way of Kings,7
-Lirin,Tien,The Way of Kings,10
-Lirin,Wit,The Way of Kings,1
-Lirin,Wit,Words of Radiance,1
-Lirin,Yake,The Way of Kings,2
-Lopen,Maps,The Way of Kings,4
-Lopen,Mart,Words of Radiance,3
-Lopen,Moash,The Way of Kings,17
-Lopen,Moash,Words of Radiance,16
-Lopen,Natam,The Way of Kings,2
-Lopen,Natam,Words of Radiance,2
-Lopen,Navani,Words of Radiance,5
-Lopen,Renarin,Words of Radiance,9
-Lopen,Rock,The Way of Kings,19
-Lopen,Rock,Words of Radiance,16
-Lopen,Roion,Words of Radiance,3
-Lopen,Roshone,Words of Radiance,2
-Lopen,Ruthar,Words of Radiance,1
-Lopen,Sadeas,The Way of Kings,16
-Lopen,Sadeas,Words of Radiance,15
-Lopen,Sebarial,Words of Radiance,1
-Lopen,Shallan,Words of Radiance,5
-Lopen,Sigzil,The Way of Kings,7
-Lopen,Sigzil,Words of Radiance,10
-Lopen,Skar,The Way of Kings,13
-Lopen,Skar,Words of Radiance,7
-Lopen,Syl,The Way of Kings,15
-Lopen,Syl,Words of Radiance,16
-Lopen,Szeth,Words of Radiance,1
-Lopen,Tarah,The Way of Kings,2
-Lopen,Tarah,Words of Radiance,1
-Lopen,Teft,The Way of Kings,19
-Lopen,Teft,Words of Radiance,15
-Lopen,Thanadal,Words of Radiance,1
-Lopen,Tien,The Way of Kings,7
-Lopen,Tien,Words of Radiance,3
-Lopen,Wit,The Way of Kings,2
-Lopen,Yake,The Way of Kings,3
-Lopen,Zahel,Words of Radiance,5
-Lyn,Pattern,Words of Radiance,1
-Lyn,Renarin,Words of Radiance,1
-Lyn,Shallan,Words of Radiance,1
-Maps,Moash,The Way of Kings,6
-Maps,Navani,Words of Radiance,1
-Maps,Pattern,Words of Radiance,2
-Maps,Renarin,The Way of Kings,2
-Maps,Rock,The Way of Kings,7
-Maps,Roion,The Way of Kings,2
-Maps,Sadeas,The Way of Kings,9
-Maps,Sebarial,Words of Radiance,1
-Maps,Shallan,Words of Radiance,2
-Maps,Sigzil,The Way of Kings,5
-Maps,Skar,The Way of Kings,6
-Maps,Syl,The Way of Kings,7
-Maps,Teft,The Way of Kings,7
-Maps,Tien,The Way of Kings,4
-Maps,Vathah,Words of Radiance,1
-Maps,Wit,The Way of Kings,1
-Maps,Yake,The Way of Kings,2
-Mart,Moash,Words of Radiance,7
-Mart,Natam,Words of Radiance,1
-Mart,Navani,Words of Radiance,5
-Mart,Renarin,Words of Radiance,5
-Mart,Rock,Words of Radiance,3
-Mart,Roion,Words of Radiance,1
-Mart,Roshone,Words of Radiance,1
-Mart,Sadeas,Words of Radiance,4
-Mart,Sebarial,Words of Radiance,1
-Mart,Shallan,Words of Radiance,2
-Mart,Sigzil,Words of Radiance,2
-Mart,Skar,Words of Radiance,3
-Mart,Syl,Words of Radiance,8
-Mart,Szeth,Words of Radiance,3
-Mart,Teft,Words of Radiance,5
-Mart,Wit,Words of Radiance,1
-Mart,Yake,Words of Radiance,1
-Mart,Zahel,Words of Radiance,1
-Moash,Murk,The Way of Kings,1
-Moash,Natam,The Way of Kings,2
-Moash,Natam,Words of Radiance,3
-Moash,Navani,Words of Radiance,10
-Moash,Renarin,Words of Radiance,15
-Moash,Rock,The Way of Kings,27
-Moash,Rock,Words of Radiance,17
-Moash,Roion,Words of Radiance,3
-Moash,Roshone,The Way of Kings,1
-Moash,Roshone,Words of Radiance,5
-Moash,Ruthar,Words of Radiance,1
-Moash,Sadeas,The Way of Kings,23
-Moash,Sadeas,Words of Radiance,21
-Moash,Sebarial,Words of Radiance,3
-Moash,Shallan,Words of Radiance,5
-Moash,Sigzil,The Way of Kings,13
-Moash,Sigzil,Words of Radiance,13
-Moash,Skar,The Way of Kings,17
-Moash,Skar,Words of Radiance,11
-Moash,Syl,The Way of Kings,23
-Moash,Syl,Words of Radiance,26
-Moash,Szeth,Words of Radiance,2
-Moash,Tarah,The Way of Kings,2
-Moash,Tarah,Words of Radiance,1
-Moash,Teft,The Way of Kings,27
-Moash,Teft,Words of Radiance,18
-Moash,Thanadal,Words of Radiance,1
-Moash,Tien,The Way of Kings,10
-Moash,Tien,Words of Radiance,7
-Moash,Wit,The Way of Kings,2
-Moash,Wit,Words of Radiance,3
-Moash,Yake,The Way of Kings,5
-Moash,Yake,Words of Radiance,1
-Moash,Zahel,Words of Radiance,8
-Mraize,Navani,Words of Radiance,1
-Mraize,Pattern,Words of Radiance,7
-Mraize,Roion,Words of Radiance,1
-Mraize,Sadeas,Words of Radiance,1
-Mraize,Sebarial,Words of Radiance,4
-Mraize,Shallan,Words of Radiance,8
-Mraize,Szeth,Words of Radiance,1
-Mraize,Talenel,Words of Radiance,1
-Mraize,Tyn,Words of Radiance,4
-Mrall,Redin,Words of Radiance,1
-Mrall,Sadeas,Words of Radiance,1
-Mrall,Szeth,Words of Radiance,1
-Mrall,Taravangian,Words of Radiance,1
-Mrall,Valam,Words of Radiance,1
-Murk,Rock,The Way of Kings,1
-Murk,Sadeas,The Way of Kings,1
-Murk,Syl,The Way of Kings,1
-Murk,Teft,The Way of Kings,1
-Murk,Tien,The Way of Kings,1
-Murk,Yake,The Way of Kings,1
-Nale,Szeth,Words of Radiance,1
-Nan,Redin,Words of Radiance,1
-Nan,Shallan,The Way of Kings,8
-Nan,Shallan,Words of Radiance,4
-Nan,Taravangian,The Way of Kings,1
-Nan,Valam,Words of Radiance,2
-Nan,Wikim,The Way of Kings,3
-Nan,Wikim,Words of Radiance,3
-Natam,Navani,Words of Radiance,1
-Natam,Renarin,Words of Radiance,3
-Natam,Rock,The Way of Kings,3
-Natam,Rock,Words of Radiance,2
-Natam,Roion,Words of Radiance,1
-Natam,Ruthar,Words of Radiance,1
-Natam,Sadeas,The Way of Kings,3
-Natam,Sadeas,Words of Radiance,2
-Natam,Sigzil,Words of Radiance,1
-Natam,Skar,The Way of Kings,1
-Natam,Skar,Words of Radiance,1
-Natam,Syl,The Way of Kings,3
-Natam,Syl,Words of Radiance,3
-Natam,Teft,The Way of Kings,3
-Natam,Teft,Words of Radiance,2
-Natam,Tien,The Way of Kings,1
-Natam,Zahel,Words of Radiance,1
-Navani,Pailiah,Words of Radiance,1
-Navani,Pattern,Words of Radiance,16
-Navani,Renarin,The Way of Kings,11
-Navani,Renarin,Words of Radiance,20
-Navani,Rock,Words of Radiance,9
-Navani,Roion,The Way of Kings,2
-Navani,Roion,Words of Radiance,14
-Navani,Ruthar,Words of Radiance,7
-Navani,Sadeas,The Way of Kings,18
-Navani,Sadeas,Words of Radiance,27
-Navani,Sebarial,Words of Radiance,16
-Navani,Shallan,The Way of Kings,1
-Navani,Shallan,Words of Radiance,34
-Navani,Sigzil,Words of Radiance,5
-Navani,Skar,Words of Radiance,10
-Navani,Syl,Words of Radiance,13
-Navani,Szeth,Words of Radiance,3
-Navani,Talenel,The Way of Kings,1
-Navani,Talenel,Words of Radiance,3
-Navani,Taravangian,Words of Radiance,1
-Navani,Teft,Words of Radiance,5
-Navani,Teleb,The Way of Kings,4
-Navani,Teleb,Words of Radiance,7
-Navani,Thanadal,The Way of Kings,2
-Navani,Thanadal,Words of Radiance,4
-Navani,Tien,Words of Radiance,1
-Navani,Tyn,Words of Radiance,4
-Navani,Vamah,The Way of Kings,3
-Navani,Vamah,Words of Radiance,3
-Navani,Vathah,Words of Radiance,7
-Navani,Wit,The Way of Kings,5
-Navani,Wit,Words of Radiance,4
-Navani,Yenev,Words of Radiance,2
-Navani,Zahel,Words of Radiance,3
-Pailiah,Renarin,Words of Radiance,1
-Pailiah,Sadeas,Words of Radiance,1
-Pailiah,Shallan,Words of Radiance,1
-Pailiah,Thanadal,Words of Radiance,1
-Palah,Sadeas,The Way of Kings,1
-Palah,Shalash,The Way of Kings,1
-Palah,Szeth,The Way of Kings,1
-Palah,Talenel,The Way of Kings,1
-Pattern,Renarin,Words of Radiance,9
-Pattern,Rock,Words of Radiance,2
-Pattern,Roion,Words of Radiance,1
-Pattern,Ruthar,Words of Radiance,3
-Pattern,Sadeas,Words of Radiance,8
-Pattern,Sebarial,Words of Radiance,13
-Pattern,Shalash,Words of Radiance,1
-Pattern,Shallan,Words of Radiance,48
-Pattern,Skar,Words of Radiance,1
-Pattern,Talenel,Words of Radiance,1
-Pattern,Teleb,Words of Radiance,1
-Pattern,Thanadal,Words of Radiance,2
-Pattern,Tyn,Words of Radiance,16
-Pattern,Valam,Words of Radiance,1
-Pattern,Vamah,Words of Radiance,2
-Pattern,Vathah,Words of Radiance,12
-Pattern,Wit,Words of Radiance,1
-Redin,Sadeas,Words of Radiance,1
-Redin,Shallan,Words of Radiance,1
-Redin,Szeth,Words of Radiance,1
-Redin,Taravangian,Words of Radiance,1
-Redin,Valam,Words of Radiance,2
-Redin,Wikim,Words of Radiance,1
-Renarin,Rock,Words of Radiance,11
-Renarin,Roion,The Way of Kings,5
-Renarin,Roion,Words of Radiance,7
-Renarin,Roshone,Words of Radiance,2
-Renarin,Ruthar,The Way of Kings,1
-Renarin,Ruthar,Words of Radiance,5
-Renarin,Sadeas,The Way of Kings,22
-Renarin,Sadeas,Words of Radiance,21
-Renarin,Sebarial,Words of Radiance,6
-Renarin,Shalash,Words of Radiance,1
-Renarin,Shallan,Words of Radiance,22
-Renarin,Sigzil,Words of Radiance,4
-Renarin,Skar,Words of Radiance,7
-Renarin,Syl,Words of Radiance,14
-Renarin,Szeth,Words of Radiance,2
-Renarin,Talenel,The Way of Kings,1
-Renarin,Tarah,Words of Radiance,1
-Renarin,Taravangian,Words of Radiance,1
-Renarin,Teft,Words of Radiance,11
-Renarin,Teleb,The Way of Kings,3
-Renarin,Teleb,Words of Radiance,3
-Renarin,Thanadal,The Way of Kings,3
-Renarin,Thanadal,Words of Radiance,2
-Renarin,Tien,Words of Radiance,3
-Renarin,Tyn,Words of Radiance,2
-Renarin,Vamah,The Way of Kings,4
-Renarin,Vathah,Words of Radiance,1
-Renarin,Wit,The Way of Kings,5
-Renarin,Wit,Words of Radiance,3
-Renarin,Yake,Words of Radiance,1
-Renarin,Yenev,Words of Radiance,1
-Renarin,Zahel,Words of Radiance,11
-Rock,Roion,Words of Radiance,4
-Rock,Roshone,The Way of Kings,2
-Rock,Roshone,Words of Radiance,2
-Rock,Ruthar,Words of Radiance,1
-Rock,Sadeas,The Way of Kings,31
-Rock,Sadeas,Words of Radiance,18
-Rock,Sebarial,Words of Radiance,1
-Rock,Shallan,Words of Radiance,9
-Rock,Sigzil,The Way of Kings,15
-Rock,Sigzil,Words of Radiance,12
-Rock,Skar,The Way of Kings,21
-Rock,Skar,Words of Radiance,9
-Rock,Syl,The Way of Kings,28
-Rock,Syl,Words of Radiance,17
-Rock,Szeth,Words of Radiance,1
-Rock,Talenel,Words of Radiance,2
-Rock,Tarah,The Way of Kings,2
-Rock,Tarah,Words of Radiance,1
-Rock,Teft,The Way of Kings,35
-Rock,Teft,Words of Radiance,17
-Rock,Teleb,Words of Radiance,2
-Rock,Thanadal,Words of Radiance,1
-Rock,Tien,The Way of Kings,12
-Rock,Tien,Words of Radiance,4
-Rock,Tyn,Words of Radiance,1
-Rock,Vathah,Words of Radiance,1
-Rock,Wit,The Way of Kings,2
-Rock,Yake,The Way of Kings,5
-Rock,Zahel,Words of Radiance,6
-Roion,Ruthar,Words of Radiance,3
-Roion,Sadeas,The Way of Kings,6
-Roion,Sadeas,Words of Radiance,13
-Roion,Sebarial,Words of Radiance,10
-Roion,Shallan,Words of Radiance,12
-Roion,Skar,Words of Radiance,5
-Roion,Syl,Words of Radiance,2
-Roion,Szeth,Words of Radiance,4
-Roion,Talenel,Words of Radiance,1
-Roion,Teft,Words of Radiance,2
-Roion,Teleb,The Way of Kings,1
-Roion,Teleb,Words of Radiance,5
-Roion,Thanadal,The Way of Kings,1
-Roion,Thanadal,Words of Radiance,1
-Roion,Tyn,Words of Radiance,1
-Roion,Vamah,The Way of Kings,1
-Roion,Vamah,Words of Radiance,1
-Roion,Vathah,Words of Radiance,2
-Roion,Wit,The Way of Kings,2
-Roion,Yenev,Words of Radiance,1
-Roion,Zahel,Words of Radiance,1
-Roshone,Sadeas,The Way of Kings,7
-Roshone,Sadeas,Words of Radiance,5
-Roshone,Sebarial,Words of Radiance,1
-Roshone,Shallan,Words of Radiance,3
-Roshone,Sigzil,The Way of Kings,1
-Roshone,Sigzil,Words of Radiance,1
-Roshone,Skar,The Way of Kings,1
-Roshone,Syl,The Way of Kings,2
-Roshone,Syl,Words of Radiance,5
-Roshone,Szeth,The Way of Kings,1
-Roshone,Tarah,Words of Radiance,2
-Roshone,Teft,The Way of Kings,2
-Roshone,Teft,Words of Radiance,3
-Roshone,Thanadal,Words of Radiance,1
-Roshone,Tien,The Way of Kings,9
-Roshone,Tien,Words of Radiance,3
-Roshone,Wit,Words of Radiance,1
-Roshone,Yake,Words of Radiance,1
-Roshone,Zahel,Words of Radiance,2
-Ruthar,Sadeas,The Way of Kings,1
-Ruthar,Sadeas,Words of Radiance,11
-Ruthar,Sebarial,Words of Radiance,3
-Ruthar,Shallan,Words of Radiance,6
-Ruthar,Sigzil,Words of Radiance,1
-Ruthar,Syl,Words of Radiance,2
-Ruthar,Talenel,Words of Radiance,1
-Ruthar,Teft,Words of Radiance,1
-Ruthar,Thanadal,Words of Radiance,3
-Ruthar,Tyn,Words of Radiance,2
-Ruthar,Vamah,Words of Radiance,2
-Ruthar,Vathah,Words of Radiance,2
-Ruthar,Wit,Words of Radiance,1
-Ruthar,Yenev,Words of Radiance,1
-Ruthar,Zahel,Words of Radiance,2
-Sadeas,Sebarial,Words of Radiance,16
-Sadeas,Shalash,The Way of Kings,1
-Sadeas,Shallan,The Way of Kings,1
-Sadeas,Shallan,Words of Radiance,27
-Sadeas,Sigzil,The Way of Kings,13
-Sadeas,Sigzil,Words of Radiance,13
-Sadeas,Skar,The Way of Kings,19
-Sadeas,Skar,Words of Radiance,8
-Sadeas,Syl,The Way of Kings,30
-Sadeas,Syl,Words of Radiance,26
-Sadeas,Szeth,The Way of Kings,1
-Sadeas,Szeth,Words of Radiance,1
-Sadeas,Talenel,The Way of Kings,3
-Sadeas,Talenel,Words of Radiance,4
-Sadeas,Tarah,The Way of Kings,2
-Sadeas,Tarah,Words of Radiance,2
-Sadeas,Taravangian,The Way of Kings,1
-Sadeas,Taravangian,Words of Radiance,1
-Sadeas,Teft,The Way of Kings,30
-Sadeas,Teft,Words of Radiance,18
-Sadeas,Teleb,The Way of Kings,6
-Sadeas,Teleb,Words of Radiance,2
-Sadeas,Thanadal,The Way of Kings,5
-Sadeas,Thanadal,Words of Radiance,6
-Sadeas,Tien,The Way of Kings,21
-Sadeas,Tien,Words of Radiance,7
-Sadeas,Tyn,Words of Radiance,6
-Sadeas,Valam,Words of Radiance,2
-Sadeas,Vamah,The Way of Kings,6
-Sadeas,Vamah,Words of Radiance,3
-Sadeas,Vathah,Words of Radiance,5
-Sadeas,Wit,The Way of Kings,10
-Sadeas,Wit,Words of Radiance,8
-Sadeas,Yake,The Way of Kings,5
-Sadeas,Yake,Words of Radiance,1
-Sadeas,Yenev,Words of Radiance,3
-Sadeas,Zahel,Words of Radiance,10
-Sebarial,Shallan,Words of Radiance,25
-Sebarial,Sigzil,Words of Radiance,2
-Sebarial,Skar,Words of Radiance,1
-Sebarial,Syl,Words of Radiance,3
-Sebarial,Talenel,Words of Radiance,1
-Sebarial,Teft,Words of Radiance,2
-Sebarial,Teleb,Words of Radiance,2
-Sebarial,Thanadal,Words of Radiance,1
-Sebarial,Tyn,Words of Radiance,8
-Sebarial,Vamah,Words of Radiance,2
-Sebarial,Vathah,Words of Radiance,7
-Sebarial,Wit,Words of Radiance,3
-Sebarial,Yake,Words of Radiance,1
-Sebarial,Yenev,Words of Radiance,2
-Sebarial,Zahel,Words of Radiance,2
-Shalash,Shallan,Words of Radiance,1
-Shalash,Szeth,The Way of Kings,1
-Shalash,Talenel,The Way of Kings,1
-Shalash,Tyn,Words of Radiance,1
-Shalash,Vathah,Words of Radiance,1
-Shallan,Sigzil,Words of Radiance,2
-Shallan,Skar,Words of Radiance,5
-Shallan,Syl,Words of Radiance,13
-Shallan,Szeth,Words of Radiance,3
-Shallan,Talenel,The Way of Kings,1
-Shallan,Talenel,Words of Radiance,2
-Shallan,Tarah,Words of Radiance,2
-Shallan,Taravangian,The Way of Kings,5
-Shallan,Taravangian,Words of Radiance,1
-Shallan,Teft,Words of Radiance,7
-Shallan,Teleb,Words of Radiance,4
-Shallan,Thanadal,Words of Radiance,5
-Shallan,Tien,Words of Radiance,3
-Shallan,Tyn,Words of Radiance,18
-Shallan,Valam,The Way of Kings,1
-Shallan,Valam,Words of Radiance,4
-Shallan,Vamah,Words of Radiance,3
-Shallan,Vathah,Words of Radiance,15
-Shallan,Wikim,The Way of Kings,3
-Shallan,Wikim,Words of Radiance,6
-Shallan,Wit,The Way of Kings,1
-Shallan,Wit,Words of Radiance,4
-Shallan,Yake,Words of Radiance,1
-Shallan,Yenev,Words of Radiance,2
-Shallan,Zahel,Words of Radiance,4
-Sigzil,Skar,The Way of Kings,11
-Sigzil,Skar,Words of Radiance,7
-Sigzil,Syl,The Way of Kings,12
-Sigzil,Syl,Words of Radiance,14
-Sigzil,Szeth,Words of Radiance,1
-Sigzil,Talenel,Words of Radiance,1
-Sigzil,Tarah,The Way of Kings,2
-Sigzil,Teft,The Way of Kings,14
-Sigzil,Teft,Words of Radiance,13
-Sigzil,Tien,The Way of Kings,5
-Sigzil,Tien,Words of Radiance,1
-Sigzil,Wit,The Way of Kings,2
-Sigzil,Wit,Words of Radiance,2
-Sigzil,Yake,The Way of Kings,3
-Sigzil,Yenev,Words of Radiance,1
-Sigzil,Zahel,Words of Radiance,3
-Skar,Syl,The Way of Kings,16
-Skar,Syl,Words of Radiance,9
-Skar,Szeth,Words of Radiance,2
-Skar,Tarah,The Way of Kings,2
-Skar,Teft,The Way of Kings,22
-Skar,Teft,Words of Radiance,9
-Skar,Teleb,Words of Radiance,2
-Skar,Tien,The Way of Kings,6
-Skar,Tien,Words of Radiance,1
-Skar,Vathah,Words of Radiance,1
-Skar,Wit,The Way of Kings,1
-Skar,Wit,Words of Radiance,1
-Skar,Yake,The Way of Kings,4
-Skar,Zahel,Words of Radiance,3
-Syl,Szeth,Words of Radiance,8
-Syl,Tarah,The Way of Kings,2
-Syl,Tarah,Words of Radiance,2
-Syl,Teft,The Way of Kings,29
-Syl,Teft,Words of Radiance,18
-Syl,Thanadal,Words of Radiance,1
-Syl,Tien,The Way of Kings,15
-Syl,Tien,Words of Radiance,9
-Syl,Wit,The Way of Kings,2
-Syl,Wit,Words of Radiance,4
-Syl,Yake,The Way of Kings,5
-Syl,Yake,Words of Radiance,1
-Syl,Yenev,Words of Radiance,1
-Syl,Zahel,Words of Radiance,10
-Szeth,Talenel,The Way of Kings,1
-Szeth,Taravangian,The Way of Kings,1
-Szeth,Taravangian,Words of Radiance,2
-Szeth,Teft,Words of Radiance,2
-Szeth,Tien,The Way of Kings,1
-Szeth,Valam,Words of Radiance,1
-Szeth,Zahel,Words of Radiance,1
-Talenel,Teft,Words of Radiance,1
-Talenel,Teleb,Words of Radiance,1
-Talenel,Tien,The Way of Kings,2
-Talenel,Vedel,Words of Radiance,1
-Talenel,Wit,The Way of Kings,2
-Talenel,Wit,Words of Radiance,1
-Tarah,Teft,The Way of Kings,2
-Tarah,Teft,Words of Radiance,1
-Tarah,Thanadal,Words of Radiance,1
-Tarah,Tien,The Way of Kings,2
-Tarah,Tien,Words of Radiance,1
-Tarah,Wit,The Way of Kings,1
-Tarah,Yake,The Way of Kings,1
-Tarah,Zahel,Words of Radiance,1
-Taravangian,Valam,Words of Radiance,1
-Taravangian,Wit,The Way of Kings,1
-Teft,Thanadal,Words of Radiance,1
-Teft,Tien,The Way of Kings,13
-Teft,Tien,Words of Radiance,4
-Teft,Wit,The Way of Kings,2
-Teft,Wit,Words of Radiance,1
-Teft,Yake,The Way of Kings,5
-Teft,Yake,Words of Radiance,1
-Teft,Yenev,Words of Radiance,1
-Teft,Zahel,Words of Radiance,7
-Teleb,Thanadal,The Way of Kings,2
-Teleb,Vathah,Words of Radiance,1
-Thanadal,Tyn,Words of Radiance,2
-Thanadal,Vamah,The Way of Kings,2
-Thanadal,Vamah,Words of Radiance,2
-Thanadal,Vathah,Words of Radiance,2
-Thanadal,Wit,The Way of Kings,2
-Thanadal,Wit,Words of Radiance,1
-Thanadal,Zahel,Words of Radiance,1
-Tien,Wit,The Way of Kings,1
-Tien,Wit,Words of Radiance,2
-Tien,Yake,The Way of Kings,4
-Tien,Zahel,Words of Radiance,3
-Tyn,Valam,Words of Radiance,2
-Tyn,Vamah,Words of Radiance,2
-Tyn,Vathah,Words of Radiance,9
-Tyn,Wit,Words of Radiance,1
-Valam,Vathah,Words of Radiance,1
-Valam,Wikim,Words of Radiance,2
-Vamah,Vathah,Words of Radiance,2
-Vamah,Wit,The Way of Kings,5
-Vamah,Wit,Words of Radiance,1
-Vedel,Wit,Words of Radiance,1
-Wit,Yake,The Way of Kings,1
-Wit,Yenev,Words of Radiance,1
-Wit,Zahel,Words of Radiance,2
-Yake,Zahel,Words of Radiance,1
-Yenev,Zahel,Words of Radiance,1
+source,target,weight_total,weight_wok,weight_wor,chapters,n_chapters
+Adolin,Dalinar,124,44,80,17;18;20;23;24;27;29;31;33;57;59;60;61;63;65;66;69;70;71;72;73;74;83;86;87;90;98;100;102;106;108;109;110;113;114;116;117;121;122;123;124;126;127;130;132;135;136;137;138;139;141;142;143;144;147;149;150;153;154;155;156;158;159;161;162;165;166;167;168;169;170;171;172;174;175;176;178,77
+Dalinar,Sadeas,114,54,60,2;8;17;18;20;21;23;24;26;27;29;31;33;52;57;59;60;61;62;63;65;66;67;69;70;71;72;73;74;78;80;82;84;86;87;90;91;93;98;100;102;106;107;108;110;113;115;118;122;123;124;127;130;132;135;136;137;138;139;141;142;143;144;146;149;153;154;155;156;158;161;162;164;165;166;169;170;176;178,79
+Kaladin,Sadeas,90,50,40,3;8;11;21;22;26;28;30;32;35;37;39;40;42;43;45;48;49;51;52;54;58;60;62;64;67;68;70;71;72;74;78;84;86;87;90;91;93;100;102;106;107;115;122;127;130;132;136;137;138;141;142;143;144;146;149;153;154;155;156;158;161;162;165;166;169;176,67
+Dalinar,Kaladin,86,17,69,8;21;26;52;60;62;67;70;71;72;73;74;78;84;86;87;90;91;93;100;102;106;107;109;112;115;116;117;121;122;127;130;132;136;137;138;141;142;143;144;146;149;153;154;155;156;158;159;161;162;165;166;167;169;170;171;172;173;174;175;176;178,62
+Kaladin,Syl,85,36,49,8;11;13;19;22;26;28;32;35;37;39;40;45;48;51;54;60;62;64;67;68;72;73;74;78;84;87;91;93;100;102;106;107;109;116;117;127;130;132;138;141;142;143;144;146;149;151;155;156;157;158;159;161;165;166;169;173;175;176,59
+Adolin,Sadeas,82,37,45,17;18;20;23;24;27;29;31;33;51;57;59;60;61;63;65;66;69;70;71;72;73;74;86;87;90;98;100;102;106;108;110;113;122;123;124;127;129;130;132;135;136;137;139;141;142;143;144;149;153;154;155;156;158;161;162;165;166;169;170;178,61
+Dalinar,Navani,70,20,50,17;20;27;33;50;57;59;61;63;65;66;69;70;72;74;80;82;83;84;86;87;90;91;98;100;106;107;108;116;117;121;122;123;124;126;135;136;137;139;142;147;154;159;162;165;166;167;168;169;170;171;172;173;174;175;176;178,57
+Adolin,Renarin,64,23,41,17;18;20;23;24;27;29;31;33;57;59;63;65;66;71;73;74;86;87;98;100;102;106;109;110;114;116;117;121;127;130;132;135;136;137;139;142;143;153;155;158;165;168;169;170;175;178,47
+Amaram,Kaladin,64,35,29,3;4;6;8;12;13;19;21;22;26;28;32;35;39;49;51;52;56;58;60;62;67;68;71;72;73;84;87;93;100;102;106;109;127;130;132;138;141;142;143;144;149;153;154;161;162;165;166;167;169,50
+Dalinar,Elhokar,64,32,32,2;17;18;20;23;24;27;29;33;57;59;63;65;69;70;71;73;74;78;80;82;86;87;90;100;106;107;113;116;117;121;122;124;127;130;132;142;144;146;149;153;154;155;169;171;173;176;178,48
+Dalinar,Gavilar,64,33,31,2;8;17;18;20;21;23;27;29;31;33;34;50;57;59;61;63;65;66;69;70;74;76;82;84;86;87;90;94;96;113;121;124;127;130;136;137;139;141;154;164;165;166;167;169;174;175;176;177;178,50
+Jasnah,Shallan,64,22,42,5;7;9;10;15;34;38;41;44;47;50;53;55;75;77;79;83;85;88;89;92;97;98;99;101;108;112;114;118;122;124;125;126;128;129;133;135;138;140;141;147;150;152;154;157;161;162;166;167;169;170;177;178,53
+Adolin,Navani,63,16,47,17;20;27;33;57;59;61;63;65;66;69;70;72;74;83;86;87;90;98;100;106;108;110;116;117;121;122;123;124;126;133;135;136;137;139;142;147;154;159;162;165;166;167;168;169;170;171;172;174;175;176;178,52
+Kaladin,Moash,62,29,33,19;22;26;32;35;37;39;45;48;51;54;58;60;62;64;67;68;70;71;72;73;78;84;87;91;93;100;102;106;107;109;116;117;127;130;132;138;142;146;149;153;155;158;165;166;169;171;172;173;176,50
+Kaladin,Teft,62,40,22,13;19;22;26;28;32;35;37;39;40;43;45;48;51;54;58;60;62;64;67;68;69;70;71;72;73;74;78;84;87;91;93;100;102;106;115;127;130;132;141;153;155;158;165;169;175;176,47
+Dalinar,Renarin,61,25,36,17;18;20;23;24;27;29;31;33;57;59;63;65;66;71;73;74;86;87;98;100;102;106;109;110;114;116;117;121;130;132;135;136;137;139;142;143;153;155;158;165;168;169;170;172;173;178,47
+Kaladin,Rock,59,37,22,19;22;26;28;32;35;37;39;40;45;48;51;54;58;60;62;64;67;68;70;71;72;73;78;84;87;91;93;100;102;106;112;115;117;127;132;138;153;155;165;166;169;176,43
+Elhokar,Sadeas,57,32,25,2;7;17;18;20;23;24;27;29;33;57;59;63;65;69;70;71;73;74;78;80;82;86;87;90;100;106;107;113;122;124;127;130;132;142;144;146;149;153;154;155;169;176,43
+Sadeas,Syl,56,30,26,8;11;22;26;28;32;35;37;39;45;48;51;54;60;62;64;67;68;72;74;78;84;87;91;93;100;102;106;107;127;130;132;138;141;143;146;149;155;156;158;161;165;169,43
+Adolin,Elhokar,55,28,27,17;18;20;23;24;27;29;33;57;59;63;65;70;71;73;74;86;87;90;100;106;113;116;117;121;122;124;127;130;132;142;144;149;153;154;155;169;178,38
+Adolin,Shallan,55,0,55,83;98;108;114;122;124;126;129;130;133;135;136;138;139;140;141;142;143;147;150;154;155;156;157;158;159;161;162;165;166;167;168;169;170;171;173;174;175;176;177;178,41
+Adolin,Kaladin,54,5,49,51;60;73;74;86;87;90;100;102;106;109;116;117;121;122;127;130;132;136;137;141;142;143;144;149;153;154;155;156;157;158;159;161;165;166;167;169;170;174;175;176;178,42
+Amaram,Dalinar,54,12,42,8;21;26;52;60;62;67;71;72;73;82;84;87;93;100;102;106;109;113;123;127;130;132;135;138;141;142;143;144;147;149;150;153;154;161;162;165;166;167;169;177,41
+Amaram,Sadeas,54,24,30,3;8;21;22;26;28;32;35;39;49;51;52;58;60;62;67;68;71;72;82;84;87;93;100;102;106;113;123;127;129;130;132;135;138;141;143;144;149;153;154;161;162;165;169,44
+Dalinar,Shallan,54,2,52,34;50;83;98;108;112;114;118;122;124;126;130;135;136;138;139;141;147;150;154;155;156;158;159;161;162;165;166;167;168;169;170;172;173;174;175;176;178,38
+Gavilar,Sadeas,52,30,22,2;3;8;17;18;20;21;23;27;29;30;31;33;57;59;61;63;65;66;69;70;74;82;84;86;87;90;113;124;127;130;136;137;139;141;154;164;165;166;169;176;178,42
+Rock,Teft,52,35,17,19;22;26;28;32;35;37;39;40;45;48;51;54;58;60;62;64;67;68;70;71;72;73;78;84;87;91;93;100;102;106;115;127;132;153;155;165;169;176,39
+Moash,Syl,49,23,26,19;22;26;32;35;37;39;45;48;51;54;60;62;64;67;68;72;73;78;84;87;91;93;100;102;106;107;109;116;117;127;130;132;138;142;146;149;155;166;169;173;176,42
+Rock,Sadeas,49,31,18,17;22;26;28;32;37;39;40;45;48;51;54;58;60;62;64;67;68;70;71;72;78;84;87;91;93;100;102;106;115;127;132;138;153;155;169;170,37
+Pattern,Shallan,48,0,48,88;89;92;97;99;101;104;105;108;114;116;118;122;124;126;128;129;133;135;138;140;143;147;150;151;156;157;159;162;166;167;170;172;173;174;175;176;177,38
+Sadeas,Teft,48,30,18,22;26;28;32;37;39;40;43;45;48;51;54;58;60;62;64;67;68;70;71;72;74;78;84;87;91;93;100;102;106;115;127;130;132;141;153;155;158;169,39
+Adolin,Gavilar,47,25,22,17;18;20;23;27;29;31;33;57;59;61;63;65;66;70;74;86;87;90;113;121;124;127;130;136;137;139;141;154;165;166;167;169;174;175;178,36
+Dalinar,Syl,47,9,38,26;60;62;67;72;73;74;78;84;87;91;93;100;102;106;107;109;116;117;127;130;132;138;141;142;143;144;146;149;155;156;158;159;161;165;166;169;173;175;176,40
+Syl,Teft,47,29,18,13;19;22;26;28;32;35;37;39;45;48;51;54;60;62;64;67;68;72;73;74;78;84;87;91;93;100;102;106;127;130;132;141;155;158;169;175;176,38
+Moash,Teft,45,27,18,19;22;26;32;35;37;39;45;48;51;54;58;60;62;64;67;68;70;71;72;73;78;84;87;91;93;100;102;106;127;130;132;153;155;158;165;169;176,38
+Navani,Sadeas,45,18,27,17;20;27;33;57;59;61;63;65;66;69;70;72;74;80;82;84;86;87;90;91;92;93;98;100;106;107;108;110;122;123;124;135;137;139;142;154;162;170,39
+Rock,Syl,45,28,17,19;22;26;28;32;35;37;39;45;48;51;54;60;62;64;67;68;72;73;78;84;87;91;93;100;102;106;117;127;132;138;155;169;176,34
+Moash,Rock,44,27,17,19;22;26;32;35;37;39;45;48;51;54;58;60;62;64;67;68;70;71;72;73;78;84;87;91;93;100;102;106;127;132;138;153;155;165;169;176,37
+Moash,Sadeas,44,23,21,22;26;32;37;39;45;48;51;54;58;60;62;64;67;68;70;71;72;78;84;87;91;93;100;102;106;107;127;130;132;138;146;149;153;155;169;176,37
+Dalinar,Jasnah,43,14,29,2;17;20;23;27;31;33;34;50;57;59;65;66;82;83;86;90;98;108;112;114;118;121;122;123;124;126;135;141;147;150;154;161;162;164;166;167;169;170;176;178,41
+Dalinar,Moash,43,11,32,26;60;62;67;70;71;72;73;78;84;87;91;93;100;102;106;107;109;116;117;127;130;132;138;142;146;149;153;155;158;165;166;169;171;172;173;176,37
+Renarin,Sadeas,43,22,21,17;18;20;23;24;27;29;31;33;57;59;63;65;66;71;73;74;86;87;98;100;102;106;110;127;130;132;135;136;137;139;142;143;153;155;169,36
+Kaladin,Tien,42,31,11,4;6;8;11;12;13;19;21;22;30;32;36;37;42;43;46;48;49;51;52;56;62;64;67;68;72;100;127;138;149;158;161;169;170;171;173,36
+Adolin,Jasnah,40,11,29,17;20;23;27;31;33;57;59;65;66;83;86;90;98;108;110;114;121;122;123;124;126;129;133;135;140;141;147;150;154;157;161;162;166;167;169;177;178,38
+Amaram,Syl,39,18,21,13;19;22;26;28;32;35;39;51;60;62;67;68;72;84;87;93;100;102;106;109;127;130;132;138;141;142;143;149;161;165;166;169,33
+Kaladin,Lopen,38,19,19,37;45;51;54;58;60;62;64;67;68;70;71;72;73;78;84;87;93;100;102;106;127;132;153;155;165;166;169;176,29
+Adolin,Amaram,37,2,35,51;60;87;100;102;106;109;113;123;127;129;130;132;133;135;138;140;141;142;143;144;147;149;150;153;154;161;162;165;167;169,31
+Amaram,Moash,36,17,19,19;22;26;32;39;51;58;60;62;67;68;71;72;84;87;93;100;102;106;109;127;130;132;138;142;149;153;165;166;169,30
+Kaladin,Skar,36,23,13,28;32;35;43;45;48;51;54;58;60;62;67;68;70;71;72;73;78;84;87;91;100;102;106;142;158;165;167;174,29
+Dalinar,Rock,35,12,23,17;26;60;62;67;70;71;72;73;78;84;87;91;93;100;102;106;112;115;117;127;132;138;153;155;165;166;168;169;170;172;176,32
+Elhokar,Gavilar,35,21,14,2;17;18;20;23;27;29;33;57;59;63;65;69;74;82;86;87;90;113;121;124;127;130;154;163;169;176,27
+Jasnah,Navani,35,10,25,17;20;27;33;50;57;59;65;66;82;83;85;86;88;89;90;92;98;108;110;121;122;123;124;126;133;135;147;154;162;166;167;169;178,34
+Lopen,Rock,35,19,16,37;45;51;54;58;60;62;64;67;68;70;71;72;73;78;84;87;93;100;102;106;127;132;153;155;165;169;176,28
+Navani,Shallan,35,1,34,50;83;85;88;89;92;98;108;122;124;126;133;135;139;142;147;154;159;162;165;166;167;168;169;170;171;173;174;175;176;178,31
+Gaz,Kaladin,34,30,4,8;11;13;19;22;26;28;32;35;37;39;43;45;48;51;54;58;60;62;64;122;127;155;166,24
+Lopen,Teft,34,19,15,37;45;51;54;58;60;62;64;67;68;70;71;72;73;78;84;87;93;100;102;106;127;132;153;155;165;169;176,28
+Amaram,Teft,33,19,14,13;19;22;26;28;32;39;51;58;60;62;67;68;71;72;84;93;100;102;106;127;130;132;141;153;165;169,27
+Dalinar,Teft,33,12,21,26;60;62;67;70;71;72;73;74;78;84;87;91;93;100;102;106;115;127;130;132;141;153;155;158;165;169;175;176,29
+Elhokar,Renarin,33,18,15,17;18;20;23;24;27;29;33;57;59;63;65;71;73;74;86;87;100;106;116;117;130;132;142;153;155;169;178,28
+Kaladin,Sigzil,33,17,16,19;26;32;45;48;51;60;62;67;68;72;73;78;84;87;91;93;102;115;127;132;141;142;146;158;176,26
+Lopen,Moash,33,17,16,37;45;51;54;58;60;62;64;67;68;70;71;72;73;78;84;87;93;100;102;106;127;132;153;155;165;166;169;176,29
+Jasnah,Sadeas,32,12,20,2;7;17;20;23;27;31;33;57;59;65;66;82;86;90;92;98;108;110;118;122;123;124;129;135;141;154;161;162;164;166;176,32
+Amaram,Rock,31,18,13,19;22;26;28;32;39;51;58;60;62;67;68;71;72;84;93;100;102;106;127;132;138;153;165;169,25
+Elhokar,Navani,31,13,18,17;20;27;33;57;59;63;65;69;70;74;80;82;86;87;90;100;106;107;116;117;121;122;124;142;154;178,27
+Gaz,Sadeas,31,24,7,8;11;22;26;28;32;35;37;39;43;45;48;51;54;58;60;62;64;108;118;122;124;127;155;166,25
+Lopen,Sadeas,31,16,15,37;45;51;54;58;60;62;64;67;68;70;71;72;78;84;87;93;100;102;106;127;132;153;155;165;169,26
+Lopen,Syl,31,15,16,37;45;51;54;60;62;64;67;68;72;73;78;84;87;93;100;102;106;127;132;155;165;166;169;176,25
+Navani,Renarin,31,11,20,17;27;33;57;59;65;66;74;86;87;98;100;106;110;116;117;135;137;139;142;165;168;170;173;178,25
+Skar,Teft,31,22,9,28;32;35;43;45;48;51;54;58;60;62;67;68;70;71;72;73;78;84;87;91;100;102;106;158;165,26
+Dalinar,Roion,30,6,24,20;27;29;31;63;90;106;110;113;124;162;165;168;169;170;171;172;174;175;176,20
+Elhokar,Kaladin,30,2,28,74;78;86;87;90;100;106;107;116;117;122;127;130;132;142;144;146;149;153;154;155;169;171;173;176;178,26
+Gavilar,Navani,30,15,15,17;20;27;33;50;57;59;61;63;65;66;69;74;82;84;86;87;89;90;121;124;137;139;154;167;174;175,27
+Rock,Skar,30,21,9,28;32;35;45;48;51;54;58;60;62;67;68;70;71;72;73;78;84;87;91;100;102;106;165;168,25
+Jasnah,Pattern,29,0,29,88;89;92;97;99;101;108;114;118;122;124;126;128;129;133;135;138;140;147;150;157;162;166;167;170;177,26
+Kaladin,Navani,29,1,28,74;84;86;87;90;91;93;100;106;107;116;117;122;137;142;154;159;162;166;167;175;176;178,23
+Kaladin,Shallan,29,0,29,112;122;130;136;141;151;154;155;156;157;158;159;161;162;165;166;167;169;175;176;178,21
+Gavilar,Jasnah,28,16,12,2;17;20;23;27;31;33;34;38;41;50;57;59;65;66;82;86;89;90;121;124;141;154;164;166;167;176,27
+Moash,Skar,28,17,11,32;35;48;51;54;58;60;62;67;68;70;71;72;73;78;84;87;91;100;102;106;142;158;165,24
+Sadeas,Shallan,28,1,27,7;92;98;108;118;122;124;129;130;135;136;138;139;141;142;154;155;156;158;161;162;165;166;169;170;178,26
+Sadeas,Tien,28,21,7,8;11;21;22;30;32;37;42;43;48;49;51;52;62;64;67;68;72;100;127;138;149;158;161;169,25
+Adolin,Roion,27,5,22,20;27;29;31;63;90;106;110;113;124;165;168;169;170;171;172;173;174;175,19
+Aladar,Dalinar,27,4,23,23;31;63;87;90;108;113;122;124;139;141;154;165;168;169;170;171;172;174;175;176;178,22
+Kaladin,Renarin,27,1,26,74;86;87;100;102;106;109;116;117;121;127;130;132;136;137;142;143;153;155;158;165;169;170;178,24
+Rock,Sigzil,27,15,12,19;26;32;45;48;51;60;62;67;68;72;73;78;84;87;91;93;102;115;127;132;176,22
+Sadeas,Skar,27,19,8,28;32;35;43;45;48;51;54;58;60;62;67;68;70;71;72;78;84;87;91;100;102;106,23
+Sigzil,Teft,27,14,13,19;26;32;45;48;51;60;62;67;68;72;73;78;84;87;91;93;102;115;127;132;141;158;176,24
+Adolin,Syl,26,3,23,51;73;74;87;100;102;106;109;116;117;127;130;132;141;142;143;149;155;156;157;158;159;161;169,24
+Amaram,Shallan,26,0,26,129;130;133;135;138;140;141;143;147;150;151;154;161;162;165;167;169,17
+Amaram,Tien,26,20,6,4;6;8;12;13;19;21;22;32;49;51;52;56;62;67;68;72;100;127;138;149;161;169,23
+Moash,Sigzil,26,13,13,19;26;32;48;51;60;62;67;68;72;78;84;87;91;93;102;127;132;142;146;158;176,22
+Sadeas,Sigzil,26,13,13,26;32;45;48;51;60;62;67;68;72;78;84;87;91;93;102;115;127;132;141;146,21
+Sigzil,Syl,26,12,14,19;26;32;45;48;51;60;62;67;68;72;78;84;87;91;93;102;127;132;141;142;146;176,23
+Adolin,Aladar,25,4,21,23;31;63;90;108;113;122;124;139;141;142;154;165;168;169;170;171;172;173;174;175;178,22
+Adolin,Pattern,25,0,25,108;114;122;124;126;129;133;135;138;140;143;147;150;156;157;162;166;167;175;176;177,21
+Dalinar,Skar,25,10,15,60;62;67;70;71;72;73;78;84;87;91;100;102;106;142;158;165;167;168;174,20
+Sebarial,Shallan,25,0,25,108;124;126;128;129;130;133;135;138;139;140;141;143;147;150;154;162;165;166;169;170;175,22
+Skar,Syl,25,16,9,28;32;35;45;48;51;54;60;62;67;68;72;73;78;84;87;91;100;102;106;142,21
+Adolin,Sebarial,24,0,24,108;124;126;129;130;133;135;139;140;141;142;143;147;150;154;162;165;166;169;170;175,21
+Amaram,Lopen,24,10,14,51;58;60;62;67;68;71;72;84;93;100;102;106;127;132;153;165;166;169,19
+Dalinar,Lopen,24,8,16,60;62;67;70;71;72;73;78;84;87;93;100;102;106;127;132;153;155;165;166;169;176,22
+Dalinar,Sebarial,24,0,24,108;124;126;130;135;138;139;141;142;147;150;154;162;165;166;169;170;175;176,19
+Gavilar,Renarin,24,17,7,17;18;20;23;27;29;31;33;57;59;65;66;74;86;87;130;136;137;139;169,20
+Gaz,Syl,24,22,2,8;11;13;19;22;26;28;32;35;37;39;45;48;51;54;60;62;64;127;155,20
+Syl,Tien,24,15,9,11;13;19;22;32;37;48;51;62;64;67;68;72;100;127;138;149;158;161;169;173,21
+Gaz,Teft,23,21,2,13;19;22;26;28;32;35;37;39;43;45;51;54;58;60;62;64;127;155,19
+Kaladin,Leyten,23,15,8,19;22;26;28;32;37;43;48;54;60;67;68;69;71;87;106;107;115;132;155;167;176,22
+Drehy,Kaladin,22,12,10,22;32;54;58;60;67;70;71;72;73;78;84;87;93;100;102;127;132;158;176,20
+Gaz,Rock,22,20,2,19;22;26;28;32;35;37;39;45;48;51;54;58;60;62;64;127;155,18
+Renarin,Shallan,22,0,22,98;114;130;135;136;139;142;143;155;165;168;169;170;172;173;174;175;178,18
+Amaram,Skar,21,12,9,32;35;51;58;60;62;67;68;71;72;84;87;100;102;106;142;165;167,18
+Drehy,Moash,21,11,10,22;32;54;58;60;67;70;71;72;78;84;87;93;100;102;127;132;158;176,19
+Drehy,Skar,21,11,10,32;54;58;60;67;70;71;72;73;78;84;87;100;102;158;170;171;173;174,19
+Drehy,Teft,21,12,9,22;32;54;58;60;67;70;71;72;73;78;84;87;93;100;102;127;132;158;176,20
+Gavilar,Kaladin,21,6,15,3;8;12;21;30;74;84;86;87;90;127;130;136;137;141;154;166;167;169;175;176,21
+Jasnah,Kabsal,21,14,7,9;10;34;38;41;44;47;50;53;55;75;79;89;92;97;99;122;129;135,19
+Kabsal,Shallan,21,14,7,9;10;34;38;41;44;47;50;53;55;75;79;89;92;97;99;122;129;135,19
+Leyten,Teft,21,15,6,19;22;26;28;32;37;43;48;54;60;67;68;69;71;87;106;115;132;155;176,20
+Adolin,Moash,20,2,18,60;73;87;100;102;106;109;116;117;127;130;132;142;149;153;155;158;165;169,19
+Dalinar,Pattern,20,0,20,108;114;118;122;124;126;135;138;147;150;162;166;167;170;172;173;175;176,18
+Dalinar,Sigzil,20,6,14,26;60;67;72;78;84;87;91;93;102;115;127;132;141;142;146;158;176,18
+Drehy,Rock,20,12,8,22;32;54;58;60;67;70;71;72;73;78;84;87;93;100;102;127;132;176,19
+Elhokar,Jasnah,20,11,9,2;7;17;20;23;27;33;47;57;59;65;82;86;90;121;122;124;154;176;178,20
+Elhokar,Moash,20,1,19,78;87;100;106;107;116;117;127;130;132;142;146;149;153;155;169;171;173;176,19
+Gavilar,Shallan,20,4,16,34;38;41;50;89;124;130;136;139;141;151;154;165;166;167;169;174;175;178,19
+Lopen,Skar,20,13,7,51;54;58;60;62;67;68;70;71;72;73;78;84;87;100;102;106;165,18
+Amaram,Sigzil,19,10,9,19;26;32;51;60;62;67;68;72;84;93;102;127;132;141;142,16
+Balat,Shallan,19,8,11,9;15;34;38;44;47;79;83;103;111;125;131;134;148;151;152;159;160,18
+Drehy,Sadeas,19,11,8,22;32;54;58;60;67;70;71;72;78;84;87;93;100;102;127;132,17
+Leyten,Rock,19,13,6,19;22;26;28;32;37;48;54;60;67;68;71;87;106;115;132;155;176,18
+Leyten,Sadeas,19,13,6,22;26;28;32;37;43;48;54;60;67;68;71;87;106;107;115;132;155,18
+Roion,Sadeas,19,6,13,20;27;29;31;63;90;106;110;113;124;162;165;170;176,14
+Aladar,Sadeas,18,4,14,23;31;63;87;90;108;113;122;124;139;141;154;165;170;176;178,16
+Kaladin,Roshone,18,12,6,6;28;30;36;42;46;49;52;56;72;127;130;149;155;161;172,16
+Leyten,Syl,18,12,6,19;22;26;28;32;37;48;54;60;67;68;87;106;107;132;155;176,17
+Sadeas,Wit,18,10,8,17;20;23;27;59;62;63;68;87;135;138;141;146;149;154,15
+Shallan,Tyn,18,0,18,105;108;112;114;115;116;118;122;124;128;129;135;138;140;150;156,16
+Sigzil,Skar,18,11,7,32;45;48;51;60;67;68;72;73;78;84;87;91;102;142;158,16
+Adolin,Skar,17,2,15,60;73;87;100;102;106;142;158;165;167;168;170;171;172;173;174,16
+Adolin,Teft,17,3,14,60;73;74;100;102;106;127;130;132;141;153;155;158;165;169,15
+Aladar,Roion,17,2,15,31;63;90;113;124;165;168;169;170;171;172;173;174;175;176,15
+Aladar,Shallan,17,0,17,108;122;124;139;141;154;165;168;169;170;172;173;174;175;178,15
+Dalinar,Drehy,17,7,10,60;67;70;71;72;78;84;87;93;100;102;132;158;174;176,15
+Dalinar,Wit,17,9,8,17;20;23;27;34;59;63;87;135;141;146;149;154;170,14
+Drehy,Lopen,17,9,8,54;58;60;67;70;71;72;73;78;84;87;93;100;102;127;132;176,17
+Drehy,Syl,17,8,9,22;32;54;60;67;72;78;84;87;93;100;102;127;132;176,15
+Gaz,Moash,17,15,2,19;22;26;32;35;37;39;45;48;51;54;58;60;62;64;127;155,17
+Jasnah,Renarin,17,10,7,17;23;27;31;33;57;59;65;66;86;98;110;114;135;170;178,16
+Kaladin,Lirin,17,16,1,12;13;21;22;25;26;30;36;42;46;49;58;62;72;87,15
+Lopen,Sigzil,17,7,10,51;60;62;67;68;73;78;84;87;93;102;127;132;176,14
+Moash,Tien,17,10,7,19;22;32;37;48;62;67;68;72;100;127;138;149;169;171;173,16
+Teft,Tien,17,13,4,13;19;22;32;37;48;62;64;67;68;72;100;127;158;169,15
+Adolin,Khal,16,0,16,87;90;123;137;153;154;168;169;170;171;172;174;175,13
+Adolin,Rock,16,3,13,17;60;73;100;102;106;127;132;153;155;165;166;168;169;170,15
+Amaram,Gavilar,16,4,12,3;8;12;21;82;84;87;127;130;141;151;154;165;167;169;177,16
+Amaram,Navani,16,0,16,82;84;87;100;106;123;133;135;142;147;154;162;165;167,14
+Amaram,Renarin,16,0,16,87;100;102;106;109;127;130;132;135;142;143;153;165;169,14
+Dalinar,Khal,16,0,16,87;90;123;137;153;154;168;169;170;171;172;174;175,13
+Dalinar,Tien,16,6,10,8;21;52;62;67;72;100;127;138;149;158;161;169;170;171;173,16
+Elhokar,Syl,16,1,15,78;87;100;106;107;116;117;127;130;132;142;146;149;155;169;173,16
+Leyten,Moash,16,10,6,19;22;26;37;48;54;60;67;68;71;87;106;107;132;155;176,16
+Navani,Pattern,16,0,16,88;89;92;108;122;124;126;133;135;147;162;166;167;173;175;176,16
+Navani,Roion,16,2,14,20;27;90;106;110;124;162;165;168;169;170;171;172;174;175,15
+Navani,Sebarial,16,0,16,108;124;126;133;135;139;142;147;154;162;165;169;170;175,14
+Pattern,Tyn,16,0,16,105;108;114;116;118;122;124;128;129;135;138;140;150;156,14
+Rock,Tien,16,12,4,19;22;32;37;48;62;64;67;68;72;100;127;138;169,14
+Sadeas,Sebarial,16,0,16,108;124;129;130;135;138;139;141;154;162;165;166;170;176,14
+Adolin,Wit,15,8,7,17;20;23;27;59;63;87;135;141;149;154;170,12
+Aladar,Navani,15,0,15,90;108;122;124;139;154;165;168;169;170;171;172;174;175,14
+Amaram,Drehy,15,8,7,22;32;58;60;67;71;72;84;87;93;100;102;127;132,14
+Amaram,Gaz,15,13,2,8;13;19;22;26;28;32;35;39;51;58;60;62;127;133,15
+Amaram,Sebarial,15,0,15,129;130;133;135;138;140;141;142;143;147;150;162;165,13
+Dabbid,Kaladin,15,13,2,22;26;32;37;45;51;54;58;60;64;67;68;72;87;166,15
+Helaran,Shallan,15,2,13,10;15;103;111;122;125;131;138;140;148;151;152;160;161,14
+Jasnah,Sebarial,15,0,15,108;124;126;128;129;133;135;140;141;147;150;162;166;169;176,15
+Kaladin,Kalak,15,10,5,13;28;32;40;43;51;58;62;64;72;84;130;158;161;175,15
+Moash,Renarin,15,0,15,87;100;102;106;109;116;117;127;130;132;153;155;158;165;169,15
+Shallan,Vathah,15,0,15,104;105;108;112;114;118;122;124;128;133;147;166;167;169,14
+Adolin,Zahel,14,0,14,100;102;109;110;121;127;130;141;142;143;153;155;170;171,14
+Aladar,Gavilar,14,3,11,23;31;90;113;124;139;141;154;165;174;175;176;178,13
+Amaram,Jasnah,14,0,14,82;123;129;133;135;138;140;141;147;150;154;161;162;167,14
+Amaram,Pattern,14,0,14,129;133;135;138;140;143;147;150;151;162;167,11
+Dabbid,Rock,14,13,1,22;26;32;37;45;51;54;58;60;64;67;68;72;87,14
+Dabbid,Sadeas,14,13,1,22;26;32;37;45;51;54;58;60;64;67;68;72;87,14
+Dabbid,Syl,14,12,2,22;26;32;37;45;51;54;60;64;67;68;72;87;166,14
+Dabbid,Teft,14,13,1,22;26;32;37;45;51;54;58;60;64;67;68;72;87,14
+Dalinar,Szeth,14,2,12,2;76;117;164;174;175;176;178,8
+Drehy,Sigzil,14,6,8,32;60;67;72;73;78;84;87;93;102;127;132;158;176,14
+Elhokar,Wit,14,8,6,17;20;23;27;59;63;87;120;146;149;154,11
+Gavilar,Roion,14,5,9,20;27;29;31;90;113;124;165;174;175;176,11
+Hobber,Kaladin,14,9,5,22;26;32;37;45;48;68;84;116;117;132;166,12
+Kaladin,Zahel,14,0,14,100;102;109;119;121;127;130;138;141;143;153;155;170;175,14
+Khal,Navani,14,0,14,87;90;123;137;154;168;169;170;171;172;174;175,12
+Renarin,Syl,14,0,14,87;100;102;106;109;116;117;127;130;132;143;155;169,13
+Adolin,Teleb,13,6,7,31;33;61;69;74;137;167;168;170;171;172,11
+Amaram,Elhokar,13,0,13,82;87;100;106;127;130;132;142;144;149;153;154;169,13
+Dabbid,Moash,13,11,2,22;26;37;45;51;54;58;60;67;68;72;87;166,13
+Dalinar,Gaz,13,4,9,8;26;60;62;108;114;118;122;124;127;155;166;169,13
+Dalinar,Teleb,13,6,7,31;33;61;69;74;137;167;168;170;171;172,11
+Gavilar,Wit,13,9,4,17;20;23;27;34;59;63;87;141;154,10
+Hobber,Syl,13,8,5,22;26;32;37;45;48;68;84;116;117;132;166,12
+Jasnah,Kaladin,13,0,13,86;90;112;122;141;154;157;161;166;167;176;178,12
+Jasnah,Vathah,13,0,13,108;112;114;118;122;124;128;133;147;166;167;169,12
+Kalak,Sadeas,13,10,3,2;28;32;40;43;51;58;62;64;72;84;130;161,13
+Kalak,Teft,13,10,3,13;28;32;40;43;51;58;62;64;72;84;130;158,13
+Navani,Syl,13,0,13,84;87;91;93;100;106;107;116;117;142;159,11
+Pattern,Sebarial,13,0,13,108;124;126;128;129;133;135;140;143;147;150;162,12
+Shallan,Syl,13,0,13,130;141;151;155;156;157;158;159;161;165;169;176,12
+Adolin,Ruthar,12,1,11,23;110;113;122;123;124;126;132;136;139;143;154,12
+Balat,Nan,12,8,4,9;15;34;38;44;47;79;103;125;131;148,11
+Dabbid,Lopen,12,10,2,37;45;51;54;58;60;64;67;68;72;87;166,12
+Dalinar,Leyten,12,4,8,26;60;67;71;87;106;107;115;132;155;167;176,12
+Dalinar,Ruthar,12,1,11,23;87;113;122;123;124;126;132;136;139;143;154,12
+Hobber,Rock,12,9,3,22;26;32;37;45;48;68;84;117;132,10
+Jasnah,Tyn,12,0,12,108;112;114;118;122;124;128;129;135;140;150,11
+Kaladin,Szeth,12,1,11,56;117;138;174;175;176;178,7
+Nan,Shallan,12,8,4,9;15;34;38;44;47;79;103;125;131;148,11
+Pattern,Vathah,12,0,12,104;105;108;114;118;122;124;128;133;147;167,11
+Renarin,Roion,12,5,7,27;29;31;63;106;110;165;168;170,9
+Roion,Shallan,12,0,12,124;165;168;169;170;173;174;175,8
+Roshone,Sadeas,12,7,5,28;30;42;49;52;72;127;130;149;155;161,11
+Roshone,Tien,12,9,3,6;30;36;42;46;49;52;56;127;149;161,11
+Ruthar,Sadeas,12,1,11,23;87;110;113;122;123;124;132;136;139;143;154,12
+Adolin,Lopen,11,1,10,73;100;102;106;127;132;153;155;165;169,10
+Adolin,Thanadal,11,5,6,23;33;63;98;108;113;122;154;155,9
+Adolin,Tyn,11,0,11,108;114;122;124;129;135;138;140;150;156,10
+Aladar,Sebarial,11,0,11,108;124;139;141;165;169;170;175;176,9
+Amaram,Leyten,11,8,3,19;22;26;28;60;67;68;71;106;132;167,11
+Amaram,Lirin,11,10,1,12;13;21;22;26;49;58;62;72;87,10
+Amaram,Roshone,11,7,4,6;28;49;52;56;72;127;130;149;161,10
+Balat,Jasnah,11,8,3,9;15;34;38;44;47;79;83;125;152,10
+Dalinar,Thanadal,11,5,6,23;33;63;98;108;113;122;154;155,9
+Dalinar,Zahel,11,0,11,100;102;109;121;130;138;141;143;153;155;170,11
+Elhokar,Shallan,11,2,9,7;47;122;124;130;142;154;155;169;178,10
+Gaz,Leyten,11,10,1,19;22;26;28;32;37;43;54;60;155,10
+Gaz,Shallan,11,0,11,104;108;114;118;122;124;133;155;166;169;177,11
+Gaz,Skar,11,11,0,28;32;35;43;51;54;58;60;62,9
+Hobber,Moash,11,7,4,22;26;37;45;48;68;84;116;132;166,10
+Leyten,Lopen,11,6,5,37;54;60;67;68;71;87;106;132;155;176,11
+Leyten,Skar,11,8,3,28;43;48;54;60;67;68;71;87;106;167,11
+Lirin,Sadeas,11,10,1,21;22;26;30;42;49;58;62;72;87,10
+Navani,Teleb,11,4,7,33;61;69;74;137;167;168;170;171;172,10
+Renarin,Rock,11,0,11,100;102;106;127;132;153;155;165;168;169;172,11
+Renarin,Teft,11,0,11,100;102;106;127;130;132;153;155;158;165;169,11
+Renarin,Zahel,11,0,11,100;102;109;110;121;127;130;143;153;155;170,11
+Sadeas,Thanadal,11,5,6,23;33;63;98;108;113;122;154;155,9
+Adolin,Drehy,10,0,10,87;100;102;127;132;158;170;171;173;174,10
+Adolin,Gaz,10,0,10,108;114;122;124;127;133;155;166;169;177,10
+Adolin,Hatham,10,3,7,23;33;59;87;108;113;124;154;178,9
+Aladar,Jasnah,10,2,8,23;31;90;108;122;124;141;154;169;176,10
+Aladar,Khal,10,0,10,90;154;168;169;170;171;172;174;175,9
+Amaram,Kalak,10,7,3,13;28;32;51;58;62;72;84;130;161,10
+Balat,Jushu,10,3,7,15;34;38;111;125;131;134;148;152;160,10
+Dalinar,Hatham,10,3,7,23;33;59;87;108;113;124;154;178,9
+Dalinar,Kalak,10,4,6,2;57;62;72;84;130;158;161;170;175,10
+Dalinar,Tyn,10,0,10,108;112;114;118;122;124;135;138;150,9
+Dalinar,Vathah,10,0,10,108;112;114;118;122;124;147;166;167;169,10
+Gavilar,Sebarial,10,0,10,124;130;139;141;154;165;166;175;176,9
+Gaz,Lopen,10,8,2,37;45;51;54;58;60;62;64;127;155,10
+Gaz,Tien,10,9,1,8;11;13;19;22;32;37;62;127,9
+Hobber,Sadeas,10,8,2,22;26;32;37;45;48;68;84;132,9
+Hobber,Teft,10,8,2,22;26;32;37;45;48;68;84;132,9
+Jasnah,Wit,10,6,4,17;20;23;27;34;59;135;141;154;179,10
+Jushu,Shallan,10,3,7,15;34;38;111;125;131;134;148;152;160,10
+Kalak,Syl,10,7,3,13;28;32;51;62;64;72;84;130;161,10
+Khal,Roion,10,0,10,90;168;169;170;171;172;174;175,8
+Leyten,Sigzil,10,6,4,19;26;48;60;67;68;87;115;132;176,10
+Lirin,Tien,10,10,0,12;13;21;22;30;36;42;46;49;62,10
+Lopen,Tien,10,7,3,37;62;64;67;68;72;100;127;169,9
+Moash,Navani,10,0,10,84;87;91;100;106;107;116;117;142,9
+Navani,Skar,10,0,10,84;87;91;100;106;142;167;168;171,9
+Roion,Sebarial,10,0,10,124;162;165;169;170;175;176,7
+Sadeas,Zahel,10,0,10,100;102;110;127;130;138;141;143;153;155,10
+Syl,Zahel,10,0,10,100;102;109;127;130;138;141;143;155;175,10
+Adolin,Vamah,9,6,3,17;20;23;63;108;124;154,7
+Adolin,Vathah,9,0,9,108;114;122;124;133;147;166;167;169,9
+Aladar,Elhokar,9,3,6,23;63;90;113;122;124;154;176,8
+Aladar,Renarin,9,4,5,23;31;63;139;165;168;170;172,8
+Amaram,Dabbid,9,8,1,22;26;51;58;60;67;68;72;166,9
+Amaram,Zahel,9,0,9,100;102;109;127;130;138;141;143;153,9
+Balat,Helaran,9,1,8,15;103;111;125;131;148;151;152;160,9
+Balat,Wikim,9,3,6,15;34;38;125;131;134;148;152;160,9
+Dabbid,Gaz,9,9,0,22;26;32;37;45;51;54;58;60,9
+Dabbid,Leyten,9,8,1,22;26;32;37;54;60;67;68;87,9
+Dalinar,Talenel,9,3,6,2;8;59;82;115;123;150;170;177,9
+Dalinar,Vamah,9,6,3,17;20;23;63;108;124;154,7
+Elhokar,Lopen,9,1,8,78;100;106;127;132;153;155;169;176,9
+Elhokar,Rock,9,2,7,17;78;100;106;127;132;153;155;169,9
+Elhokar,Roion,9,4,5,20;27;29;63;90;106;113;124;176,9
+Elhokar,Teft,9,1,8,78;100;106;127;130;132;153;155;169,9
+Elhokar,Thanadal,9,5,4,23;33;63;113;122;154;155,7
+Gaz,Jasnah,9,0,9,108;114;118;122;124;133;166;169;177,9
+Gaz,Kalak,9,8,1,13;28;32;43;51;58;62;64;104,9
+Gaz,Vathah,9,0,9,104;108;114;118;122;124;133;166;169,9
+Hatham,Sadeas,9,3,6,23;33;59;87;108;113;124;154,8
+Jasnah,Nan,9,8,1,9;15;34;38;44;47;79;125,8
+Jushu,Wikim,9,3,6,15;34;38;125;131;134;148;152;160,9
+Kaladin,Wit,9,2,7,62;68;87;138;141;146;149;154;170,9
+Kalak,Moash,9,6,3,32;51;58;62;64;72;84;130;158,9
+Kalak,Rock,9,8,1,28;32;40;51;58;62;64;72;84,9
+Lopen,Renarin,9,0,9,100;102;106;127;132;153;155;165;169,9
+Maps,Sadeas,9,9,0,29;32;45;48;60;62;72,7
+Navani,Rock,9,0,9,84;87;91;93;100;106;166;168;170,9
+Navani,Wit,9,5,4,17;20;27;59;63;87;135;154,8
+Pattern,Renarin,9,0,9,114;135;143;170;172;173;174;175,8
+Rock,Shallan,9,0,9,112;155;165;166;168;169;170;172;176,9
+Sadeas,Vamah,9,6,3,17;20;23;63;108;124;154,7
+Shallan,Wikim,9,3,6,15;34;38;125;131;134;148;152;160,9
+Tyn,Vathah,9,0,9,105;108;112;114;118;122;124;128,8
+Adolin,Sigzil,8,1,7,60;102;127;132;141;142;158,7
+Adolin,Tien,8,1,7,51;100;127;149;158;161;169;170,8
+Dabbid,Skar,8,7,1,51;54;58;60;67;68;72;87,8
+Dalinar,Ialai,8,1,7,59;87;113;124;141;144;165,7
+Dalinar,Mart,8,0,8,87;106;116;117;130;175;176,7
+Dalinar,Roshone,8,2,6,52;72;127;130;149;155;161;172,8
+Drehy,Leyten,8,5,3,22;54;60;67;71;87;132;176,8
+Elhokar,Hatham,8,3,5,23;33;59;87;113;124;154;178,8
+Elhokar,Vamah,8,6,2,17;20;23;63;124;154,6
+Gaz,Pattern,8,0,8,104;108;114;118;122;124;133;177,8
+Ialai,Sadeas,8,1,7,59;87;113;124;141;144;165,7
+Jasnah,Roion,8,3,5,20;27;31;90;110;124;169;176,8
+Kaladin,Khal,8,0,8,87;90;137;153;154;174;175,7
+Kaladin,Laral,8,8,0,8;21;25;30;36;42;46;49,8
+Kaladin,Mart,8,0,8,87;106;116;117;130;175;176,7
+Kaladin,Pattern,8,0,8,122;156;157;159;166;167;176,7
+Kaladin,Roion,8,0,8,90;106;162;165;174;175;176,7
+Kaladin,Sebarial,8,0,8,130;141;142;162;166;175;176,7
+Kalak,Skar,8,6,2,32;43;51;58;62;72;84;158,8
+Mart,Syl,8,0,8,87;106;116;117;130;175;176,7
+Moash,Zahel,8,0,8,100;102;109;127;130;138;153;155,8
+Mraize,Shallan,8,0,8,129;140;150;151;174;177,6
+Pattern,Sadeas,8,0,8,92;108;118;122;124;129;135;162,8
+Renarin,Wit,8,5,3,17;20;23;27;59;87;135;170,8
+Sadeas,Teleb,8,6,2,31;33;61;69;74;137;170,7
+Sebarial,Tyn,8,0,8,108;124;128;129;135;140;150,7
+Syl,Szeth,8,0,8,117;138;175;176,4
+Adolin,Jakamav,7,1,6,63;110;123;142;143,5
+Adolin,Szeth,7,0,7,117;174;178,3
+Aladar,Ruthar,7,1,6,23;87;113;122;124;139;154,7
+Amaram,Maps,7,5,2,32;60;62;72;138;147,6
+Amaram,Roion,7,0,7,106;113;162;165,4
+Amaram,Wit,7,2,5,62;68;87;135;141;149;154,7
+Ash,Jasnah,7,1,6,77;82;114;123;124;128;135,7
+Dabbid,Drehy,7,6,1,22;54;58;60;67;72;87,7
+Dabbid,Hobber,7,6,1,22;26;32;37;45;68;166,7
+Dabbid,Tien,7,7,0,22;32;37;64;67;68;72,7
+Dalinar,Eth,7,0,7,87;116;117;130;142;175,6
+Eth,Kaladin,7,0,7,87;116;117;130;142;175,6
+Eth,Syl,7,0,7,87;116;117;130;142;175,6
+Gavilar,Hatham,7,3,4,23;33;59;87;113;124;154,7
+Gavilar,Teleb,7,5,2,31;33;61;74;137;167,6
+Gavilar,Vamah,7,5,2,17;20;23;63;124;154,6
+Gaz,Hobber,7,7,0,22;26;32;37;45;48,6
+Helaran,Jasnah,7,2,5,10;15;122;125;140;152;161,7
+Helaran,Jushu,7,1,6,15;111;125;131;148;152;160,7
+Hobber,Leyten,7,6,1,22;26;32;37;48;68;132,7
+Jaks,Kaladin,7,7,0,28;32;48;60;69;73;78,7
+Jaks,Teft,7,7,0,28;32;48;60;69;73;78,7
+Jasnah,Taravangian,7,5,2,7;34;41;44;53;164;178,7
+Kabsal,Pattern,7,0,7,89;92;97;99;122;129;135,7
+Kaladin,Maps,7,7,0,32;45;48;60;62;72,6
+Khal,Sadeas,7,0,7,87;90;123;137;153;154;170,7
+Khal,Shallan,7,0,7,154;168;169;170;174;175,6
+Laral,Tien,7,7,0,8;21;30;36;42;46;49,7
+Leyten,Tien,7,7,0,19;22;32;37;48;67;68,7
+Lirin,Moash,7,6,1,22;26;58;62;72;87,6
+Lirin,Roshone,7,7,0,30;36;42;46;49;72,6
+Lirin,Syl,7,6,1,13;22;26;62;72;87,6
+Lirin,Teft,7,7,0,13;22;26;58;62;72,6
+Maps,Rock,7,7,0,32;45;48;60;62;72,6
+Maps,Syl,7,7,0,32;45;48;60;62;72,6
+Maps,Teft,7,7,0,32;45;48;60;62;72,6
+Mart,Moash,7,0,7,87;106;116;117;130;176,6
+Mraize,Pattern,7,0,7,129;140;150;151;177,5
+Navani,Ruthar,7,0,7,110;122;123;124;126;139;154,7
+Navani,Vathah,7,0,7,108;122;124;133;147;167;169,7
+Renarin,Skar,7,0,7,87;100;102;106;158;165;168,7
+Roshone,Syl,7,2,5,28;72;127;130;149;155;161,7
+Sadeas,Talenel,7,3,4,2;8;59;82;115;123;170,7
+Sebarial,Vathah,7,0,7,108;124;128;133;147;166;169,7
+Shallan,Teft,7,0,7,130;141;155;158;165;169;176,7
+Skar,Tien,7,6,1,32;48;62;67;68;72;100,7
+Teft,Zahel,7,0,7,100;102;127;130;141;153;155,7
+Adolin,Bethab,6,2,4,20;33;108;132;154;155,6
+Adolin,Kalak,6,1,5,57;130;158;161;170;175,6
+Adolin,Mraize,6,0,6,129;140;150;174;177,5
+Aladar,Kaladin,6,0,6,90;122;141;154;175;176,6
+Aladar,Teleb,6,1,5,31;168;170;171;172,5
+Aladar,Thanadal,6,2,4,23;63;108;113;122;154,6
+Amaram,Hobber,6,3,3,22;26;68;84;132;166,6
+Amaram,Talenel,6,2,4,4;8;82;123;150;177,6
+Amaram,Yake,6,5,1,22;32;51;62;68;130,6
+Bethab,Dalinar,6,2,4,20;33;108;132;154;155,6
+Bethab,Sadeas,6,2,4,20;33;108;132;154;155,6
+Bisig,Kaladin,6,3,3,35;45;51;106;165;176,6
+Bisig,Rock,6,3,3,35;45;51;106;165;176,6
+Bisig,Teft,6,3,3,35;45;51;106;165;176,6
+Cenn,Kaladin,6,6,0,3;4;11;52;72,5
+Dabbid,Dalinar,6,4,2,26;60;67;72;87;166,6
+Dabbid,Sigzil,6,5,1,26;51;60;67;68;87,6
+Dalinar,Hobber,6,1,5,26;84;116;117;132;166,6
+Dalinar,Maps,6,5,1,29;60;62;72;147,5
+Drehy,Renarin,6,0,6,87;100;102;127;132;158,6
+Elhokar,Ruthar,6,1,5,23;113;122;124;132;154,6
+Elhokar,Sebarial,6,0,6,124;130;142;154;176,5
+Elhokar,Tien,6,0,6,100;127;149;169;171;173,6
+Eth,Mart,6,0,6,87;116;117;130;175,5
+Eth,Moash,6,0,6,87;116;117;130;142,5
+Gavilar,Khal,6,0,6,87;90;137;154;174;175,6
+Gavilar,Moash,6,0,6,84;87;127;130;169;176,6
+Gavilar,Ruthar,6,1,5,23;113;124;136;139;154,6
+Gavilar,Syl,6,0,6,84;87;127;130;141;169,6
+Gavilar,Szeth,6,3,3,2;16;76;164;174,5
+Gavilar,Talenel,6,4,2,2;8;38;59;82;177,6
+Gavilar,Thanadal,6,4,2,23;33;63;113;154,5
+Gavilar,Tien,6,4,2,8;12;21;30;127;169,6
+Gaz,Sigzil,6,5,1,19;26;32;51;60;127,6
+Hatham,Jasnah,6,2,4,23;59;108;124;154;178,6
+Hatham,Navani,6,1,5,59;87;108;124;154;178,6
+Helaran,Wikim,6,1,5,15;125;131;148;152;160,6
+Hobber,Lopen,6,3,3,37;45;68;84;132;166,6
+Jaks,Rock,6,6,0,28;32;48;60;73;78,6
+Jaks,Skar,6,6,0,28;32;48;60;73;78,6
+Jaks,Syl,6,6,0,28;32;48;60;73;78,6
+Jasnah,Ruthar,6,0,6,110;122;123;124;126;154,6
+Jasnah,Thanadal,6,2,4,23;33;98;108;122;154,6
+Jasnah,Vamah,6,3,3,17;20;23;108;124;154,6
+Jushu,Nan,6,3,3,15;34;38;125;131;148,6
+Kaladin,Natam,6,3,3,28;37;45;106;109;132,6
+Kaladin,Yake,6,5,1,22;32;51;62;68;130,6
+Kalak,Lopen,6,5,1,51;58;62;64;72;84,6
+Khal,Renarin,6,0,6,87;137;153;168;170,5
+Khal,Teleb,6,0,6,137;168;170;171;172,5
+Laral,Lirin,6,6,0,21;30;36;42;46;49,6
+Lirin,Rock,6,6,0,22;26;58;62;72,5
+Maps,Moash,6,6,0,32;48;60;62;72,5
+Maps,Skar,6,6,0,32;45;48;60;62;72,6
+Moash,Roshone,6,1,5,72;127;130;149;155;172,6
+Moash,Yake,6,5,1,22;32;51;62;68;130,6
+Nan,Wikim,6,3,3,15;34;38;125;131;148,6
+Natam,Syl,6,3,3,28;37;45;106;109;132,6
+Navani,Thanadal,6,2,4,33;63;98;108;122;154,6
+Navani,Vamah,6,3,3,17;20;63;108;124;154,6
+Renarin,Ruthar,6,1,5,23;110;132;136;139;143,6
+Renarin,Sebarial,6,0,6,130;135;139;143;165;170,6
+Renarin,Teleb,6,3,3,31;33;74;137;168;170,6
+Rock,Zahel,6,0,6,100;102;127;138;153;155,6
+Roion,Teleb,6,1,5,31;168;170;171;172,5
+Ruthar,Shallan,6,0,6,122;124;126;136;139;154,6
+Sadeas,Tyn,6,0,6,108;118;122;124;129;135,6
+Sadeas,Yake,6,5,1,22;32;51;62;68;130,6
+Shallan,Taravangian,6,5,1,7;34;41;44;53;178,6
+Sigzil,Tien,6,5,1,19;32;48;67;68;127,6
+Syl,Wit,6,2,4,62;68;87;141;146;149,6
+Syl,Yake,6,5,1,22;32;51;62;68;130,6
+Teft,Yake,6,5,1,22;32;51;62;68;130,6
+Vamah,Wit,6,5,1,17;20;23;63;154,5
+Adolin,Eth,5,0,5,87;116;117;130;142,5
+Adolin,Ialai,5,1,4,59;113;124;141;144,5
+Adolin,Mart,5,0,5,87;106;116;117;130,5
+Adolin,Roshone,5,0,5,127;130;149;155;161,5
+Aladar,Hatham,5,1,4,23;108;113;124;154,5
+Aladar,Ialai,5,0,5,87;113;124;141;165,5
+Amaram,Cenn,5,5,0,3;4;52;72,4
+Amaram,Helaran,5,0,5,138;140;151;161,4
+Amaram,Mraize,5,0,5,129;140;150;151,4
+Amaram,Tyn,5,0,5,129;135;138;140;150,5
+Ash,Dalinar,5,0,5,82;114;123;124;135,5
+Ash,Shallan,5,1,4,77;114;124;128;135,5
+Balat,Kabsal,5,5,0,9;44;47;79,4
+Bethab,Elhokar,5,2,3,20;33;132;154;155,5
+Cenn,Sadeas,5,5,0,3;11;52;72,4
+Cenn,Tien,5,5,0,4;11;52;72,4
+Dalinar,Lirin,5,4,1,21;26;62;72;87,5
+Drehy,Gaz,5,5,0,22;32;54;58;60,5
+Drehy,Navani,5,0,5,84;87;100;171,4
+Drehy,Tien,5,4,1,22;32;67;72;100,5
+Elhokar,Eth,5,0,5,87;116;117;130;142,5
+Elhokar,Mart,5,0,5,87;106;116;117;130,5
+Elhokar,Sigzil,5,1,4,78;127;132;142;146,5
+Elhokar,Skar,5,1,4,78;87;100;106;142,5
+Eth,Navani,5,0,5,87;116;117;142,4
+Gavilar,Ialai,5,1,4,59;113;124;141;165,5
+Gavilar,Teft,5,0,5,84;127;130;141;169,5
+Gaz,Lirin,5,5,0,13;22;26;58;62,5
+Gaz,Navani,5,0,5,108;122;124;133;169,5
+Gaz,Sebarial,5,0,5,108;124;133;166;169,5
+Gaz,Tyn,5,0,5,108;114;118;122;124,5
+Hatham,Thanadal,5,2,3,23;33;108;113;154,5
+Helaran,Nan,5,1,4,15;103;125;131;148,5
+Hesina,Kaladin,5,5,0,12;30;42;46;49,5
+Hesina,Lirin,5,5,0,12;30;42;46;49,5
+Hesina,Tien,5,5,0,12;30;42;46;49,5
+Hobber,Sigzil,5,3,2,26;48;68;84;132,5
+Hobber,Tien,5,5,0,22;32;37;48;68,5
+Jakamav,Renarin,5,1,4,63;110;142;143,4
+Jakamav,Sadeas,5,1,4,63;110;123;143,4
+Jaks,Moash,5,5,0,32;48;60;73;78,5
+Jaks,Sadeas,5,5,0,28;32;48;60;78,5
+Jasnah,Jushu,5,3,2,15;34;38;125;152,5
+Jasnah,Talenel,5,3,2,2;38;59;82;123,5
+Jasnah,Wikim,5,3,2,15;34;38;125;152,5
+Kabsal,Nan,5,5,0,9;44;47;79,4
+Kaladin,Ruthar,5,0,5,122;132;136;143;154,5
+Kalak,Shallan,5,0,5,104;130;161;170;175,5
+Kalak,Tien,5,4,1,13;32;62;72;161,5
+Laral,Roshone,5,5,0,30;36;42;46;49,5
+Laral,Sadeas,5,5,0,8;21;30;42;49,5
+Lopen,Navani,5,0,5,84;87;93;100;106,5
+Lopen,Shallan,5,0,5,155;165;169;176,4
+Lopen,Zahel,5,0,5,100;102;127;153;155,5
+Maps,Sigzil,5,5,0,32;45;48;60;62,5
+Mart,Navani,5,0,5,87;106;116;117,4
+Mart,Renarin,5,0,5,87;106;116;117;130,5
+Mart,Teft,5,0,5,87;106;130;175;176,5
+Moash,Natam,5,2,3,37;45;106;109;132,5
+Moash,Shallan,5,0,5,130;155;165;169;176,5
+Moash,Wit,5,2,3,62;68;87;146;149,5
+Natam,Rock,5,3,2,28;37;45;106;132,5
+Natam,Sadeas,5,3,2,28;37;45;106;132,5
+Natam,Teft,5,3,2,28;37;45;106;132,5
+Navani,Sigzil,5,0,5,84;87;91;93;142,5
+Navani,Teft,5,0,5,84;87;91;100;106,5
+Renarin,Thanadal,5,3,2,23;33;63;98;155,5
+Rock,Yake,5,5,0,22;32;51;62;68,5
+Roion,Skar,5,0,5,106;165;168;173;174,5
+Roshone,Teft,5,2,3,28;72;127;130;155,5
+Sadeas,Vathah,5,0,5,108;118;122;124;166,5
+Shallan,Skar,5,0,5,165;167;168;171;173,5
+Shallan,Thanadal,5,0,5,98;108;122;154;155,5
+Shallan,Valam,5,1,4,5;115;118;125;148,5
+Shallan,Wit,5,1,4,34;135;141;154,4
+Adolin,Ash,4,0,4,114;123;124;135,4
+Adolin,Eshonai,4,0,4,137;168;172;173,4
+Adolin,Helaran,4,0,4,122;138;140;161,4
+Adolin,Leyten,4,0,4,106;132;155;167,4
+Aladar,Amaram,4,0,4,141;154;165,3
+Aladar,Gaz,4,0,4,108;122;124;169,4
+Aladar,Pattern,4,0,4,108;122;124;172,4
+Aladar,Vamah,4,1,3,23;108;124;154,4
+Aladar,Vathah,4,0,4,108;122;124;169,4
+Amaram,Khal,4,0,4,87;123;153;154,4
+Amaram,Ruthar,4,0,4,123;132;143;154,4
+Ash,Navani,4,0,4,82;123;124;135,4
+Ash,Pattern,4,0,4,114;124;128;135,4
+Ash,Sadeas,4,0,4,82;123;124;135,4
+Ash,Tyn,4,0,4,114;124;128;135,4
+Beld,Dalinar,4,0,4,84;87;116;117,4
+Beld,Kaladin,4,0,4,84;87;116;117,4
+Beld,Syl,4,0,4,84;87;116;117,4
+Bethab,Thanadal,4,1,3,33;108;154;155,4
+Bisig,Lopen,4,1,3,51;106;165;176,4
+Bisig,Moash,4,1,3,51;106;165;176,4
+Bisig,Skar,4,2,2,45;51;106;165,4
+Bisig,Syl,4,2,2,45;51;106;176,4
+Dalinar,Eshonai,4,0,4,94;96;137;168,4
+Dalinar,Jakamav,4,1,3,63;110;123;143,4
+Dalinar,Mraize,4,0,4,150;174,2
+Dalinar,Taravangian,4,2,2,34;76;164;178,4
+Drehy,Elhokar,4,1,3,78;87;100;132,4
+Drehy,Kalak,4,3,1,32;58;72;158,4
+Drehy,Lirin,4,3,1,22;58;72;87,4
+Drehy,Zahel,4,0,4,100;102;127;171,4
+Elhokar,Gaz,4,0,4,122;124;127;155,4
+Elhokar,Khal,4,0,4,87;90;153;154,4
+Elhokar,Leyten,4,0,4,106;107;132;155,4
+Elhokar,Roshone,4,0,4,127;130;149;155,4
+Elhokar,Talenel,4,2,2,2;59;82;120,4
+Elhokar,Zahel,4,0,4,100;130;153;155,4
+Eth,Renarin,4,0,4,87;116;117;130,4
+Gavilar,Gaz,4,1,3,8;124;127;166,4
+Gavilar,Kabsal,4,3,1,34;38;41;89,4
+Gavilar,Kalak,4,2,2,2;16;130;175,4
+Gavilar,Lirin,4,3,1,12;21;30;87,4
+Gavilar,Pattern,4,0,4,89;124;151;167,4
+Gavilar,Rock,4,1,3,17;84;127;169,4
+Gaz,Yake,4,4,0,22;32;51;62,4
+Hatham,Renarin,4,2,2,23;59;87;178,4
+Hatham,Shallan,4,0,4,108;124;154;178,4
+Hatham,Vamah,4,1,3,23;108;124;154,4
+Hatham,Wit,4,2,2,23;59;87;154,4
+Helaran,Pattern,4,0,4,122;138;140;151,4
+Hesina,Laral,4,4,0,30;42;46;49,4
+Hesina,Roshone,4,4,0,30;42;46;49,4
+Hobber,Skar,4,3,1,32;48;68;84,4
+Iyatil,Mraize,4,0,4,150;151,2
+Iyatil,Pattern,4,0,4,150;151,2
+Iyatil,Shallan,4,0,4,150;151,2
+Jaks,Leyten,4,4,0,28;48;60;69,4
+Jaks,Sigzil,4,4,0,32;48;60;78,4
+Jasnah,Khal,4,0,4,90;123;154;169,4
+Jasnah,Mraize,4,0,4,129;140;150;177,4
+Jasnah,Valam,4,1,3,5;118;125;164,4
+Kaladin,Tarah,4,2,2,67;68;155;161,4
+Kaladin,Vathah,4,0,4,112;122;166;167,4
+Kalak,Renarin,4,1,3,57;130;158;170,4
+Kalak,Sigzil,4,2,2,32;51;84;158,4
+Kalak,Yake,4,3,1,32;51;62;130,4
+Khal,Sebarial,4,0,4,169;170;175,3
+Leyten,Natam,4,2,2,28;37;106;132,4
+Leyten,Navani,4,0,4,87;106;107;167,4
+Lirin,Skar,4,3,1,58;62;72;87,4
+Lopen,Maps,4,4,0,60;62;72,3
+Lopen,Natam,4,2,2,37;45;106;132,4
+Maps,Tien,4,4,0,32;48;62;72,4
+Mart,Sadeas,4,0,4,87;106;130,3
+Mraize,Sebarial,4,0,4,129;140;150,3
+Mraize,Tyn,4,0,4,129;140;150,3
+Navani,Talenel,4,1,3,59;82;123;170,4
+Navani,Tyn,4,0,4,108;122;124;135,4
+Renarin,Sigzil,4,0,4,102;127;132;158,4
+Renarin,Vamah,4,4,0,17;20;23,3
+Rock,Roion,4,0,4,106;165;168;170,4
+Rock,Roshone,4,2,2,28;72;127;155,4
+Roion,Szeth,4,0,4,174,1
+Sadeas,Tarah,4,2,2,67;68;155;161,4
+Shallan,Teleb,4,0,4,167;168;170,3
+Shallan,Zahel,4,0,4,130;141;155;171,4
+Sigzil,Wit,4,2,2,62;68;141;146,4
+Skar,Yake,4,4,0,32;51;62;68,4
+Syl,Tarah,4,2,2,67;68;155;161,4
+Thanadal,Vamah,4,2,2,23;63;108;154,4
+Tien,Yake,4,4,0,22;32;62;68,4
+Adolin,Natam,3,0,3,106;109;132,3
+Adolin,Talenel,3,1,2,59;123;170,3
+Adolin,Yenev,3,0,3,90;139;141,3
+Adrotagia,Dalinar,3,0,3,164;174;176,3
+Adrotagia,Szeth,3,0,3,164;174;176,3
+Aladar,Rock,3,0,3,168;170;172,3
+Aladar,Tyn,3,0,3,108;122;124,3
+Aladar,Wit,3,1,2,23;141;154,3
+Aladar,Yenev,3,0,3,90;139;141,3
+Amaram,Ash,3,0,3,82;123;135,3
+Amaram,Bisig,3,1,2,51;106;165,3
+Amaram,Coreb,3,2,1,52;56;93,3
+Amaram,Eth,3,0,3,87;130;142,3
+Amaram,Hatham,3,0,3,87;113;154,3
+Amaram,Iyatil,3,0,3,150;151,2
+Amaram,Laral,3,3,0,8;21;49,3
+Amaram,Mart,3,0,3,87;106;130,3
+Amaram,Natam,3,0,3,106;109;132,3
+Amaram,Tarah,3,2,1,67;68;161,3
+Amaram,Vathah,3,0,3,133;147;167,3
+Ash,Sebarial,3,0,3,124;128;135,3
+Ash,Vathah,3,0,3,114;124;128,3
+Beld,Hobber,3,0,3,84;116;117,3
+Beld,Moash,3,0,3,84;87;116,3
+Beld,Rock,3,0,3,84;87;117,3
+Bethab,Gavilar,3,2,1,20;33;154,3
+Bethab,Hatham,3,1,2,33;108;154,3
+Bethab,Jasnah,3,1,2,20;108;154,3
+Bethab,Kaladin,3,0,3,132;154;155,3
+Bethab,Navani,3,1,2,20;108;154,3
+Bethab,Shallan,3,0,3,108;154;155,3
+Bethab,Vamah,3,1,2,20;108;154,3
+Bisig,Dalinar,3,0,3,106;165;176,3
+Bisig,Sadeas,3,2,1,45;51;106,3
+Bisig,Sigzil,3,2,1,45;51;176,3
+Coreb,Kaladin,3,2,1,52;56;93,3
+Dabbid,Kalak,3,3,0,51;58;72,3
+Dabbid,Lirin,3,3,0,22;26;58,3
+Dabbid,Yake,3,3,0,22;51;68,3
+Dalinar,Helaran,3,0,3,122;138;161,3
+Dalinar,Iyatil,3,0,3,150,1
+Dalinar,Jaks,3,3,0,60;73;78,3
+Dalinar,Natam,3,0,3,106;109;132,3
+Dalinar,Tarah,3,1,2,67;155;161,3
+Dalinar,Yenev,3,0,3,90;139;141,3
+Drehy,Jaks,3,3,0,32;60;78,3
+Drehy,Maps,3,3,0,32;60;72,3
+Drehy,Mart,3,0,3,87;176,2
+Drehy,Shallan,3,0,3,171;173;176,3
+Elhokar,Ialai,3,1,2,59;113;124,3
+Elhokar,Kalak,3,1,2,2;120;130,3
+Elhokar,Szeth,3,1,2,2;117;178,3
+Elhokar,Teleb,3,3,0,33;74,2
+Eshonai,Gavilar,3,0,3,94;96;137,3
+Eshonai,Skar,3,0,3,168;172;173,3
+Eth,Sadeas,3,0,3,87;130,2
+Eth,Skar,3,0,3,87;142,2
+Eth,Teft,3,0,3,87;130;175,3
+Gavilar,Laral,3,3,0,8;21;30,3
+Gavilar,Lopen,3,0,3,84;127;169,3
+Gavilar,Roshone,3,1,2,30;127;130,3
+Gavilar,Sigzil,3,0,3,84;127;141,3
+Gavilar,Skar,3,0,3,84;87;167,3
+Gavilar,Taravangian,3,2,1,34;76;164,3
+Gavilar,Vathah,3,0,3,124;166;167,3
+Gavilar,Yenev,3,0,3,90;139;141,3
+Gaz,Jaks,3,3,0,28;32;60,3
+Gaz,Maps,3,3,0,32;60;62,3
+Gaz,Natam,3,3,0,28;37;45,3
+Gaz,Roshone,3,1,2,28;127;155,3
+Gaz,Thanadal,3,0,3,108;122;155,3
+Hatham,Ialai,3,1,2,59;113;124,3
+Hatham,Kaladin,3,0,3,87;154;178,3
+Hatham,Roion,3,0,3,113;124,2
+Hatham,Ruthar,3,0,3,113;124;154,3
+Hesina,Sadeas,3,3,0,30;42;49,3
+Hobber,Natam,3,2,1,37;45;132,3
+Ialai,Jasnah,3,1,2,59;124;141,3
+Ialai,Roion,3,0,3,113;124;165,3
+Ialai,Ruthar,3,0,3,87;113;124,3
+Ialai,Sebarial,3,0,3,124;141;165,3
+Ishar,Talenel,3,1,2,1;120;150,3
+Jakamav,Roion,3,1,2,63;110,2
+Jakamav,Ruthar,3,0,3,110;123;143,3
+Jakamav,Zahel,3,0,3,110;142;143,3
+Jaks,Lopen,3,3,0,60;73;78,3
+Jaks,Maps,3,3,0,32;48;60,3
+Jasnah,Szeth,3,1,2,2;164;178,3
+Jasnah,Teleb,3,2,1,31;33;167,3
+Kabsal,Navani,3,0,3,89;92;135,3
+Kabsal,Sadeas,3,0,3,92;129;135,3
+Kabsal,Taravangian,3,3,0,34;44;53,3
+Kabsal,Tyn,3,0,3,122;129;135,3
+Kaladin,Talenel,3,2,1,4;8;115,3
+Kaladin,Teleb,3,1,2,74;137;167,3
+Kaladin,Thanadal,3,0,3,122;154;155,3
+Kaladin,Tyn,3,0,3,112;122;156,3
+Kalak,Lirin,3,3,0,13;58;62,3
+Kalak,Maps,3,3,0,32;62;72,3
+Kalak,Roshone,3,1,2,28;130;161,3
+Kalak,Sebarial,3,0,3,130;170;175,3
+Kalak,Talenel,3,2,1,1;2;120,3
+Khal,Rock,3,0,3,153;168;170,3
+Khal,Skar,3,0,3,87;168;174,3
+Leyten,Mart,3,0,3,87;106;176,3
+Leyten,Renarin,3,0,3,106;132;155,3
+Leyten,Shallan,3,0,3,155;167;176,3
+Leyten,Tarah,3,2,1,67;68;155,3
+Lirin,Lopen,3,3,0,58;62,2
+Lirin,Sigzil,3,3,0,26;62;72,3
+Lopen,Mart,3,0,3,87;106;176,3
+Lopen,Roion,3,0,3,106;165,2
+Lopen,Tarah,3,2,1,67;68;155,3
+Lopen,Yake,3,3,0,51;62;68,3
+Mart,Rock,3,0,3,87;106;176,3
+Mart,Skar,3,0,3,87;106,2
+Mart,Szeth,3,0,3,117;175;176,3
+Moash,Roion,3,0,3,106;165;176,3
+Moash,Sebarial,3,0,3,130;142;176,3
+Moash,Tarah,3,2,1,67;68;155,3
+Natam,Renarin,3,0,3,106;109;132,3
+Navani,Szeth,3,0,3,117;174;178,3
+Navani,Zahel,3,0,3,100;110;171,3
+Pattern,Ruthar,3,0,3,122;124;126,3
+Renarin,Tien,3,0,3,100;169;170,3
+Rock,Tarah,3,2,1,67;68;155,3
+Roion,Ruthar,3,0,3,110;113;124,3
+Roshone,Shallan,3,0,3,130;155;161,3
+Ruthar,Sebarial,3,0,3,124;126;139,3
+Ruthar,Thanadal,3,0,3,113;122;154,3
+Sadeas,Yenev,3,0,3,90;139;141,3
+Sebarial,Syl,3,0,3,130;141;142,3
+Sebarial,Wit,3,0,3,135;141;154,3
+Shallan,Szeth,3,0,3,174;176;178,3
+Shallan,Talenel,3,1,2,38;150;170,3
+Shallan,Tien,3,0,3,158;161;169,3
+Shallan,Vamah,3,0,3,108;124;154,3
+Sigzil,Yake,3,3,0,32;51;68,3
+Sigzil,Zahel,3,0,3,102;127;141,3
+Skar,Zahel,3,0,3,100;102;171,3
+Szeth,Taravangian,3,1,2,76;164;178,3
+Talenel,Wit,3,2,1,59;81;120,3
+Tarah,Teft,3,2,1,67;68;155,3
+Tarah,Tien,3,2,1,67;68;161,3
+Teft,Wit,3,2,1,62;68;141,3
+Thanadal,Wit,3,2,1,23;63;154,3
+Tien,Wit,3,1,2,68;149;170,3
+Tien,Zahel,3,0,3,100;138;170,3
+Adolin,Bashin,2,1,1,17;167,2
+Adolin,Bisig,2,0,2,106;165,2
+Adolin,Hobber,2,0,2,116;132,2
+Adolin,Iyatil,2,0,2,150,1
+Adolin,Kabsal,2,0,2,129;135,2
+Adolin,Maps,2,1,1,29;147,2
+Adolin,Tarah,2,0,2,155;161,2
+Adrotagia,Gavilar,2,0,2,164;174,2
+Adrotagia,Shallan,2,0,2,174;176,2
+Aesudan,Elhokar,2,0,2,82;163,2
+Aesudan,Gavilar,2,0,2,82;163,2
+Aladar,Bethab,2,0,2,108;154,2
+Aladar,Eshonai,2,0,2,168;173,2
+Aladar,Jakamav,2,1,1,63;142,2
+Aladar,Kalak,2,0,2,170;175,2
+Aladar,Skar,2,0,2,168;173,2
+Aladar,Zahel,2,0,2,141;142,2
+Amaram,Bethab,2,0,2,132;154,2
+Amaram,Hesina,2,2,0,12;49,2
+Amaram,Ishar,2,0,2,87;150,2
+Amaram,Jakamav,2,0,2,123;143,2
+Amaram,Jaks,2,2,0,32;60,2
+Amaram,Kabsal,2,0,2,129;135,2
+Amaram,Lift,2,2,0,8;22,2
+Ash,Elhokar,2,0,2,82;124,2
+Ash,Gavilar,2,0,2,82;124,2
+Ash,Gaz,2,0,2,114;124,2
+Ash,Renarin,2,0,2,114;135,2
+Ash,Ruthar,2,0,2,123;124,2
+Ash,Talenel,2,0,2,82;123,2
+Balat,Pattern,2,0,2,151;159,2
+Balat,Valam,2,0,2,125;148,2
+Bashin,Dalinar,2,1,1,17;167,2
+Bashin,Gavilar,2,1,1,17;167,2
+Bashin,Jasnah,2,1,1,17;167,2
+Bashin,Navani,2,1,1,17;167,2
+Beld,Eth,2,0,2,87;116,2
+Beld,Lopen,2,0,2,84;87,2
+Beld,Mart,2,0,2,87;116,2
+Beld,Navani,2,0,2,87;116,2
+Beld,Sadeas,2,0,2,84;87,2
+Beld,Sigzil,2,0,2,84;87,2
+Beld,Skar,2,0,2,84;87,2
+Beld,Teft,2,0,2,84;87,2
+Bethab,Gaz,2,0,2,108;155,2
+Bethab,Leyten,2,0,2,132;155,2
+Bethab,Lopen,2,0,2,132;155,2
+Bethab,Moash,2,0,2,132;155,2
+Bethab,Renarin,2,0,2,132;155,2
+Bethab,Rock,2,0,2,132;155,2
+Bethab,Ruthar,2,0,2,132;154,2
+Bethab,Syl,2,0,2,132;155,2
+Bethab,Teft,2,0,2,132;155,2
+Bethab,Wit,2,1,1,20;154,2
+Bisig,Gaz,2,2,0,35;51,2
+Bisig,Leyten,2,0,2,106;176,2
+Bisig,Mart,2,0,2,106;176,2
+Bisig,Renarin,2,0,2,106;165,2
+Bisig,Roion,2,0,2,106;165,2
+Bisig,Shallan,2,0,2,165;176,2
+Cenn,Dalinar,2,2,0,52;72,2
+Cenn,Roshone,2,2,0,52,1
+Cenn,Syl,2,2,0,11;72,2
+Chana,Dalinar,2,0,2,162;166,2
+Chana,Kaladin,2,0,2,162;166,2
+Chana,Navani,2,0,2,162;166,2
+Chana,Shallan,2,0,2,162;166,2
+Coreb,Dalinar,2,1,1,52;93,2
+Coreb,Roshone,2,2,0,52;56,2
+Coreb,Sadeas,2,1,1,52;93,2
+Coreb,Tien,2,2,0,52;56,2
+Dabbid,Maps,2,2,0,60;72,2
+Dabbid,Natam,2,2,0,37;45,2
+Dabbid,Tarah,2,2,0,67;68,2
+Dalinar,Ishar,2,0,2,87;150,2
+Dalinar,Kabsal,2,1,1,34;135,2
+Dalinar,Laral,2,2,0,8;21,2
+Dalinar,Shalash,2,1,1,2;114,2
+Dalinar,Valam,2,0,2,118;164,2
+Dalinar,Yake,2,1,1,62;130,2
+Drehy,Eth,2,0,2,87,1
+Drehy,Gavilar,2,0,2,84;87,2
+Drehy,Hobber,2,1,1,22;132,2
+Drehy,Szeth,2,0,2,174;176,2
+Drehy,Yake,2,2,0,22;32,2
+Elhokar,Hobber,2,0,2,116;132,2
+Elhokar,Ishar,2,0,2,87;120,2
+Elhokar,Lhan,2,1,1,7;163,2
+Elhokar,Natam,2,0,2,106;132,2
+Elhokar,Pattern,2,0,2,122;124,2
+Elhokar,Taravangian,2,1,1,7;178,2
+Elhokar,Tyn,2,0,2,122;124,2
+Elhokar,Vathah,2,0,2,122;124,2
+Eshonai,Khal,2,0,2,137;168,2
+Eshonai,Navani,2,0,2,137;168,2
+Eshonai,Renarin,2,0,2,137;168,2
+Eshonai,Roion,2,0,2,168;173,2
+Eshonai,Shallan,2,0,2,168;173,2
+Eshonai,Teleb,2,0,2,137;168,2
+Eth,Gavilar,2,0,2,87;130,2
+Eth,Sebarial,2,0,2,130;142,2
+Eth,Sigzil,2,0,2,87;142,2
+Eth,Szeth,2,0,2,117;175,2
+Gavilar,Hesina,2,2,0,12;30,2
+Gavilar,Maps,2,2,0,29,1
+Gavilar,Mart,2,0,2,87;130,2
+Gavilar,Mraize,2,0,2,151;174,2
+Gavilar,Zahel,2,0,2,130;141,2
+Gaz,Hatham,2,0,2,108;124,2
+Gaz,Lift,2,2,0,8;22,2
+Gaz,Renarin,2,0,2,114;155,2
+Gaz,Roion,2,0,2,124;169,2
+Gaz,Ruthar,2,0,2,122;124,2
+Gaz,Vamah,2,0,2,108;124,2
+Hatham,Khal,2,0,2,87;154,2
+Hatham,Pattern,2,0,2,108;124,2
+Hatham,Sebarial,2,0,2,108;124,2
+Hatham,Tyn,2,0,2,108;124,2
+Hatham,Vathah,2,0,2,108;124,2
+Helaran,Kaladin,2,0,2,122;161,2
+Helaran,Mraize,2,0,2,140;151,2
+Helaran,Sadeas,2,0,2,122;161,2
+Helaran,Tyn,2,0,2,122;140,2
+Helaran,Valam,2,0,2,125;148,2
+Hobber,Lirin,2,2,0,22;26,2
+Hobber,Renarin,2,0,2,116;132,2
+Hobber,Yake,2,2,0,22;68,2
+Ialai,Navani,2,1,1,59;124,2
+Ialai,Shallan,2,0,2,124;141,2
+Ialai,Wit,2,1,1,59;141,2
+Ishar,Jezrien,2,1,1,1;120,2
+Ishar,Kalak,2,1,1,1;120,2
+Ishar,Wit,2,0,2,87;120,2
+Iyatil,Sebarial,2,0,2,150,1
+Iyatil,Tyn,2,0,2,150,1
+Jakamav,Jasnah,2,0,2,110;123,2
+Jakamav,Navani,2,0,2,110;123,2
+Jaks,Tien,2,2,0,32;48,2
+Jasnah,Kalak,2,1,1,2;161,2
+Jasnah,Maps,2,0,2,138;147,2
+Jasnah,Redin,2,0,2,125;164,2
+Jasnah,Rock,2,0,2,112;166,2
+Jasnah,Shalash,2,1,1,2;114,2
+Jasnah,Syl,2,0,2,141;161,2
+Jasnah,Yenev,2,0,2,90;141,2
+Jasnah,Zahel,2,0,2,110;141,2
+Jezrien,Kalak,2,1,1,1;120,2
+Jezrien,Talenel,2,1,1,1;120,2
+Jushu,Valam,2,0,2,125;148,2
+Kabsal,Sebarial,2,0,2,129;135,2
+Kabsal,Wit,2,1,1,34;135,2
+Kaladin,Lift,2,2,0,8;22,2
+Kaladin,Yenev,2,0,2,90;141,2
+Kalak,Khal,2,0,2,170;175,2
+Kalak,Leyten,2,2,0,28;43,2
+Kalak,Navani,2,0,2,170;175,2
+Kalak,Roion,2,0,2,170;175,2
+Kalak,Szeth,2,2,0,2;16,2
+Khal,Moash,2,0,2,87;153,2
+Khal,Ruthar,2,0,2,123;154,2
+Khal,Szeth,2,0,2,174,1
+Khal,Talenel,2,0,2,123;170,2
+Khal,Wit,2,0,2,87;154,2
+Leyten,Lirin,2,2,0,22;26,2
+Leyten,Maps,2,2,0,48;60,2
+Leyten,Roshone,2,1,1,28;155,2
+Leyten,Yake,2,2,0,22;68,2
+Lift,Sadeas,2,2,0,8;22,2
+Lift,Tien,2,2,0,8;22,2
+Lirin,Maps,2,2,0,62,1
+Lirin,Wit,2,1,1,62;87,2
+Lirin,Yake,2,2,0,22;62,2
+Lopen,Roshone,2,0,2,127;155,2
+Lopen,Wit,2,2,0,62;68,2
+Maps,Pattern,2,0,2,138;147,2
+Maps,Renarin,2,2,0,29,1
+Maps,Roion,2,2,0,29,1
+Maps,Shallan,2,0,2,138;147,2
+Maps,Yake,2,2,0,32;62,2
+Mart,Shallan,2,0,2,130;176,2
+Mart,Sigzil,2,0,2,87;176,2
+Moash,Szeth,2,0,2,117;176,2
+Nan,Valam,2,0,2,125;148,2
+Natam,Skar,2,1,1,28;106,2
+Navani,Yenev,2,0,2,90;139,2
+Pattern,Rock,2,0,2,166;172,2
+Pattern,Thanadal,2,0,2,108;122,2
+Pattern,Vamah,2,0,2,108;124,2
+Redin,Valam,2,0,2,125;164,2
+Renarin,Roshone,2,0,2,130;155,2
+Renarin,Szeth,2,0,2,117;178,2
+Renarin,Tyn,2,0,2,114;135,2
+Rock,Talenel,2,0,2,115;170,2
+Rock,Teleb,2,0,2,168;170,2
+Rock,Wit,2,2,0,62;68,2
+Roion,Syl,2,0,2,106;165,2
+Roion,Teft,2,0,2,106;165,2
+Roion,Thanadal,2,1,1,63;113,2
+Roion,Vamah,2,1,1,20;124,2
+Roion,Vathah,2,0,2,124;169,2
+Roion,Wit,2,2,0,20;27,2
+Roshone,Sigzil,2,1,1,72;127,2
+Roshone,Tarah,2,0,2,155;161,2
+Roshone,Zahel,2,0,2,130;155,2
+Ruthar,Syl,2,0,2,132;143,2
+Ruthar,Tyn,2,0,2,122;124,2
+Ruthar,Vamah,2,0,2,124;154,2
+Ruthar,Vathah,2,0,2,122;124,2
+Ruthar,Zahel,2,0,2,110;143,2
+Sadeas,Szeth,2,1,1,2;164,2
+Sadeas,Taravangian,2,1,1,7;164,2
+Sadeas,Valam,2,0,2,118;164,2
+Sebarial,Sigzil,2,0,2,141;142,2
+Sebarial,Teft,2,0,2,130;141,2
+Sebarial,Teleb,2,0,2,170,1
+Sebarial,Vamah,2,0,2,108;124,2
+Sebarial,Yenev,2,0,2,139;141,2
+Sebarial,Zahel,2,0,2,130;141,2
+Shallan,Sigzil,2,0,2,141;176,2
+Shallan,Tarah,2,0,2,155;161,2
+Shallan,Yenev,2,0,2,139;141,2
+Sigzil,Tarah,2,2,0,67;68,2
+Skar,Szeth,2,0,2,174,1
+Skar,Tarah,2,2,0,67;68,2
+Skar,Teleb,2,0,2,167;168,2
+Skar,Wit,2,1,1,68;87,2
+Szeth,Teft,2,0,2,175;176,2
+Talenel,Tien,2,2,0,4;8,2
+Teleb,Thanadal,2,2,0,33,1
+Thanadal,Tyn,2,0,2,108;122,2
+Thanadal,Vathah,2,0,2,108;122,2
+Tyn,Valam,2,0,2,115;118,2
+Tyn,Vamah,2,0,2,108;124,2
+Valam,Wikim,2,0,2,125;148,2
+Vamah,Vathah,2,0,2,108;124,2
+Wit,Zahel,2,0,2,141;170,2

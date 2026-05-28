@@ -9,11 +9,25 @@ from figures.character_graph_figure import (
     get_chapter_marks,
     get_character_options,
 )
+from figures.sentiment_figure import (
+    build_sentiment_figure,
+    # get_chapter_range as get_sentiment_chapter_range,
+    # get_chapter_marks as get_sentiment_chapter_marks,
+    get_pov_options,
+)
+from figures.topic_figure import build_topic_stream_figure
+
 
 # for character graph
 min_pos, max_pos = get_chapter_range()
 chapter_marks = get_chapter_marks()
 character_options = get_character_options()
+
+# for sentiment graph
+# Smin_pos, Smax_pos = get_sentiment_chapter_range()
+# Schapter_marks = get_sentiment_chapter_marks()
+Scharacter_options = get_pov_options()
+
 
 app = Dash(__name__, suppress_callback_exceptions=True) # some components are created dynamically 
 
@@ -75,6 +89,10 @@ app.layout = html.Div(
                                 )
                             ]),
                             dcc.Tab(label="graph3", value='tab3', children=[
+                                dcc.Graph( id='sentiment_graph',
+                                        figure=build_sentiment_figure()),
+                            ]),
+                            dcc.Tab(label="graph4", value='tab4', children=[
                                 html.P('info about graph'),
                                 dcc.Graph(),
                             ]),
@@ -101,31 +119,39 @@ def update_sidebar(active_tab):
         return [
             html.H5("POV Character"),
             dcc.Dropdown(
-                                id="character-dropdown",
-                                options=[
-                                    {"label": pov, "value": pov}
-                                    for pov in top_povs
-                                ],
-                                placeholder="All POVs",
-                                clearable=True,
+                id="character-dropdown",
+                options=[
+                    {"label": pov, "value": pov}
+                    for pov in top_povs
+                ],
+                placeholder="All POVs",
+                clearable=True,
                         ),
         ]
     elif active_tab == 'tab2':
         return [
-            # html.H5("Highlight Character"),
-            # dcc.Dropdown(id="char-highlight"),
-            # html.H5("Chapter Range"),
-            # dcc.RangeSlider(id="chapter-range")
             html.H5("Highlight Character"),
             dcc.Dropdown(
-            id="char-highlight",
-            options=character_options,
-            value="__all__",
-            clearable=False
+                id="char-highlight",
+                options=character_options,
+                value="__all__",
+                clearable=False
             ),
         ]
     elif active_tab == 'tab3':
-        return []  # fill in later
+        return [
+            html.H5("POV Character"),
+            dcc.Dropdown(
+                id="Scharacter-dropdown",
+                options=Scharacter_options,
+                value="__all__",
+                clearable=False
+            )
+        ]  # fill in later
+    elif active_tab == 'tab4':
+        return [
+            html.P("MATT EXPLAIN THE TOPIC HERE PLEASE")
+        ]
 
 
 
@@ -159,6 +185,14 @@ def update_character_graph(rng, highlight, click_data, prev_selection):
     )
     return fig, selected
 
+# ------- SENTIMENT GRAPH -------- #
+@app.callback(
+    Output("sentiment_graph", "figure"),
+    Input("Scharacter-dropdown", "value"),
+    prevent_initial_call=True
+)
+def update_sentiment_graph(highlight):
+    return build_sentiment_figure(highlight=highlight)
 
 if __name__ == '__main__':
     app.run(debug=True)

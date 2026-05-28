@@ -72,7 +72,7 @@ import plotly.graph_objects as go
 import plotly.colors as pcol
 from plotly.subplots import make_subplots
 
-DEFAULT_CSV_DIR = Path(__file__).resolve().parent.parent / "csv_data"
+DEFAULT_CSV_DIR = Path(__file__).resolve().parent.parent / "figures" /"csv_data"
 ALL_VALUE = "__all__"
 
 # Pastel band colors for the 5 Parts (matches the notebook + character graph palette)

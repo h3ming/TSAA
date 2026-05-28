@@ -124,7 +124,9 @@ def update_sidebar(active_tab):
                 ],
                 placeholder="All POVs",
                 clearable=True,
-                        ),
+            ), #TODO
+            html.H3("PCA Graph"),
+            html.P("MATT EXPLAIN HERE there are a lot of words im just testing this out for styling purposes"),
         ]
     elif active_tab == 'tab2':
         return [
@@ -134,7 +136,9 @@ def update_sidebar(active_tab):
                 options=character_options,
                 value="__all__",
                 clearable=False
-            ),
+            ), #TODO
+            html.H3("Character graph"),
+            html.P("MATT EXPLIAN HERE")
         ]
     elif active_tab == 'tab3':
         return [
@@ -144,10 +148,13 @@ def update_sidebar(active_tab):
                 options=Scharacter_options,
                 value="__all__",
                 clearable=False
-            )
+            ), #TODO
+            html.H3("Sentiment"),
+            html.P("MATT EXPLIAN HERE")
         ]  # fill in later
     elif active_tab == 'tab4':
         return [ #TODO 
+            html.H3("Topics"),
             html.P("MATT EXPLAIN THE TOPIC HERE PLEASE")
         ]
 

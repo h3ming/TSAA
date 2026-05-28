@@ -190,6 +190,19 @@ def build_sentiment_figure(
     qual = pcol.qualitative.D3
     pov_color = {p: qual[i % len(qual)] for i, p in enumerate(top_povs)}
 
+    color_map = {
+      "Kaladin": "#43a2fa",
+    "Shallan" :"#de5410",
+    "Dalinar":"#444c57",
+    "Adolin":"#1318a4",
+    "Dalinar/Adolin":"#2A2A62",
+    "Szeth":"#ebe1c3",
+    "Eshonai":"#bd0000",
+    "Rysn":"#bfbfbf"
+}
+
+    color_map["Other"] = "#bfbfbf"
+
     fig = make_subplots(
         rows=2, cols=1,
         shared_yaxes=True,
@@ -321,12 +334,15 @@ def build_sentiment_figure(
         title += f" · highlighting {highlight}"
 
     fig.update_layout(
-        title=dict(text=title, font=dict(size=14)),
-        height=820, width=1200,
-        plot_bgcolor="white",
+        title=dict(text=title, font=dict(size=35)),
+        plot_bgcolor="#FCF8EC",
+        paper_bgcolor ="#F8C63E",
+        height=820, 
         hovermode="closest",
         legend=dict(font=dict(size=10), groupclick="toggleitem"),
         margin=dict(t=80, r=20, b=50, l=60),
+        font_family="Times New Roman",
+        font_color="#040435",
     )
     fig.update_yaxes(
         range=[-0.4, 0.4],

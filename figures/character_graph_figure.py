@@ -378,6 +378,7 @@ def build_character_graph_figure(
             size=sizes,
             color=nodes_in["color_hex"],
             line=dict(color=line_colors, width=line_widths),
+            opacity=1
         ),
         customdata=nodes_in[[
             "character", "mentions", "community",
@@ -425,14 +426,22 @@ def build_character_graph_figure(
         ))
 
     fig.update_layout(
-        title=dict(text=title, font=dict(size=14)),
+        title=dict(text=title, font=dict(
+                    size=25)),
+        font_family="Times New Roman",
         xaxis=dict(visible=False),
         yaxis=dict(visible=False, scaleanchor="x", scaleratio=1),
-        plot_bgcolor="white",
+        plot_bgcolor="#FCF8EC",
+        paper_bgcolor ="#F8C63E",
+        height=750,
         margin=dict(t=60, r=20, b=20, l=20),
         hovermode="closest",
         showlegend=False,
         annotations=annotations,
         clickmode="event+select",
     )
+
+    fig.update_xaxes(range=[-0.5, 0.5])
+
+    fig.update_yaxes(range=[-0.25, 0.25])
     return fig

@@ -74,7 +74,7 @@ layout = html.Div(
                                     max=max_pos,
                                     value=[min_pos, max_pos],
                                     marks=chapter_marks,
-                                    step=100,
+                                    step=1,
                                     allowCross=False
                                 )
                             ]),
@@ -105,7 +105,7 @@ layout = html.Div(
 def update_sidebar(active_tab):
     if active_tab == 'tab1':
         return [
-            html.H5("POV Character"),
+            html.H3("POV Character"),
             dcc.Dropdown(
                 id="character-dropdown",
                 options=[
@@ -120,7 +120,7 @@ def update_sidebar(active_tab):
         ]
     elif active_tab == 'tab2':
         return [
-            html.H5("Highlight Character"),
+            html.H3("Highlight Character"),
             dcc.Dropdown(
                 id="char-highlight",
                 options=character_options,
@@ -132,7 +132,7 @@ def update_sidebar(active_tab):
         ]
     elif active_tab == 'tab3':
         return [
-            html.H5("POV Character"),
+            html.H3("POV Character"),
             dcc.Dropdown(
                 id="Scharacter-dropdown",
                 options=Scharacter_options,

@@ -322,12 +322,15 @@ def build_topic_stream_figure(
         title += f" · highlighting {hl_label}"
 
     fig.update_layout(
-        title=dict(text=title, font=dict(size=14)),
+        title=dict(text=title, font=dict(size=35)),
+        font_color="#040435",
+        font_family="Times New Roman",
         width=None, height=620,
-        plot_bgcolor="white",
         hovermode="closest",
         legend=dict(font=dict(size=10), traceorder="reversed"),
         margin=dict(t=60, r=20, b=50, l=60),
+        plot_bgcolor="#FCF8EC",
+        paper_bgcolor ="#F8C63E",
     )
     fig.update_xaxes(
         title="Narrative position",

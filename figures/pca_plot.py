@@ -38,7 +38,7 @@ color_map["Other"] = "#bfbfbf"
 
 book_marker = {
     "The Way of Kings": "circle",
-    "Words of Radiance": "square",
+    "Words of Radiance": "diamond",
 }
 
 
@@ -143,22 +143,35 @@ def make_pca_figure(selected_pov=None):
 
     # ── Layout ──────────────────────────────────────────────────────────
     fig.update_layout(
-        title="Stormlight Chapters — PCA Stylometry",
-        plot_bgcolor="white",
+        title=dict(
+                text="PCA Stylometry by Chapter POV",
+                font=dict(
+                    size = 35
+                )
+
+        ),
+        
+        plot_bgcolor="#FCF8EC",
+        paper_bgcolor ="#F8C63E",
         hovermode="closest",
         height=750,
         xaxis=dict(
             title=f"PC1 ({meta['pc1_variance']:.1%} variance)",
             zeroline=True,
-            zerolinecolor="lightgrey",
-            gridcolor="whitesmoke",
+            zerolinecolor="#E9D599",
+            gridcolor="#FCF8EC",
         ),
         yaxis=dict(
             title=f"PC2 ({meta['pc2_variance']:.1%} variance)",
             zeroline=True,
-            zerolinecolor="lightgrey",
-            gridcolor="whitesmoke",
+            zerolinecolor="#E9D599",
+            gridcolor="#FCF8EC",
         ),
+        font_family="Times New Roman",
+        font_color="#040435",
+        title_font_color="#040435",
+        
+
     )
 
     return fig

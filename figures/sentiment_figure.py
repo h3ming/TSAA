@@ -188,7 +188,6 @@ def build_sentiment_figure(
 
     # Palette — share with the rest of the app via plotly's D3 qualitative scheme
     qual = pcol.qualitative.D3
-    pov_color = {p: qual[i % len(qual)] for i, p in enumerate(top_povs)}
 
     color_map = {
       "Kaladin": "#43a2fa",
@@ -201,7 +200,8 @@ def build_sentiment_figure(
     "Rysn":"#bfbfbf"
 }
 
-    color_map["Other"] = "#bfbfbf"
+    #color_map["Other"] = "#bfbfbf"
+    pov_color = color_map
 
     fig = make_subplots(
         rows=2, cols=1,
@@ -296,7 +296,7 @@ def build_sentiment_figure(
             if len(pov_ch) < 2:
                 continue
             is_focus = (highlight is None) or (pov == highlight)
-            color = pov_color[pov] if is_focus else "#d0d0d0"
+            color = pov_color[pov] if is_focus else "#bfbfbf"
             width = 3.0 if (highlight and pov == highlight) else 1.7
             opacity = 1.0 if is_focus else 0.40
 

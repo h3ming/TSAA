@@ -1,6 +1,7 @@
 from dash import Dash, html, dcc, Input, Output, State, ctx
 import plotly.graph_objects as go
 import plotly.express as px
+
 from figures.pca_plot import make_pca_figure, top_povs
 from figures.character_graph_figure import (
     build_character_graph_figure,
@@ -24,7 +25,15 @@ app.layout = html.Div(
     children=[
         # HEADER
         html.Header(
-            html.H1("Stormlight Archive Archive")
+            children=[
+            html.H1("Stormlight Archive Archive"),
+            html.Img(src=app.get_asset_url('Kaladin.png')),
+            html.Img(src=app.get_asset_url('Shallan.png')),
+            html.Img(src=app.get_asset_url('Dalinar.png')),
+            html.Img(src=app.get_asset_url('Adolin.png')),
+            html.Img(src=app.get_asset_url('Eshonai.png')),
+            html.Img(src=app.get_asset_url('Szeth.png')),
+            ]
         ),
         # NAV
         html.Nav(

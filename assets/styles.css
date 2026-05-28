@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
 header {
-    padding: 12px 24px;
+    display: flex;
+    padding: 12px 12px;
     background-color: rgb(29, 40, 100);
     font-family: 'Jim Nightshade', serif;
-    font-size: larger;
+    font-size: x-large;
     color: #e8cd00;
 }
 
@@ -27,7 +28,8 @@ nav {
     border-right: 1px solid #ddd;
     background-color: rgb(29, 40, 100);
     font-family: 'Jim Nightshade', serif;
-    font-size: ;
+    font-size:24px ;
+    
 }
 
 .main-content {
@@ -35,4 +37,9 @@ nav {
 }
 .main-content p {
     padding: 20px;
+}
+
+img{
+    height: 150px;
+    padding-left: 24px;
 }

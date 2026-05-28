@@ -73,7 +73,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.colors as pcol
 
-DEFAULT_CSV_DIR = Path(__file__).resolve().parent.parent / "csv_data"
+DEFAULT_CSV_DIR = Path(__file__).resolve().parent.parent / "figures" / "csv_data"
 ALL_VALUE = "__all__"
 
 

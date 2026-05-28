@@ -46,11 +46,16 @@ img{
 
 .about-container {
     padding: 2em;
-    background-color: #e8cd00;
+    background-color: #ffe83d;
     height: 100vh;
+    color:rgb(29, 40, 100);
 }
 
 .range-slider {
     width: 100%;
     margin-bottom: 20px;
+}
+
+A{
+     color: #e8cd00;
 }

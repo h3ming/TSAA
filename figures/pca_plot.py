@@ -170,6 +170,7 @@ def make_pca_figure(selected_pov=None):
         font_family="Times New Roman",
         font_color="#040435",
         title_font_color="#040435",
+        title_x=0.5,
         
 
     )

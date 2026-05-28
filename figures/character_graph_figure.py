@@ -439,6 +439,7 @@ def build_character_graph_figure(
         showlegend=False,
         annotations=annotations,
         clickmode="event+select",
+        title_x=0.5,
     )
 
     fig.update_xaxes(range=[-0.5, 0.5])

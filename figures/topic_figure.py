@@ -331,6 +331,7 @@ def build_topic_stream_figure(
         margin=dict(t=60, r=20, b=50, l=60),
         plot_bgcolor="#FCF8EC",
         paper_bgcolor ="#F8C63E",
+        title_x=0.5,
     )
     fig.update_xaxes(
         title="Chapter",

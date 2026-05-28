@@ -13,16 +13,27 @@ from figures.character_graph_figure import (
 )
 from figures.sentiment_figure import (
     build_sentiment_figure,
-    # get_chapter_range as get_sentiment_chapter_range,
-    # get_chapter_marks as get_sentiment_chapter_marks,
     get_pov_options,
 )
+from figures.sentiment_figure import _load_data as _load_sentiment_data, DEFAULT_CSV_DIR as SENTIMENT_CSV_DIR
 from figures.topic_figure import build_topic_stream_figure, get_topic_options
+from pathlib import Path
+
+# Build part marks from sentiment CSV
+_ch, _ = _load_sentiment_data(str(Path(SENTIMENT_CSV_DIR).resolve()))
+part_marks = {}
+for book_short in ['WoK', 'WoR']:
+    book_chs = _ch[_ch['book_short'] == book_short]
+    for part in range(1, 6):
+        part_chs = book_chs[book_chs['part_number'] == part]
+        if not part_chs.empty:
+            pos = int(part_chs['narr_pos'].min())
+            part_marks[pos] = f"{book_short} P{part}"
 
 
 # for character graph
 min_pos, max_pos = get_chapter_range()
-chapter_marks = get_chapter_marks()
+chapter_marks = get_chapter_marks(step=50) #set step=50 to fix overcrowding on the timeline
 character_options = get_character_options()
 
 # for sentiment graph
@@ -50,9 +61,7 @@ layout = html.Div(
                 html.Div(
                     className="sidebar",
                     id="sidebar",
-                    children=[ 
-                        # filter stuff here
-                    ]
+                    children=[]
                 ),
                 # MAIN CONTENT 
                 html.Main(
@@ -63,28 +72,41 @@ layout = html.Div(
                             dcc.Tab(label="PCA Stylometry", value='tab1', children=[
                                 dcc.Graph(id='pca_graph',
                                           figure=make_pca_figure()),
+                                          #TODO matt if there isn't enough space on the side bar 
+                                          # you can also write the main description down here and maybe put interesting things to look at
+                                          # on the side bar instead. 
+                                          html.P("this is an example of some text that can be here. I'm going to put a lot to check the overfill" \
+                                          "no seriousaly i need a ton of text here to check this so let's keep going to see what happens this can be deleted later with no repercussions at all " \
+                                          "OKAY so it looks pretty good, and you can write down here as well and keep this styling so the lines aren't so close together", style={"lineHeight": "1.5"}),
                             ]),
                             dcc.Tab(label="Character Interactions", value='tab2', children=[
                                 dcc.Graph(id='character_graph',
                                           figure=build_character_graph_figure()),
-                                html.H5("Chapter Range"),
+                                html.H5("Chapter Range", style={"text-align": "center"}),
                                 dcc.RangeSlider(
                                     id="chapter-range",
                                     min=min_pos,
                                     max=max_pos,
                                     value=[min_pos, max_pos],
-                                    marks=chapter_marks,
+                                    marks=part_marks,
                                     step=1,
-                                    allowCross=False
-                                )
+                                    allowCross=False,
+                                ),
+                                #TODO similar case here
+                                html.Hr(),
+                                html.P("text here")
                             ]),
                             dcc.Tab(label="Sentiment Analysis", value='tab3', children=[
                                 dcc.Graph( id='sentiment_graph',
                                         figure=build_sentiment_figure()),
+                                #TODO here
+                                html.P('text here')
                             ]),
                             dcc.Tab(label="Topics over Time", value='tab4', children=[
                                 dcc.Graph(id='topics_graph',
                                           figure=build_topic_stream_figure()),
+                                #TODO here
+                                html.P('text can be here')
                             ]),
                         ]),
                     ]
@@ -144,6 +166,12 @@ def update_sidebar(active_tab):
         ]  # fill in later
     elif active_tab == 'tab4':
         return [ #TODO 
+            html.H5("Display Options"),
+            dcc.Checklist(
+                id="topic-display-options",
+                options=[{"label": " Show book parts", "value": "show_parts"}],
+                value=["show_parts"]
+            ),
             html.H3("Topics"),
             html.P("MATT EXPLAIN THE TOPIC HERE PLEASE")
         ]
@@ -191,3 +219,39 @@ def update_sentiment_graph(highlight):
 
 
 # ---------- TOPICS GRAPH ---------- #
+# checkbox that shows the part lines and doesn't redraw the entire graph each time it is clicked
+@dash.callback(
+    Output("topics_graph", "figure"),
+    Input("topic-display-options", "value"),
+    State("topics_graph", "figure"),
+)
+def update_topics_graph(display_options, current_figure):
+    if current_figure is None:
+        fig = build_topic_stream_figure()
+    else:
+        fig = go.Figure(current_figure)
+        
+        # remove only part line shapes, keep WoR line
+        part_positions = set(part_marks.keys())
+        fig.layout.shapes = [
+            s for s in (fig.layout.shapes or [])
+            if getattr(s, 'x0', None) not in part_positions
+        ]
+        
+        # remove only part annotations, keep WoR annotation
+        fig.layout.annotations = [
+            a for a in (fig.layout.annotations or [])
+            if not any(p in str(getattr(a, 'text', '')) for p in ['WoK P', 'WoR P'])
+        ]
+
+    if "show_parts" in (display_options or []):
+        for pos, label in part_marks.items():
+            fig.add_vline(
+                x=pos,
+                line=dict(color="#888", dash="dot", width=1),
+                annotation_text=label,
+                annotation_position="top",
+                annotation_font=dict(size=10, color="#555")
+            )
+    
+    return fig

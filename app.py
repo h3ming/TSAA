@@ -24,7 +24,7 @@ app.layout = html.Div(
             id="navigation-bar",
             children=[
                 html.A("Home", href="/"),
-                html.A("About", href="/about"),  # TODO make+link about page; dash might do this oddly
+                html.A("About", href="/about"), 
             ]
         ),
         dash.page_container

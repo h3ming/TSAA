@@ -43,3 +43,14 @@ img{
     height: 150px;
     padding-left: 24px;
 }
+
+.about-container {
+    padding: 2em;
+    background-color: #e8cd00;
+    height: 100vh;
+}
+
+.range-slider {
+    width: 100%;
+    margin-bottom: 20px;
+}

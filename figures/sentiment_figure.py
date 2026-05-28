@@ -343,6 +343,7 @@ def build_sentiment_figure(
         margin=dict(t=80, r=20, b=50, l=60),
         font_family="Times New Roman",
         font_color="#040435",
+        title_x=0.5,
     )
     fig.update_yaxes(
         range=[-0.4, 0.4],

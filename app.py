@@ -4,6 +4,8 @@ import plotly.graph_objects as go
 
 app = Dash(__name__, suppress_callback_exceptions=True, use_pages=True)
 
+server = app.server 
+
 app.layout = html.Div(
     className="app-shell",
     children=[

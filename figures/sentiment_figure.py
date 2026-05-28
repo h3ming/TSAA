@@ -329,7 +329,7 @@ def build_sentiment_figure(
     }
     s_label = label_at.get(s, f"#{s}")
     e_label = label_at.get(e, f"#{e}")
-    title = f"Sentiment trajectory · {s_label} → {e_label}"
+    title = f"Sentiment Trajectory · {s_label} → {e_label}"
     if highlight:
         title += f" · highlighting {highlight}"
 

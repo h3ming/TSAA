@@ -13,12 +13,12 @@ app.layout = html.Div(
         html.Header(
             children=[
             html.H1("Stormlight Archive Archive"),
-            html.Img(src=app.get_asset_url('Kaladin.png')),
-            html.Img(src=app.get_asset_url('Shallan.png')),
-            html.Img(src=app.get_asset_url('Dalinar.png')),
-            html.Img(src=app.get_asset_url('Adolin.png')),
-            html.Img(src=app.get_asset_url('Eshonai.png')),
-            html.Img(src=app.get_asset_url('Szeth.png')),
+            html.Img(src=app.get_asset_url('Kaladin.png'), title="Kaladin"),
+            html.Img(src=app.get_asset_url('Shallan.png'),title="Shallan"),
+            html.Img(src=app.get_asset_url('Dalinar.png'),title="Dalinar"),
+            html.Img(src=app.get_asset_url('Adolin.png'),title="Adolin"),
+            html.Img(src=app.get_asset_url('Eshonai.png'),title="Eshonai"),
+            html.Img(src=app.get_asset_url('Szeth.png'),title="Szeth"),
             ]
         ),
         # NAV

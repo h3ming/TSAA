@@ -316,7 +316,7 @@ def build_topic_stream_figure(
     # Title
     s_label = label_at.get(s, f"#{s}")
     e_label = label_at.get(e, f"#{e}")
-    title = f"Topic flow · {s_label} → {e_label}"
+    title = f"Topic Flow · {s_label} → {e_label}"
     if highlight is not None:
         hl_label = label_lookup.get(highlight, f"Topic {highlight}")
         title += f" · highlighting {hl_label}"

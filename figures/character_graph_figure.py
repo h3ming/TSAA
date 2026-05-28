@@ -399,7 +399,7 @@ def build_character_graph_figure(
     label_at = dict(zip(chs["narr_pos"], chs["label"]))
     s_label = label_at.get(s, f"#{s}")
     e_label = label_at.get(e, f"#{e}")
-    title = f"Character interactions · {s_label} → {e_label}"
+    title = f"Character Interactions · {s_label} → {e_label}"
     if highlight:
         title += f" · ego network of {highlight}"
     title += f"  ·  n={len(nodes_in)} chars, m={len(edges_in)} edges"

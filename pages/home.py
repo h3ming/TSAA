@@ -75,9 +75,7 @@ layout = html.Div(
                                           #TODO matt if there isn't enough space on the side bar 
                                           # you can also write the main description down here and maybe put interesting things to look at
                                           # on the side bar instead. 
-                                          html.P("this is an example of some text that can be here. I'm going to put a lot to check the overfill" \
-                                          "no seriousaly i need a ton of text here to check this so let's keep going to see what happens this can be deleted later with no repercussions at all " \
-                                          "OKAY so it looks pretty good, and you can write down here as well and keep this styling so the lines aren't so close together", style={"lineHeight": "1.5"}),
+                                          html.P("", style={"lineHeight": "1.5"}),
                             ]),
                             dcc.Tab(label="Character Interactions", value='tab2', children=[
                                 dcc.Graph(id='character_graph',
@@ -94,19 +92,19 @@ layout = html.Div(
                                 ),
                                 #TODO similar case here
                                 html.Hr(),
-                                html.P("text here")
+                                html.P("")
                             ]),
                             dcc.Tab(label="Sentiment Analysis", value='tab3', children=[
                                 dcc.Graph( id='sentiment_graph',
                                         figure=build_sentiment_figure()),
                                 #TODO here
-                                html.P('text here')
+                                html.P('')
                             ]),
                             dcc.Tab(label="Topics over Time", value='tab4', children=[
                                 dcc.Graph(id='topics_graph',
                                           figure=build_topic_stream_figure()),
                                 #TODO here
-                                html.P('text can be here')
+                                html.P('')
                             ]),
                         ]),
                     ]
@@ -138,7 +136,7 @@ def update_sidebar(active_tab):
                 clearable=True,
             ), #TODO
             html.H3("PCA Graph"),
-            html.P("MATT EXPLAIN HERE there are a lot of words im just testing this out for styling purposes"),
+            html.P("This stylometric analysis tracks the ways that Sanderson’s prose shifts between chapters. Each chapter is represented by a dot in the graph, colored by the primary point of view character of that chapter. To see more information about a specific dot, mouse over it! For a detailed explanation of the analytical process, please refer to the “about” page."),
         ]
     elif active_tab == 'tab2':
         return [
@@ -150,7 +148,7 @@ def update_sidebar(active_tab):
                 clearable=False
             ), #TODO
             html.H3("Character graph"),
-            html.P("MATT EXPLIAN HERE")
+            html.P("This character interaction graph tracks which characters interact with who. Whenever two characters' names are used in the same chapter, it is logged as an interaction! To see a given character's most common interactions, click on their dot! Feel free to adjust the timeline to see how communities evolve across the two books. For a detailed explanation of the analytical process, please refer to the “about” page.")
         ]
     elif active_tab == 'tab3':
         return [
@@ -162,7 +160,7 @@ def update_sidebar(active_tab):
                 clearable=False
             ), #TODO
             html.H3("Sentiment"),
-            html.P("MATT EXPLIAN HERE")
+            html.P("This sentiment analysis chart tracks the usage of words that carry positive or negative sentiment. If a chapter has positive sentiment, it is given a positive value. Negative sentiment gets a negative value. The black lines track the average sentiment regardless of PoV character. Take a look at how the sentiment arcs of the two books compare to each other! For a detailed explanation of the analytical process, please refer to the “about” page.")
         ]  # fill in later
     elif active_tab == 'tab4':
         return [ #TODO 
@@ -173,7 +171,7 @@ def update_sidebar(active_tab):
                 value=["show_parts"]
             ),
             html.H3("Topics"),
-            html.P("MATT EXPLAIN THE TOPIC HERE PLEASE")
+            html.P("This topic ribon chart shows the listed topics prevelance at given points in the books. You can see how some topics commonly go together, how some are introduced later in the books, and how some fade away. For a detailed explanation of the analytical process, please refer to the “about” page.")
         ]
 
 

@@ -333,7 +333,7 @@ def build_topic_stream_figure(
         paper_bgcolor ="#F8C63E",
     )
     fig.update_xaxes(
-        title="Narrative position",
+        title="Chapter",
         range=[s, e], gridcolor="#eee",
     )
     fig.update_yaxes(

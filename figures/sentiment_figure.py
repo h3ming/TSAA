@@ -351,7 +351,7 @@ def build_sentiment_figure(
         gridcolor="#eee",
     )
     fig.update_xaxes(
-        title="Section order within book",
+        title="Chapter",
         gridcolor="#eee",
     )
 

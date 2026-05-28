@@ -15,7 +15,7 @@ from figures.sentiment_figure import (
     # get_chapter_marks as get_sentiment_chapter_marks,
     get_pov_options,
 )
-from figures.topic_figure import build_topic_stream_figure
+from figures.topic_figure import build_topic_stream_figure, get_topic_options
 
 
 # for character graph
@@ -27,6 +27,8 @@ character_options = get_character_options()
 # Smin_pos, Smax_pos = get_sentiment_chapter_range()
 # Schapter_marks = get_sentiment_chapter_marks()
 Scharacter_options = get_pov_options()
+
+topic_options = get_topic_options()
 
 
 app = Dash(__name__, suppress_callback_exceptions=True) # some components are created dynamically 
@@ -68,13 +70,11 @@ app.layout = html.Div(
                     children=[
                         # graph stuff here
                         dcc.Tabs(id='tabs', value='tab1', children=[
-                            dcc.Tab(label="graph1", value='tab1', children=[
-                                html.P('pca graph'),
+                            dcc.Tab(label="PCA Stylometry", value='tab1', children=[
                                 dcc.Graph(id='pca_graph',
                                           figure=make_pca_figure()),
                             ]),
-                            dcc.Tab(label="graph2", value='tab2', children=[
-                                html.P('info about graph'),
+                            dcc.Tab(label="Character Interactions", value='tab2', children=[
                                 dcc.Graph(id='character_graph',
                                           figure=build_character_graph_figure()),
                                 html.H5("Chapter Range"),
@@ -88,13 +88,13 @@ app.layout = html.Div(
                                     allowCross=False
                                 )
                             ]),
-                            dcc.Tab(label="graph3", value='tab3', children=[
+                            dcc.Tab(label="Sentiment Analysis", value='tab3', children=[
                                 dcc.Graph( id='sentiment_graph',
                                         figure=build_sentiment_figure()),
                             ]),
-                            dcc.Tab(label="graph4", value='tab4', children=[
-                                html.P('info about graph'),
-                                dcc.Graph(),
+                            dcc.Tab(label="Topics over Time", value='tab4', children=[
+                                dcc.Graph(id='topics_graph',
+                                          figure=build_topic_stream_figure()),
                             ]),
                         ]),
                     ]
@@ -103,8 +103,6 @@ app.layout = html.Div(
         ),
     ]
 )
-
-#TODO: callbacks and figs, update_tab function once we have our figs
 
 # ---- Sidebar ------ #
 # dynamic depending on which tab is selected
@@ -149,7 +147,7 @@ def update_sidebar(active_tab):
             )
         ]  # fill in later
     elif active_tab == 'tab4':
-        return [
+        return [ #TODO 
             html.P("MATT EXPLAIN THE TOPIC HERE PLEASE")
         ]
 
@@ -193,6 +191,9 @@ def update_character_graph(rng, highlight, click_data, prev_selection):
 )
 def update_sentiment_graph(highlight):
     return build_sentiment_figure(highlight=highlight)
+
+
+# ---------- TOPICS GRAPH ---------- #
 
 if __name__ == '__main__':
     app.run(debug=True)
